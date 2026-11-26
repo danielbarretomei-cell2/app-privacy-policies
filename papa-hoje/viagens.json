@@ -1,0 +1,2790 @@
+{
+ "versao": 1,
+ "geradoEm": "2026-11-26T22:43:46.038Z",
+ "fonte": "vatican.va",
+ "viagens": [
+  {
+   "id": "v-2026-11-06",
+   "tipo": "apostolica",
+   "inicio": "2026-11-06",
+   "fim": "2026-11-17",
+   "titulo": {
+    "pt": "ao Uruguai, à Argentina e ao Peru",
+    "es": "a Uruguay, Argentina y Perú",
+    "en": "to Uruguay, Argentina and Peru"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/6/viaggio-uruguay-argentina-peru.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/6/viaggio-uruguay-argentina-peru.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/6/viaggio-uruguay-argentina-peru.html"
+   },
+   "compromissos": [
+    {
+     "data": "2026-11-06",
+     "pais": {
+      "pt": "Uruguai",
+      "es": "Uruguay",
+      "en": "Uruguay"
+     },
+     "titulo": {
+      "pt": "Celebração das Vésperas com os Bispos, os Sacerdotes, os Diáconos, os Religiosos, as Religiosas e os Seminaristas",
+      "es": "Celebración de las Vísperas con los obispos, los sacerdotes, los diáconos, los religiosos, las religiosas y los seminaristas",
+      "en": "Celebration of Vespers with the Bishops, Priests, Deacons, Men and Women Religious, and Seminarians"
+     },
+     "local": {
+      "pt": "Catedral Metropolitana da Imaculada Conceição e dos Santos Filipe e Tiago (Montevidéu) (hora local)",
+      "es": "Catedral Metropolitana de la Inmaculada Concepción y de los Santos Felipe y Santiago (Montevideo) h. (hora local)",
+      "en": "Metropolitan Cathedral of the Immaculate Conception and Saints Philip and James (Montevideo) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-06",
+     "pais": {
+      "pt": "Uruguai",
+      "es": "Uruguay",
+      "en": "Uruguay"
+     },
+     "titulo": {
+      "pt": "Encontro com as Autoridades, a Sociedade Civil e o Corpo Diplomático",
+      "es": "Encuentro con las autoridades, la sociedad civil y el cuerpo diplomático",
+      "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
+     },
+     "local": {
+      "pt": "«Plaza Independencia» (Montevidéu) (hora local)",
+      "es": "Plaza Independencia (Montevideo) h (hora local)",
+      "en": "“Plaza Independencia” (Montevideo) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-06",
+     "pais": {
+      "pt": null,
+      "es": null,
+      "en": null
+     },
+     "titulo": {
+      "pt": "Palavras do Santo Padre aos jornalistas durante o voo com destino a Montevidéu",
+      "es": "Palabras del Santo Padre a los periodistas durante el vuelo con destino a Montevideo",
+      "en": "Words of the Holy Father to journalists during the flight to Montevideo"
+     },
+     "local": {
+      "pt": null,
+      "es": "Vuelo papal",
+      "en": "Papal Flight"
+     }
+    },
+    {
+     "data": "2026-11-07",
+     "pais": {
+      "pt": "Uruguai",
+      "es": "Uruguay",
+      "en": "Uruguay"
+     },
+     "titulo": {
+      "pt": "Vigília de Oração",
+      "es": "Vigilia de oración",
+      "en": "Prayer vigil at the Estadio Centenario"
+     },
+     "local": {
+      "pt": "Estádio Centenario (Montevidéu) (hora local)",
+      "es": "Estadio Centenario (Montevideo) h. (hora local)",
+      "en": "Estadio Centenario (Montevideo) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-07",
+     "pais": {
+      "pt": "Uruguai",
+      "es": "Uruguay",
+      "en": "Uruguay"
+     },
+     "titulo": {
+      "pt": "Encontro com o Mundo da Educação",
+      "es": "Encuentro con el mundo de la educación",
+      "en": "Meeting with the world of education at the Catholic University of Uruguay"
+     },
+     "local": {
+      "pt": "Universidade Católica do Uruguai (Montevidéu) (hora local)",
+      "es": "Universidad Católica de Uruguay (Montevideo) h. (hora local)",
+      "en": "Catholic University of Uruguay (Montevideo) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-07",
+     "pais": {
+      "pt": "Uruguai",
+      "es": "Uruguay",
+      "en": "Uruguay"
+     },
+     "titulo": {
+      "pt": "Encontro com a realidade social de Casavalle",
+      "es": "Encuentro con la realidad social de Casavalle",
+      "en": "Meeting with the social community of Casavalle at the parish of Our Lady of Guadalupe"
+     },
+     "local": {
+      "pt": "Paróquia de Nossa Senhora de Guadalupe (Montevidéu) (hora local)",
+      "es": "Parroquia de Nuestra Señora de Guadalupe (Montevideo) h. (hora local)",
+      "en": "Parish of Our Lady of Guadalupe (Montevideo) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-07",
+     "pais": {
+      "pt": "Uruguai",
+      "es": "Uruguay",
+      "en": "Uruguay"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa",
+      "en": "Holy Mass at “Parque París Londres”"
+     },
+     "local": {
+      "pt": "«Parque París Londres» (Paysandú) (hora local)",
+      "es": "“Parque París Londres” (Paysandú) h. (hora local)",
+      "en": "“Parque París Londres” (Paysandú) a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-08",
+     "pais": {
+      "pt": "Argentina",
+      "es": "Argentina",
+      "en": "Argentina"
+     },
+     "titulo": {
+      "pt": "Encontro com as Autoridades, a Sociedade Civil e o Corpo Diplomático",
+      "es": "Encuentro con las autoridades, la sociedad civil y el cuerpo diplomático",
+      "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
+     },
+     "local": {
+      "pt": "«Palacio Libertad, Centro Cultural Domingo Faustino Sarmiento» (Buenos Aires) (hora local)",
+      "es": "Palacio Libertad, Centro Cultural Domingo Faustino Sarmiento (Buenos Aires) h. (hora local)",
+      "en": "“Palacio Libertad, Centro Cultural Domingo Faustino Sarmiento” (Buenos Aires) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-08",
+     "pais": {
+      "pt": "Uruguai",
+      "es": "Uruguay",
+      "en": "Uruguay"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Praça em frente à Catedral-Basílica de Florida, Santuário Nacional da Virgem dos Trinta e Três (Florida) (hora local)",
+      "es": "Plaza frente a la Catedral Basílica de Florida, Santuario Nacional de la Virgen de los Treinta y Tres (Florida) h. (hora local)",
+      "en": "Square in front of the Cathedral Basilica of Florida, National Shrine of Our Lady of the Thirty-Three (Florida) a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-09",
+     "pais": {
+      "pt": "Argentina",
+      "es": "Argentina",
+      "en": "Argentina"
+     },
+     "titulo": {
+      "pt": "Celebração das Vésperas com o episcopado argentino e as equipas sinodais",
+      "es": "Celebración de las Vísperas con el episcopado argentino y los equipos sinodales",
+      "en": "Celebration of Vespers with the Argentine Episcopate and Synodal Teams"
+     },
+     "local": {
+      "pt": "Catedral Metropolitana da Santíssima Trindade (Buenos Aires) (hora local)",
+      "es": "Catedral Metropolitana de la Santísima Trinidad (Buenos Aires) h. (hora local)",
+      "en": "Metropolitan Cathedral of the Most Holy Trinity (Buenos Aires) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-09",
+     "pais": {
+      "pt": "Argentina",
+      "es": "Argentina",
+      "en": "Argentina"
+     },
+     "titulo": {
+      "pt": "Encontro com os Líderes das comunidades cristãs e das tradições religiosas",
+      "es": "Encuentro con los líderes de las comunidades cristianas y de las tradiciones religiosas",
+      "en": "Meeting with the leaders of Christian communities and religious traditions"
+     },
+     "local": {
+      "pt": "«Palacio San Martín» (Buenos Aires) (hora local)",
+      "es": "“Palacio San Martín” (Buenos Aires) h. (hora local)",
+      "en": "“Palacio San Martín” (Buenos Aires PM (local time)"
+     }
+    },
+    {
+     "data": "2026-11-09",
+     "pais": {
+      "pt": "Argentina",
+      "es": "Argentina",
+      "en": "Argentina"
+     },
+     "titulo": {
+      "pt": "Encontro com o mundo do trabalho",
+      "es": "Encuentro con el mundo laboral",
+      "en": "Meeting with the world of work"
+     },
+     "local": {
+      "pt": "Universidade Católica Argentina (Buenos Aires) (hora local)",
+      "es": "Universidad Católica Argentina (Buenos Aires) h. (hora local)",
+      "en": "Argentine Catholic University (Buenos Aires) PM (local time)"
+     }
+    },
+    {
+     "data": "2026-11-09",
+     "pais": {
+      "pt": "Argentina",
+      "es": "Argentina",
+      "en": "Argentina"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "«Monumento de los Españoles» (Buenos Aires) (hora local)",
+      "es": "Ante el “Monumento de los Españoles” (Buenos Aires) h. (hora local)",
+      "en": "At the “Monumento de los Españoles” (Buenos Aires) a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-09",
+     "pais": {
+      "pt": "Argentina",
+      "es": "Argentina",
+      "en": "Argentina"
+     },
+     "titulo": {
+      "pt": "Visita aos profissionais e aos assistidos do «Pequeño Cottolengo Don Orione de Claypole»",
+      "es": "Visita a los trabajadores y a los asistidos en el «Pequeño Cottolengo Don Orione de Claypole»",
+      "en": "Visit to the Staff and Residents of the “Pequeño Cottolengo Don Orione de Claypole”"
+     },
+     "local": {
+      "pt": "«Pequeño Cottolengo Don Orione de Claypole» (Claypole) (hora local)",
+      "es": "“Pequeño Cottolengo Don Orione de Claypole” (Claypole) h. (hora local)",
+      "en": "“Pequeño Cottolengo Don Orione de Claypole” (Claypole) a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-10",
+     "pais": {
+      "pt": "Argentina",
+      "es": "Argentina",
+      "en": "Argentina"
+     },
+     "titulo": {
+      "pt": "Vigília com os Jovens",
+      "es": "Vigilia con los jóvenes",
+      "en": "Prayer Vigil with Young People"
+     },
+     "local": {
+      "pt": "«Monumento de los Españoles» (Buenos Aires) (hora local)",
+      "es": "En el “Monumento de los Españoles” (Buenos Aires) h. (hora local)",
+      "en": "“Monumento de los Españoles” (Buenos Aires) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-10",
+     "pais": {
+      "pt": "Argentina",
+      "es": "Argentina",
+      "en": "Argentina"
+     },
+     "titulo": {
+      "pt": "Encontro com os bispos, os sacerdotes, os diáconos, os religiosos, as religiosas, os seminaristas e os agentes pastorais",
+      "es": "Encuentro con los obispos, los sacerdotes, los diáconos, los religiosos, las religiosas, los seminaristas y los agentes pastorales",
+      "en": "Meeting with the Bishops, Priests, Deacons, Men and Women Religious, Seminarians and Pastoral Workers"
+     },
+     "local": {
+      "pt": "Catedral de Nossa Senhora da Assunção (Córdoba) (hora local)",
+      "es": "Catedral de Nuestra Señora de la Asunción (Córdoba) h. (hora local)",
+      "en": "Cathedral of Nuestra Señora de la Asunción (Córdoba) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-10",
+     "pais": {
+      "pt": "Argentina",
+      "es": "Argentina",
+      "en": "Argentina"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Esplanada da Escola de Aviação Militar (Córdoba) (hora local)",
+      "es": "Escuela de Aviación Militar (Córdoba) h.",
+      "en": "Grounds of the Military Aviation School (Córdoba) a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-11",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Encontro com as Autoridades, a Sociedade Civil e o Corpo Diplomático",
+      "es": "Encuentro con las autoridades, la sociedad civil y el cuerpo diplomático",
+      "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
+     },
+     "local": {
+      "pt": "«Gran Teatro Nacional» (Lima) (hora local)",
+      "es": "“Gran Teatro Nacional” (Lima) h. (hora local)",
+      "en": "“Gran Teatro Nacional” (Lima) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-11",
+     "pais": {
+      "pt": "Argentina",
+      "es": "Argentina",
+      "en": "Argentina"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Praça em frente à Basílica de Nossa Senhora de Luján (Luján) (hora local)",
+      "es": "Plaza frente a la Basílica de Nuestra Señora de Luján (Luján) h. (hora local)",
+      "en": "Square in front of the Basilica of Our Lady of Luján (Luján) a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-11",
+     "pais": {
+      "pt": "Argentina",
+      "es": "Argentina",
+      "en": "Argentina"
+     },
+     "titulo": {
+      "pt": "Visita ao Complexo Penitenciário Federal de Buenos Aires",
+      "es": "Visita al Complejo Penitenciario Federal de Buenos Aires",
+      "en": "Visit to the Federal Prison Complex in Buenos Aires"
+     },
+     "local": {
+      "pt": "Complexo Penitenciário Federal de Buenos Aires (hora local)",
+      "es": "Complejo Penitenciario Federal de Buenos Aires h. (hora local)",
+      "en": "Federal Prison Complex in Buenos Aires a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-12",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Vigília de Oração com os Jovens e os Universitários",
+      "es": "Vigilia de oración con los jóvenes y los universitarios",
+      "en": "Prayer Vigil with Young People and University Students"
+     },
+     "local": {
+      "pt": "Estádio Nacional do Peru (Lima) (hora local)",
+      "es": "Estadio Nacional del Perú (Lima) h. (hora local)",
+      "en": "National Stadium of Peru (Lima) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-12",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Encontro sobre os desafios e as esperanças para o futuro do povo peruano",
+      "es": "Encuentro sobre los desafíos y las esperanzas para el futuro del pueblo peruano",
+      "en": "Meeting on the challenges and hopes for the future of the Peruvian people"
+     },
+     "local": {
+      "pt": "Praça em frente à Catedral (Lima) (hora local)",
+      "es": "Plaza frente la Catedral (Lima) h. (hora local)",
+      "en": "Square in front of the Cathedral (Lima) a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-12",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Celebração da Hora Média com os Bispos, os Sacerdotes, os Religiosos, as Religiosas, os Seminaristas, as Equipas Sinodais e os Conselhos Pastorais",
+      "es": "Celebración de la Hora Media con los obispos, los sacerdotes, los religiosos, las religiosas, los seminaristas, los equipos sinodales y los consejos pastorales",
+      "en": "Celebration of Mid-Morning Prayer with the Bishops, Priests, Men and Women Religious, Seminarians, Synodal Teams and Pastoral Councils"
+     },
+     "local": {
+      "pt": "Basílica Catedral de São João, Apóstolo e Evangelista (Lima) (hora local)",
+      "es": "Basilica Catedral de San Juan Apóstol y Evangelista (Lima) h. (hora local)",
+      "en": "Cathedral Basilica of St John the Apostle and Evangelist (Lima) a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-12",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Encontro com os Bispos do Peru",
+      "es": "Encuentro con los obispos de Perú",
+      "en": "Meeting with the Bishops of Peru"
+     },
+     "local": {
+      "pt": "Capela do Palácio Arcebispal de Lima (hora local)",
+      "es": "Capilla del Palacio Arzobispal de Lima h. (hora local)",
+      "en": "Chapel of the Archbishop’s Residence in Lima a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-13",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Encontro com o Mundo Universitário",
+      "es": "Encuentro con la comunidad universitaria",
+      "en": "Meeting with the Academic Community"
+     },
+     "local": {
+      "pt": "Universidade Católica «Santo Toribio de Mogrovejo» (Chiclayo) (hora local)",
+      "es": "Universidad Católica “Santo Toribio de Mogrovejo” (Chiclayo) h. (hora local)",
+      "en": "Catholic University “Santo Toribio de Mogrovejo” (Chiclayo) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-13",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Encontro com os bispos, os sacerdotes, os religiosos, as religiosas, os seminaristas, as equipas sinodais e os conselhos pastorais",
+      "es": "Encuentro con los obispos, los sacerdotes, los religiosos, las religiosas, los seminaristas, los equipos sinodales y los consejos pastorales",
+      "en": "Meeting with the Bishops, Priests, Men and Women Religious, Seminarians, Synodal Teams and Pastoral Councils"
+     },
+     "local": {
+      "pt": "Santuário de Nossa Senhora da Pacz (Chiclayo) (hora local)",
+      "es": "Santuario de Nuestra Señora de la Paz (Chiclayo) h. (hora local)",
+      "en": "Shrine of Our Lady of Peace (Chiclayo) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-13",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Visita privada à Capela de São Óscar A. Romero",
+      "es": "Visita privada a la Capilla San Óscar A. Romero",
+      "en": "Private Visit to the \"Saint Óscar A. Romero\" Chapel"
+     },
+     "local": {
+      "pt": "Capela San Óscar A. Romero (Chiclayo) (hora local)",
+      "es": "Capilla San Óscar A. Romero (Chiclayo) h. (hora local)",
+      "en": "&quot;Saint Óscar A. Romero&quot; Chapel (Chiclayo) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-13",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Esplanada junto das «Pampas de Pimentel» (Chiclayo) (hora local)",
+      "es": "Explanada ante las “Pampas de Pimentel” (Chiclayo) h. (hora local)",
+      "en": "Open space near the “Pampas de Pimentel” (Chiclayo) a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-13",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Palavras do Santo Padre da varanda da Nunciatura Apostólica",
+      "es": "Palabras de saludo del Santo Padre desde el balcón de la Nunciatura Apostólica",
+      "en": "Greeting of the Holy Father from the balcony of the Apostolic Nunciature in Lima"
+     },
+     "local": {
+      "pt": "Lima",
+      "es": "Lima",
+      "en": "Lima"
+     }
+    },
+    {
+     "data": "2026-11-14",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Encontro de oração com a comunidade católica por ocasião do encerramento do Ano Jubilar de São Toribio de Mogrovejo",
+      "es": "Encuentro de oración con la comunidad católica con motivo de la clausura del Año Jubilar de Santo Toribio de Mogrovejo",
+      "en": "Prayer Meeting with the Catholic Community on the Occasion of the Closing of the Jubilee Year of Saint Toribio de Mogrovejo"
+     },
+     "local": {
+      "pt": "Santuário de Santo Toribio de Mogrovejo (Zaña) (hora local)",
+      "es": "Santuario de Santo Toribio de Mogrovejo (Zaña) h. (hora local)",
+      "en": "Shrine of Saint Toribio de Mogrovejo (Zaña) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-14",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Esplanada de Santa Cruz de Succhabamba (hora local)",
+      "es": "Explanada de Santa Cruz de Succhabamba (Santa Cruz de Succhabamba) h. (hora local)",
+      "en": "Open space in Santa Cruz de Succhabamba (Santa Cruz de Succhabamba) a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-14",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Rito de Coroação da Virgem Imaculada",
+      "es": "Rito de coronación de la Virgen Inmaculada",
+      "en": "Coronation Rite of the Immaculate Virgin"
+     },
+     "local": {
+      "pt": "Catedral de Santa Maria (Chiclayo) (hora local)",
+      "es": "Catedral de Santa María (Chiclayo) h. (hora local)",
+      "en": "Cathedral of Saint Mary (Chiclayo) a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-15",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Saudação do Santo Padre na Varanda da Nunciatura Apostólica",
+      "es": "Saludo espontáneo del Santo Padre en el balcón de la Nunciatura Apostólica",
+      "en": "Greeting of the Holy Father at the Apostolic Nunciature"
+     },
+     "local": {
+      "pt": "Nunciatura Apostólica de Lima",
+      "es": "Lima",
+      "en": "Apostolic Nunciature (Lima)"
+     }
+    },
+    {
+     "data": "2026-11-15",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "«Villa Deportiva Regional Ucayali» (Pucallpa) (hora local)",
+      "es": "“Villa Deportiva Regional Ucayali” (Pucallpa) h. (hora local)",
+      "en": "“Villa Deportiva Regional Ucayali” (Pucallpa) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-15",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Encontro com os missionários, as missionárias e os representantes dos povos da Amazónia",
+      "es": "Encuentro con los misioneros, las misioneras y los representantes de los pueblos amazónicos",
+      "en": "Meeting with Missionaries and Representatives of the Amazonian Peoples"
+     },
+     "local": {
+      "pt": "«Malecón Puerto Callao» (Pucallpa) (hora local)",
+      "es": "En ell “Malecón Puerto Callao” (Pucallpa) h. (hora local)",
+      "en": "At the “Malecón Puerto Callao” (Pucallpa) p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-15",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Oração do Angelus",
+      "es": "Oración del Ángelus",
+      "en": "Angelus"
+     },
+     "local": {
+      "pt": "Praça em frente à Basílica Catedral da Assunção da Bem-Aventurada Virgem Maria (Cusco) (hora local)",
+      "es": "Plaza frente a la Basílica Catedral de la Asunción de la Bienaventurada Virgen María (Cusco) h. (hora local)",
+      "en": "Square in front of the Cathedral Basilica of the Assumption of the Blessed Virgin Mary (Cusco) a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-15",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Encontro com os fiéis e os representantes da piedade popular",
+      "es": "Encuentro con los fieles y los representantes de la piedad popular",
+      "en": "Meeting with the Faithful and Representatives of Popular Devotion"
+     },
+     "local": {
+      "pt": "Parque Arqueológico Nacional de Saqsaywaman (hora local)",
+      "es": "Parque Archeológico Nacional de Saqsaywaman h. (hora local)",
+      "en": "Saqsaywaman National Archaeological Park a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-11-15",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Palavras improvisadas de saudação do Santo Padre à saída da Casa Episcopal de Chiclayo",
+      "es": "Saludo espontáneo del Santo Padre al salir de la residencia episcopal",
+      "en": "Impromptu greeting of the Holy Father upon leaving the Bishop’s House in Chiclayo"
+     },
+     "local": {
+      "pt": "Chiclayo",
+      "es": "Chiclayo",
+      "en": "Chiclayo"
+     }
+    },
+    {
+     "data": "2026-11-16",
+     "pais": {
+      "pt": null,
+      "es": null,
+      "en": null
+     },
+     "titulo": {
+      "pt": "Palavras do Santo Padre aos jornalistas durante o voo com destino a Roma",
+      "es": "Conferencia de prensa durante el vuelo de regreso a Roma",
+      "en": "Press conference during the flight to Rome"
+     },
+     "local": {
+      "pt": null,
+      "es": "Vuelo papal",
+      "en": "Papal Flight"
+     }
+    },
+    {
+     "data": "2026-11-16",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "«Base Aérea Las Palmas” (Lima) (hora local)",
+      "es": "“Base Aérea Las Palmas” (Lima) h.",
+      "en": "“Las Palmas Air Base” (Lima) a.m."
+     }
+    },
+    {
+     "data": "2026-11-16",
+     "pais": {
+      "pt": "Peru",
+      "es": "Perú",
+      "en": "Peru"
+     },
+     "titulo": {
+      "pt": "Visita aos operadores e aos assistidos",
+      "es": "Visita a los trabajadores y a los residentes de la casa de acogida de las «Hermanitas de los Ancianos Desamparados»",
+      "en": "Visit to the Staff and Residents of the “Hermanitas de los Ancianos Desamparados” Care Home"
+     },
+     "local": {
+      "pt": "Centro de Acolhimento das «Hermanitas de los Ancianos desamparados» (Callao) (hora local)",
+      "es": "Asilo de Ancianos Desamparados del Callao horas (hora local)",
+      "en": "Care Home of the “Hermanitas de los Ancianos Desamparados” (Callao) a.m. (local time)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "v-2026-09-25",
+   "tipo": "apostolica",
+   "inicio": "2026-09-25",
+   "fim": "2026-09-28",
+   "titulo": {
+    "pt": "a França e Visita à Sede da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco)",
+    "es": "a Francia y Visita a la Sede de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO)",
+    "en": "to France: Visit to The United Nations Educational, Scientific And Cultural Organization (Unesco) at the Headquarters Of Unesco"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/9/25/viaggio-francia.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/9/25/viaggio-francia.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/9/25/viaggio-francia.html"
+   },
+   "compromissos": [
+    {
+     "data": "2026-09-25",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Vigília de Oração com os Jovens",
+      "es": "Vigilia De Oración con los Jóvenes",
+      "en": "Prayer Vigil with Young People at the “Stade de France”"
+     },
+     "local": {
+      "pt": "« Stade de France » em Saint-Denis",
+      "es": "&quot;Stade de France&quot;/Estadio de Francia de Saint-Denis h.",
+      "en": "“Stade de France” in Saint-Denis at"
+     }
+    },
+    {
+     "data": "2026-09-25",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Celebração das Vésperas com os Bispos, os Sacerdotes, os Diáconos, os Consagrados, as Consagradas e os Seminaristas",
+      "es": "Celebración de las Vísperas con los Obispos, los Sacerdotes, los Diáconos, los Consagrados, las Consagradas y los Seminaristas",
+      "en": "Celebration of Vespers with the Bishops, Priests, Deacons, Consecrated Men and Women, and Seminarians"
+     },
+     "local": {
+      "pt": "Catedral de Notre-Dame de Paris",
+      "es": "Catedral de Notre-Dame de París h.",
+      "en": "Notre-Dame de Paris Cathedral at"
+     }
+    },
+    {
+     "data": "2026-09-25",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Visita à Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO)",
+      "es": "Visita a la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO)",
+      "en": "Visit to the United Nations Educational, Scientific and Cultural Organization (UNESCO)"
+     },
+     "local": {
+      "pt": "Sede da UNESCO (Paris)",
+      "es": "Sede de la UNESCO (París) h.",
+      "en": "UNESCO Headquarters (Paris) at"
+     }
+    },
+    {
+     "data": "2026-09-25",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Encontro com as Autoridades, a Sociedade civil e o Corpo diplomático",
+      "es": "Encuentro con las Autoridades, la Sociedad Civil y el Cuerpo Diplomático",
+      "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
+     },
+     "local": {
+      "pt": "Palácio do Elisue (Paris)",
+      "es": "Palacio del Elíseo (París) h.",
+      "en": "Élysée Palace (Paris) at a.m."
+     }
+    },
+    {
+     "data": "2026-09-25",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Saudação do Santo Padre aos jornalistas durante o voo com destino a Paris",
+      "es": "Saludo del Santo Padre a los periodistas durante el vuelo con destino a París",
+      "en": "Words of the Holy Father to Journalists during the Flight to Paris"
+     },
+     "local": {
+      "pt": null,
+      "es": "Vuelo papal",
+      "en": "Papal Flight"
+     }
+    },
+    {
+     "data": "2026-09-26",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Oração na Gruta das Aparições de Massabielle",
+      "es": "Oración en la Gruta de las Apariciones de Massabielle",
+      "en": "Prayer at the Grotto of the Apparitions of Massabielle"
+     },
+     "local": {
+      "pt": "Santuário de Nossa Senhora de Lourdes",
+      "es": "Santuario de Nuestra Señora de Lourdes h.",
+      "en": "Shrine of Our Lady of Lourdes PM"
+     }
+    },
+    {
+     "data": "2026-09-26",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "« Place de la Concorde » (Paris)",
+      "es": "“Place de la Concorde” (París) h.",
+      "en": "“Place de la Concorde” (Paris) at"
+     }
+    },
+    {
+     "data": "2026-09-26",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Encontro com os membros da Assembleia Sinodal Provincial, os Catecumenos e os Neofitos",
+      "es": "Encuentro con los Miembros de la Asamblea Sinodal Provincial, los Catecúmenos y los Neófitos",
+      "en": "Meeting with the Members of the Provincial Synodal Assembly, Catechumens and Newly Baptized"
+     },
+     "local": {
+      "pt": "Instituto Católico de Paris",
+      "es": "Instituto Católico de París h.",
+      "en": "Institut Catholique de Paris (Catholic Institute of Paris) at a.m."
+     }
+    },
+    {
+     "data": "2026-09-26",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Visita ao Centro de acompanhamento e integração social Maison Bakhita",
+      "es": "Visita al Centro de Acompañamento e Integración Social Maison Bakhita",
+      "en": "Visit to the Maison Bakhita Centre for Social Support and Integration"
+     },
+     "local": {
+      "pt": "Parigi",
+      "es": "Maison Bakhita (París) h.",
+      "en": "Maison Bakhita (Paris) at a.m."
+     }
+    },
+    {
+     "data": "2026-09-27",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Oração do Santíssimo Rosário e Procissão das velas",
+      "es": "Rezo del Santo Rosario y Procesión aux Flambeaux",
+      "en": "Holy Rosary and Torchlight Procession"
+     },
+     "local": {
+      "pt": "Santuário de Nossa Senhora de Lourdes",
+      "es": "Santuario de Nuestra Señora de Lourdes h.",
+      "en": "Shrine of Our Lady of Lourdes at"
+     }
+    },
+    {
+     "data": "2026-09-27",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Encontro com os Operadores e os Assistidos do Accueil Notre-Dame",
+      "es": "Encuentro con los Enfermos y Acompañantes del Centro Accueil Notre-Dame",
+      "en": "Meeting with the Staff and Sick Community of the Accueil Notre-Dame"
+     },
+     "local": {
+      "pt": "Santuário de Nossa Senhora de Lourdes",
+      "es": "Santuario de Nuestra Señora de Lourdes h.",
+      "en": "Shrine of Our Lady of Lourdes at"
+     }
+    },
+    {
+     "data": "2026-09-27",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Angelus",
+      "es": "Ángelus",
+      "en": "Angelus"
+     },
+     "local": {
+      "pt": "Prairie do Santuário de Nossa Senhora de Lourdes",
+      "es": "Prairie del Santuario de Nuestra Señora de Lourdes",
+      "en": "at the Prairie of the Shrine of Our Lady of Lourdes"
+     }
+    },
+    {
+     "data": "2026-09-27",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Prairie do Santuário de Nossa Senhora de Lourdes",
+      "es": "Prairie del Santuario de Nuestra Señora de Lourdes h.",
+      "en": "Prairie of the Sanctuary of Our Lady of Lourdes at a.m."
+     }
+    },
+    {
+     "data": "2026-09-27",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Encontro com os Bispos da Conferência Episcopal de França",
+      "es": "Encuentro con los Obispos de la Conferencia Episcopal de Francia",
+      "en": "Meeting with the Bishops of the French Bishops’ Conference"
+     },
+     "local": {
+      "pt": "Hemiciclo « Sainte-Bernadette » do Santuário de Nossa Senhora de Lourdes",
+      "es": "Hemiciclo de Santa Bernadette del Santuario de Nuestra Señora de Lourdes h.",
+      "en": "“Sainte-Bernadette” auditorium of the Sanctuary of Our Lady of Lourdes at a.m."
+     }
+    },
+    {
+     "data": "2026-09-28",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Coletiva de Imprensa do Santo Padre durante o voo de regresso",
+      "es": "Conferencia de prensa durante el vuelo de regreso a Roma",
+      "en": "Press Conference during the Flight to Rome"
+     },
+     "local": {
+      "pt": null,
+      "es": "Vuelo papal",
+      "en": "Papal Flight"
+     }
+    },
+    {
+     "data": "2026-09-28",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Santa Missa na Catedral de Santo Estêvão",
+      "es": "Santa Misa",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Catedral de Santo Estêvão (Metz)",
+      "es": "Catedral de San Esteban (Metz) h.",
+      "en": "Saint Stephen’s Cathedral at"
+     }
+    },
+    {
+     "data": "2026-09-28",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Encontro «Nas raízes da Europa pela paz e pela unidade»",
+      "es": "Encuentro \"En las Raíces de Europa por la Paz y la Unidad\"",
+      "en": "Meeting “At the Roots of Europe for Peace and Unity”"
+     },
+     "local": {
+      "pt": "Centro de Congressos « Robert Schuman », em Metz",
+      "es": "Centro De Conferencias &quot;Robert Schuman&quot; De Metz h.",
+      "en": "“Robert Schuman” Congress Centre in Metz at a.m."
+     }
+    },
+    {
+     "data": "2026-09-28",
+     "pais": {
+      "pt": "França",
+      "es": "Francia",
+      "en": "France"
+     },
+     "titulo": {
+      "pt": "Encontro Inter-religioso",
+      "es": "Encuentro Interreligioso",
+      "en": "Interreligious Meeting"
+     },
+     "local": {
+      "pt": "Centro de Congressos « Robert Schuman », em Metz",
+      "es": "Centro De Conferencias &quot;Robert Schuman&quot; de Metz h.",
+      "en": "“Robert Schuman” Congress Centre in Metz at a.m."
+     }
+    }
+   ]
+  },
+  {
+   "id": "p-2026-08-22-encontro-pela-amizade-entre-os",
+   "tipo": "pastoral",
+   "inicio": "2026-08-22",
+   "fim": "2026-08-22",
+   "titulo": {
+    "pt": "Visita Pastoral à República de São Marinho",
+    "es": "Visita pastoral a la República de San Marino",
+    "en": "Pastoral Visit to the Republic of San Marino"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/8/22/visita-rimini-caritas.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/8/22/visita-rimini-caritas.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/8/22/visita-rimini-caritas.html"
+   },
+   "compromissos": [
+    {
+     "data": "2026-08-22",
+     "pais": null,
+     "titulo": {
+      "pt": "Encontro com doentes, pessoas com deficiência e pessoas pobres assistidas pela Caritas",
+      "es": "Encuentro con enfermos, los discapacitados y los pobres atendidos por Cáritas",
+      "en": "Meeting with the sick, disabled and poor assisted by Caritas"
+     },
+     "local": {
+      "pt": "Catedral de Rimini",
+      "es": "Catedral de Rímini",
+      "en": "Cathedral of Rimini at"
+     }
+    },
+    {
+     "data": "2026-08-22",
+     "pais": null,
+     "titulo": {
+      "pt": "aos participantes no 47.º Encontro pela Amizade entre os Povos",
+      "es": "Encuentro con los participantes en el 47.º Encuentro por la Amistad entre los Pueblos",
+      "en": "Meeting with Participants in the 47th Meeting for Friendship Among Peoples"
+     },
+     "local": {
+      "pt": "Feira de Rimini",
+      "es": "&quot;Fiera di Rimini&quot; h.",
+      "en": "Fiera di Rimini at"
+     }
+    },
+    {
+     "data": "2026-08-22",
+     "pais": null,
+     "titulo": {
+      "pt": "Discurso à Comunidade Eclesial",
+      "es": "Discurso a la comunidad eclesial",
+      "en": "Address to the Ecclesial Community"
+     },
+     "local": {
+      "pt": "Basílica de San Marino",
+      "es": "Basílica de San Marino",
+      "en": "Basilica of San Marino at"
+     }
+    },
+    {
+     "data": "2026-08-22",
+     "pais": null,
+     "titulo": {
+      "pt": "Discurso às autoridades e à sociedade civil",
+      "es": "Discurso a las autoridades y a la sociedad civil",
+      "en": "Address to the Authorities and Civil Society"
+     },
+     "local": {
+      "pt": "Palácio Público",
+      "es": "Palazzo Pubblico",
+      "en": "&quot;Palazzo Pubblico&quot; (Public Palace) at a.m."
+     }
+    }
+   ]
+  },
+  {
+   "id": "p-2026-08-06-santa-maria-degli-angeli-assis",
+   "tipo": "pastoral",
+   "inicio": "2026-08-06",
+   "fim": "2026-08-06",
+   "titulo": {
+    "pt": "Visita Pastoral a Santa Maria degli Angeli - Assis",
+    "es": "Visita pastoral a Santa María de los Ángeles - Asís",
+    "en": "Pastoral Visit to the Basilica of \"Santa Maria degli Angeli\" – Assisi"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/8/6/assisi-ordini-francescani.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/8/6/assisi-ordini-francescani.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/8/6/assisi-ordini-francescani.html"
+   },
+   "compromissos": [
+    {
+     "data": "2026-08-06",
+     "pais": null,
+     "titulo": {
+      "pt": "O Santo Padre saúda os representantes das Ordens Franciscanas",
+      "es": "el Santo Padre saluda a los representantes de las Órdenes Franciscanas",
+      "en": "The Holy Father greets the representatives of the Franciscan Orders"
+     },
+     "local": {
+      "pt": "Claustro do Convento da Basílica de Santa Maria degli Angeli",
+      "es": "Claustro del Convento de la Basílica de Santa María de los Ángeles h.",
+      "en": "Cloister of the Convent of the Basilica of Santa Maria degli Angeli at"
+     }
+    },
+    {
+     "data": "2026-08-06",
+     "pais": null,
+     "titulo": {
+      "pt": "Encontro com os Jovens participantes do \"Go! Franciscan Youth Meeting 2026\"",
+      "es": "Encuentro del Santo Padre con los jóvenes participantes en el «Go! Franciscan Youth Meeting 2026»",
+      "en": "Meeting of the Holy Father with the Young People taking part in the \"Go! Franciscan Youth Meeting 2026\""
+     },
+     "local": {
+      "pt": "Praça Santa Maria dos Anjos",
+      "es": "Plaza de Santa María de los Ángeles (Asís) h.",
+      "en": "Piazza Santa Maria degli Angeli (Assisi) at a.m."
+     }
+    }
+   ]
+  },
+  {
+   "id": "p-2026-07-04-lampedusa",
+   "tipo": "pastoral",
+   "inicio": "2026-07-04",
+   "fim": "2026-07-04",
+   "titulo": {
+    "pt": "Visita Pastoral a Lampedusa",
+    "es": "Visita pastoral a Lampedusa",
+    "en": "Pastoral Visit to Lampedusa"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/7/4/visita-lampedusa.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/7/4/visita-lampedusa.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/7/4/visita-lampedusa.html"
+   },
+   "compromissos": []
+  },
+  {
+   "id": "p-2026-06-20-sant-angelo-lodigiano",
+   "tipo": "pastoral",
+   "inicio": "2026-06-20",
+   "fim": "2026-06-20",
+   "titulo": {
+    "pt": "Visita Pastoral a Pavia e Sant’Angelo Lodigiano",
+    "es": "Visita pastoral a Pavía y Sant’Angelo Lodigiano",
+    "en": "Pastoral Visit to Pavia and Sant'Angelo Lodigiano"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/6/20/sant-angelo-lodigiano.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/6/20/sant-angelo-lodigiano.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/6/20/sant-angelo-lodigiano.html"
+   },
+   "compromissos": [
+    {
+     "data": "2026-06-20",
+     "pais": null,
+     "titulo": {
+      "pt": "Adoração do Santíssimo Sacramento e veneração do Coração de Santa Francesca Cabrini",
+      "es": "Adoración del Santísimo Sacramento y veneración del Corazón de Santa Francisca Cabrini",
+      "en": "Adoration of the Blessed Sacrament and Veneration of the Heart of Saint Frances Xavier Cabrini"
+     },
+     "local": {
+      "pt": "Paróquia dos Santos António Abade e Francesca Cabrini (Sant’Angelo Lodigiano)",
+      "es": "Parroquia de los Santos Antonio Abad y Francisca Cabrini (Sant’Angelo Lodigiano) h.",
+      "en": null
+     }
+    },
+    {
+     "data": "2026-06-20",
+     "pais": null,
+     "titulo": {
+      "pt": "Encontro com a população",
+      "es": "Encuentro con los ciudadanos en la Plaza de la Victoria",
+      "en": "Meeting with the Citizens"
+     },
+     "local": {
+      "pt": "Piazza Vittoria (Pavia)",
+      "es": "Plaza de la Victoria (Pavía) h.",
+      "en": "Piazza Vittoria (Pavia) at"
+     }
+    },
+    {
+     "data": "2026-06-20",
+     "pais": null,
+     "titulo": {
+      "pt": "Celebração da Palavra e veneração das Relíquias de Santo Agostinho",
+      "es": "Celebración de la Palabra y veneración de las reliquias de San Agustín",
+      "en": "Celebration of the Liturgy of the Word and Veneration of the Relics of Saint Augustine"
+     },
+     "local": {
+      "pt": "Basílica de São Pedro em Ciel d’Oro (Pavia)",
+      "es": "Basílica de San Pietro in Ciel d’Oro (Pavía) h.",
+      "en": "Basilica of San Pietro in Ciel d’Oro (Pavia) at"
+     }
+    }
+   ]
+  },
+  {
+   "id": "v-2026-06-06",
+   "tipo": "apostolica",
+   "inicio": "2026-06-06",
+   "fim": "2026-06-12",
+   "titulo": {
+    "pt": "à Espanha",
+    "es": "a España",
+    "en": "to Spain"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/6/6/viaggio-spagna.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/6/6/viaggio-spagna.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/6/6/viaggio-spagna.html"
+   },
+   "compromissos": [
+    {
+     "data": "2026-06-06",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Vigília de oração com os jovens",
+      "es": "Vigilia de oración con los jóvenes en la «Plaza de Lima»",
+      "en": "Prayer Vigil with young People"
+     },
+     "local": {
+      "pt": "“Plaza de Lima” (Madrid)",
+      "es": "“Plaza de Lima” (Madrid) h.",
+      "en": "“Plaza de Lima” (Madrid) at"
+     }
+    },
+    {
+     "data": "2026-06-06",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Visita aos Operadores e aos Assistidos do Projeto Social \"Cedia 24 Horas\"",
+      "es": "Visita a los operadores y asistidos del proyecto social «Cedia 24 Horas» en el Centro de Información y Acogida",
+      "en": "Visit to the Staff and Beneficiaries of the “Cedia 24 Horas Social Project”"
+     },
+     "local": {
+      "pt": "Centro de Informação e Acolhimento (Madrid)",
+      "es": "Centro de Información y Acogida (Madrid) h.",
+      "en": "Information and Welcome Center (Madrid) at p.m."
+     }
+    },
+    {
+     "data": "2026-06-06",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Encontro com as Autoridades, a Sociedade civil e o Corpo diplomático",
+      "es": "Encuentro con las autoridades, la sociedad civil y el cuerpo diplomático en el Palacio Real de Madrid",
+      "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
+     },
+     "local": {
+      "pt": "Palácio Real de Madrid",
+      "es": "Palacio Real de Madrid h.",
+      "en": "Royal Palace in Madrid at p.m."
+     }
+    },
+    {
+     "data": "2026-06-06",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Saudação do Santo Padre aos jornalistas durante o voo com destino a Madrid",
+      "es": "Palabras del Santo Padre a los periodistas durante el vuelo con destino a Madrid",
+      "en": "Words of Greeting of the Holy Father to Journalists on the flight from Rome to Madrid"
+     },
+     "local": {
+      "pt": null,
+      "es": "Vuelo Papal",
+      "en": "Papal Flight"
+     }
+    },
+    {
+     "data": "2026-06-07",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Encontro “Criar Redes com o Mundo da Cultura, da Arte, da Economia e do Desporto”",
+      "es": "Encuentro «Tejer redes con el mundo de la cultura, del arte, de la economía y del deporte» en el «Movistar Arena»",
+      "en": "Meeting “Building Networks with the World of Culture, Art, Economy and Sport”"
+     },
+     "local": {
+      "pt": "“Movistar Arena” (Madrid)",
+      "es": "“Movistar Arena” (Madrid) h.",
+      "en": "“Movistar Arena” (Madrid) at"
+     }
+    },
+    {
+     "data": "2026-06-07",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa en la Plaza de Cibeles",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "“Plaza de Cibeles” (Madrid)",
+      "es": "“Plaza de Cibeles” (Madrid) h.",
+      "en": "“Plaza de Cibeles” (Madrid) at a.m."
+     }
+    },
+    {
+     "data": "2026-06-08",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Encontro com a Comunidade diocesana",
+      "es": "Encuentro con la comunidad diocesana en el estadio «Santiago Bernabéu»",
+      "en": "Meeting with the Diocesan Community"
+     },
+     "local": {
+      "pt": "Estádio “Santiago Bernabéu” (Madrid)",
+      "es": "Estadio “Santiago Bernabéu” h.",
+      "en": "&quot;Santiago Bernabéu&quot; Stadium at"
+     }
+    },
+    {
+     "data": "2026-06-08",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Oração e homenagem à Virgem de Almudena",
+      "es": "Oración y homenaje a la Virgen de la Almudena en la Catedral de Santa María de la Almudena",
+      "en": "Prayer and Devotion to Our Lady of Almudena"
+     },
+     "local": {
+      "pt": "Catedral de Santa Maria a Real de Almudena (Madrid)",
+      "es": "Catedral de Santa María de la Almudena (Madrid) h.",
+      "en": "Cathedral of Holy Mary of Almudena (Madrid) at"
+     }
+    },
+    {
+     "data": "2026-06-08",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Encontro com os Bispos de Espanha",
+      "es": "Encuentro con los obispos de España en la sede de la Conferencia Episcopal",
+      "en": "Meeting with the Bishops of Spain"
+     },
+     "local": {
+      "pt": "Sede da Conferência Episcopal (Madrid)",
+      "es": "Sede de la Conferencia Episcopal h.",
+      "en": "Offices of the Episcopal Conference at a.m."
+     }
+    },
+    {
+     "data": "2026-06-08",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Encontro com os Membros do Parlamento Espanhol",
+      "es": "Encuentro con los miembros del Parlamento español en el Congreso de los Diputados",
+      "en": "Meeting with Members of the Spanish Parliament at the Congress of Deputies"
+     },
+     "local": {
+      "pt": "Congresso dos Deputados (Madrid)",
+      "es": "Congreso de los Diputados (Madrid) h.",
+      "en": "Congress of Deputies (Madrid) at a.m."
+     }
+    },
+    {
+     "data": "2026-06-09",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Vigília de Oração",
+      "es": "Vigilia de oración en el Estadio Olímpico «Lluís Companys»",
+      "en": "Prayer Vigil"
+     },
+     "local": {
+      "pt": "Estádio Olímpico “Lluís Companys” (Barcelona)",
+      "es": "Estadio Olímpico “Lluís Companys” (Barcelona) h.",
+      "en": "&quot;Lluís Companys&quot; Olympic Stadium (Barcelona) at"
+     }
+    },
+    {
+     "data": "2026-06-09",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Oração da Meia-Hora",
+      "es": "Rezo de la Hora Media en la Catedral de la Santa Cruz y Santa Eulalia",
+      "en": "Midday Prayer"
+     },
+     "local": {
+      "pt": "Catedral da Santa Cruz e Santa Eulália (Barcelona)",
+      "es": "Catedral de la Santa Cruz y Santa Eulalia (Barcelona) h.",
+      "en": "Cathedral of the Holy Cross and Saint Eulalia (Barcelona) at"
+     }
+    },
+    {
+     "data": "2026-06-09",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Encontro com os Voluntários",
+      "es": "Encuentro con los voluntarios en el pabellón 3 de IFEMA Madrid",
+      "en": "Meeting with Volunteers"
+     },
+     "local": {
+      "pt": "Pavilhão 3 do IFEMA Madrid",
+      "es": "Pabellón 3 de IFEMA Madrid h.",
+      "en": "IFEMA Pavilion 3, Madrid at a.m."
+     }
+    },
+    {
+     "data": "2026-06-10",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa en la Basílica de la Sagrada Família",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Basílica da Sagrada Família (Barcelona)",
+      "es": "Basílica de la Sagrada Família (Barcelona) h.",
+      "en": "Basilica of the Sagrada Família (Barcelona) at"
+     }
+    },
+    {
+     "data": "2026-06-10",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Encontro com as Organizações de caridade e assistência da Diocese",
+      "es": "Encuentro con las organizaciones diocesanas de caridad y asistencia en la iglesia de San Agustí",
+      "en": "Meeting with Diocesan Charity and Welfare Organizations"
+     },
+     "local": {
+      "pt": "Igreja de Santo Agostinho (Barcelona)",
+      "es": "Iglesia de San Agustí (Barcelona) h.",
+      "en": "Church of Sant Agustí (Barcelona) at"
+     }
+    },
+    {
+     "data": "2026-06-10",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Oração do Santo Rosário",
+      "es": "Rezo del Santo Rosario en la Abadía de Nuestra Señora de Montserrat",
+      "en": "Recitation of the Holy Rosary"
+     },
+     "local": {
+      "pt": "Abadia de Nossa Senhora de Montserrat",
+      "es": "Abadía de Nuestra Señora de Montserrat h.",
+      "en": "Abbey of Our Lady of Montserrat at p.m."
+     }
+    },
+    {
+     "data": "2026-06-10",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Visita ao Centro Prisional “Brians 1”",
+      "es": "Visita al Centro Penitenciario «Brians 1»",
+      "en": "Visit to the \"Penitential Center Brians 1\""
+     },
+     "local": {
+      "pt": "Barcelona",
+      "es": "Penitenciario “Brians 1” (Barcelona) h.",
+      "en": "&quot;Penitential Center Brians 1&quot; (Barcelona) at a.m."
+     }
+    },
+    {
+     "data": "2026-06-11",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Santa Missa no Estádio de Gran Canária",
+      "es": "Santa Misa en el Estadio de Gran Canaria",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Estádio de Gran Canária",
+      "es": "Estadio de Gran Canaria h.",
+      "en": "Gran Canaria Stadium (Las Palmas) at (local time)"
+     }
+    },
+    {
+     "data": "2026-06-11",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Encontro com os Bispos, os Sacerdotes, os Diáconos, os Religiosos e Religiosas, os Seminaristas e os Agentes pastorais",
+      "es": "Encuentro con los obispos, los sacerdotes, los diáconos, los religiosos, las religiosas, los seminaristas y los agentes pastorales en la Catedral de Santa Ana",
+      "en": "Meeting with Bishops, Priests, Deacons, Religious, Seminarians and Pastoral Workers"
+     },
+     "local": {
+      "pt": "Catedral de Sant'Ana (Las Palmas de Gran Canaria)",
+      "es": "Catedral de Santa Ana (Las Palmas de Gran Canaria)",
+      "en": "Cathedral of Saint Anne (Las Palmas de Gran Canaria)"
+     }
+    },
+    {
+     "data": "2026-06-11",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Encontro com as Organizações de Receção de Migrantes",
+      "es": "Encuentro con las realidades de acogida de migrantes en el puerto de Arguineguín",
+      "en": "Meeting with Organizations working with Migrants"
+     },
+     "local": {
+      "pt": "Porto de Arguineguín (Las Palmas de Gran Canaria)",
+      "es": "Puerto de Arguineguín (Las Palmas de Gran Canaria)",
+      "en": "Port of Arguineguín (Las Palmas de Gran Canaria)"
+     }
+    },
+    {
+     "data": "2026-06-12",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa en el puerto de Santa Cruz de Tenerife",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Porto de Santa Cruz de Tenerife",
+      "es": "Puerto de Santa Cruz de Tenerife h.",
+      "en": "Port of Santa Cruz de Tenerife at p.m."
+     }
+    },
+    {
+     "data": "2026-06-12",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Encontro com as Organizações de Integração dos Migrantes",
+      "es": "Encuentro con las iniciativas de integración de los migrantes en la «Plaza del Cristo de La Laguna»",
+      "en": "Meeting with Organizations working for the Integration of Migrants"
+     },
+     "local": {
+      "pt": "“Plaza del Cristo de La Laguna” (Tenerife)",
+      "es": "“Plaza del Cristo de La Laguna” (Tenerife)",
+      "en": "“Plaza del Cristo de La Laguna” (Tenerife) at a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-06-12",
+     "pais": {
+      "pt": "Espanha",
+      "es": "España",
+      "en": "Spain"
+     },
+     "titulo": {
+      "pt": "Encontro com os Migrantes",
+      "es": "Encuentro con los migrantes del Centro «Las Raíces»",
+      "en": "Meeting with Migrants"
+     },
+     "local": {
+      "pt": "Centro “Las Raíces” (San Cristóbal de La Laguna, Tenerife)",
+      "es": "Centro “Las Raíces” (San Cristóbal de La Laguna, Tenerife)",
+      "en": "“Las Raíces Center” (San Cristóbal de La Laguna, Tenerife) at a.m. (local time)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "p-2026-05-23-acerra",
+   "tipo": "pastoral",
+   "inicio": "2026-05-23",
+   "fim": "2026-05-23",
+   "titulo": {
+    "pt": "Visita Pastoral a Acerra",
+    "es": "Visita pastoral a Acerra",
+    "en": "Pastoral Visit to Acerra"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/5/23/visita-acerra-piazza-calipari.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/5/23/visita-acerra-piazza-calipari.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/23/visita-acerra-piazza-calipari.html"
+   },
+   "compromissos": [
+    {
+     "data": "2026-05-23",
+     "pais": null,
+     "titulo": {
+      "pt": "Encontro com os presidentes de câmara e os fiéis dos municípios da “Terra dos fogos”",
+      "es": "Encuentro con los alcaldes y los fieles de diversos municipios de la «Tierra de los Fuegos»",
+      "en": "Meeting with the Mayors and the Faithful from a number of the Municipalities of the \"Terra dei Fuochi\" (“Land of Fires”)"
+     },
+     "local": {
+      "pt": "Praça Calipari",
+      "es": "Plaza Calipari",
+      "en": "Piazza Calipari"
+     }
+    },
+    {
+     "data": "2026-05-23",
+     "pais": null,
+     "titulo": {
+      "pt": "Encontro com os bispos, o clero, os religiosos e as famílias vítimas da poluição ambiental",
+      "es": "Encuentro con los obispos, los clérigos, los religiosos y las familias que han sufrido víctimas a causa de la contaminación ambiental",
+      "en": "Meeting with the Bishops, clergy, religious and the families of the victims of environmental pollution"
+     },
+     "local": {
+      "pt": "Catedral de Santa Maria Assunta",
+      "es": "Catedral de Santa María de la Asunción",
+      "en": "Cathedral of the Assumption of Mary (Maria Assunta)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "p-2026-05-08-n-poles",
+   "tipo": "pastoral",
+   "inicio": "2026-05-08",
+   "fim": "2026-05-08",
+   "titulo": {
+    "pt": "Visita Pastoral a Pompeia e Nápoles",
+    "es": "Visita pastoral a Pompeya y Nápoles",
+    "en": "Pastoral Visit to Pompeii and Naples"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/5/8/napoli-visita.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/5/8/napoli-visita.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/8/napoli-visita.html"
+   },
+   "compromissos": [
+    {
+     "data": "2026-05-08",
+     "pais": null,
+     "titulo": {
+      "pt": "Encontro com a população na Piazza del Plebiscito",
+      "es": "Encuentro con los ciudadanos en la Plaza del Plebiscito",
+      "en": "Meeting with Citizens"
+     },
+     "local": {
+      "pt": "Piazza del Plebiscito",
+      "es": "Plaza del Plebiscito",
+      "en": "Piazza del Plebiscito"
+     }
+    },
+    {
+     "data": "2026-05-08",
+     "pais": null,
+     "titulo": {
+      "pt": "Encontro com o clero e os consagrados na Catedral de Nápoles",
+      "es": "Encuentro con el clero y los consagrados en la catedral de Nápoles",
+      "en": "Meeting with the Clergy and Consecrated Persons in Naples Cathedral"
+     },
+     "local": {
+      "pt": "Catedral de Nápoles",
+      "es": "Catedral Metropolitana de Santa María de la Asunción",
+      "en": "Metropolitan Cathedral of the Assumption of Mary"
+     }
+    },
+    {
+     "data": "2026-05-08",
+     "pais": null,
+     "titulo": {
+      "pt": "Saudação aos doentes e às pessoas com deficiência",
+      "es": "Saludo a los enfermos y a las personas con discapacidad",
+      "en": "Meeting with some ill and disabled people"
+     },
+     "local": {
+      "pt": "Santuário de Pompeia",
+      "es": "Santuario de la Bienaventurada Virgen María del S. Rosario de Pompeya",
+      "en": "Sanctuary of the Blessed Virgin Mary of the Holy Rosary of Pompeii"
+     }
+    },
+    {
+     "data": "2026-05-08",
+     "pais": null,
+     "titulo": {
+      "pt": "Encontro com o \"Templo da Caridade\"",
+      "es": "Encuentro con el “Templo de la Caridad”",
+      "en": "Meeting with the “Tempio della Carità” (Temple of Charity)"
+     },
+     "local": {
+      "pt": "Santuário de Pompeia (Sala Luisa Trapani)",
+      "es": "Santuario de la Bienaventurada Virgen María del Santo Rosario de Pompeya",
+      "en": "Sanctuary of the Blessed Virgin Mary of the Holy Rosary of Pompeii (“Luisa Trapani” Hall)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "v-2026-04-13",
+   "tipo": "apostolica",
+   "inicio": "2026-04-13",
+   "fim": "2026-04-23",
+   "titulo": {
+    "pt": "à Argélia, aos Camarões, a Angola e à Guiné Equatorial",
+    "es": "a Argelia, Camerún, Angola y Guinea Ecuatorial",
+    "en": "to Algeria, Cameroon, Angola and Equatorial Guinea"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/4/13/viaggio-africa.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/4/13/viaggio-africa.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/4/13/viaggio-africa.html"
+   },
+   "compromissos": [
+    {
+     "data": "2026-04-13",
+     "pais": {
+      "pt": "Argélia",
+      "es": "Argelia",
+      "en": "Algiers"
+     },
+     "titulo": {
+      "pt": "Encontro com a comunidade argelina",
+      "es": "Encuentro con la comunidad argelina en la Basílica de Nuestra Señora de África",
+      "en": "Meeting with the Algerian Community"
+     },
+     "local": {
+      "pt": "Basílica de Nossa Senhora da África, Argel (hora local)",
+      "es": "Basílica de Nuestra Señora de África (Argel) h. (hora local)",
+      "en": "Basilica of Our Lady Of Africa (Algiers) at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-13",
+     "pais": {
+      "pt": "Argélia",
+      "es": "Argelia",
+      "en": "Algeria"
+     },
+     "titulo": {
+      "pt": "Visita à Grande Mesquita de Argel",
+      "es": "Visita a la Gran Mezquita de Argel",
+      "en": "Visit to the Great Mosque of Algiers"
+     },
+     "local": {
+      "pt": "Grande Mesquita de Argel (hora local)",
+      "es": "Gran Mezquita de Argel h. (hora local)",
+      "en": "Great Mosque of Algiers at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-13",
+     "pais": {
+      "pt": "Argélia",
+      "es": "Argelia",
+      "en": "Algiers"
+     },
+     "titulo": {
+      "pt": "Encontro com autoridades, sociedade civil e corpo diplomático",
+      "es": "Encuentro con las autoridades, la sociedad civil y el cuerpo diplomático en el Centro de Convenciones «Djamaa el Djazair»",
+      "en": "Meeting with the Authorities, Civil Society and The Diplomatic Corps"
+     },
+     "local": {
+      "pt": "Centro de Conferências “Djamaa el Djazair”, Argel (hora local)",
+      "es": "Centro de Convenciones «Djamaa el Djazair» h (hora local)",
+      "en": "“Djamaa El Djazair” Conference Center at p.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-04-13",
+     "pais": {
+      "pt": "Argélia",
+      "es": "Argelia",
+      "en": "Algiers"
+     },
+     "titulo": {
+      "pt": "Visita ao Memorial do Mártir Maqam Echahid",
+      "es": "Visita al monumento a los mártires Maqam Echahid",
+      "en": "Visit To The Maqam Echahid Martyrs’ Monument"
+     },
+     "local": {
+      "pt": "Argel (hora local)",
+      "es": "Argel h. (hora local)",
+      "en": "Algiers at a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-04-14",
+     "pais": {
+      "pt": "Argélia",
+      "es": "Argelia",
+      "en": "Algiers"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa en la Basílica de San Agustín",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Basílica de Santo Agostinho, Annaba (hora local)",
+      "es": "Basílica de San Agustín h.",
+      "en": "Basilica of Saint Augustine (Annaba) at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-14",
+     "pais": {
+      "pt": "Argélia",
+      "es": "Argelia",
+      "en": "Algiers"
+     },
+     "titulo": {
+      "pt": "Visita à casa de acolhimento de idosos das Irmãzinhas dos Pobres",
+      "es": "Visita al Hogar de acogida para personas mayores de las Hermanitas de los Pobres",
+      "en": "Visit to the Nursing Home of The Little Sisters of The Poor"
+     },
+     "local": {
+      "pt": "Annaba (hora local)",
+      "es": "Hogar de acogida para mayores de las Pequeñas Hermanas de los Pobres (Annaba) h.",
+      "en": "Nursing Home of The Little Sisters of The Poor (Annaba) at a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-04-15",
+     "pais": {
+      "pt": "Camarões",
+      "es": "Camerún",
+      "en": "Camerun"
+     },
+     "titulo": {
+      "pt": "Visita ao Orfanato Ngul Zamba",
+      "es": "Visita al Orfanato Ngul Zamba",
+      "en": "Visit to the Ngul Zamba Orphanage"
+     },
+     "local": {
+      "pt": "Iaundé (hora local)",
+      "es": "Orfanato Ngul Zamba (Yaundé) h. (hora local)",
+      "en": "Ngul Zamba Orphanage (Yaoundé) at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-15",
+     "pais": {
+      "pt": "Camarões",
+      "es": "Camerún",
+      "en": "Camerun"
+     },
+     "titulo": {
+      "pt": "Encontro com autoridades, sociedade civil e corpo diplomático",
+      "es": "Encuentro con las autoridades, la sociedad civil y el cuerpo diplomático en el Palacio Presidencial",
+      "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
+     },
+     "local": {
+      "pt": "Palácio Presidencial (Iaundé) (hora local)",
+      "es": "Palacio Presidencial (Yaundé) h. (hora local)",
+      "en": "Presidential Palace (Yaoundé) at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-15",
+     "pais": {
+      "pt": "Camarões",
+      "es": "Camerún",
+      "en": "Cameroon"
+     },
+     "titulo": {
+      "pt": "Palavras do Santo Padre aos jornalistas durante o voo com destino a Iaundé",
+      "es": "Palabras del Santo Padre a los periodistas durante el vuelo con destino a Yaundé",
+      "en": "Greeting of the Holy Father to Journalists During the Flight to Yaoundé"
+     },
+     "local": {
+      "pt": null,
+      "es": "Vuelo papal",
+      "en": "Papal Flight"
+     }
+    },
+    {
+     "data": "2026-04-16",
+     "pais": {
+      "pt": "Camarões",
+      "es": "Camerún",
+      "en": "Camerun"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa en el Aeropuerto Internacional de Bamenda",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Aeroporto de Bamenda (hora local)",
+      "es": "Aeropuerto Internacional de Bamenda (Bamenda) h. (hora local)",
+      "en": "Bamenda International Airport at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-16",
+     "pais": {
+      "pt": "Camarões",
+      "es": "Camerún",
+      "en": "Camerun"
+     },
+     "titulo": {
+      "pt": "Encontro pela Paz com a Comunidade de Bamenda",
+      "es": "Encuentro por la paz con la comunidad de Bamenda en la catedral de San José",
+      "en": "Meeting for Peace with the Community of Bamenda"
+     },
+     "local": {
+      "pt": "Catedral de São José (Bamenda) (hora local)",
+      "es": "Catedral de San José h. (hora local)",
+      "en": "Saint Joseph’s Cathedral (Bamenda) at a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-04-17",
+     "pais": {
+      "pt": "Camarões",
+      "es": "Camerún",
+      "en": "Camerun"
+     },
+     "titulo": {
+      "pt": "Encontro com o Mundo universitário",
+      "es": "Encuentro con el mundo universitario en la Universidad Católica de África Central",
+      "en": "Meeting with University Students and Professors"
+     },
+     "local": {
+      "pt": "Universidade Católica da África Central (Iaundé)",
+      "es": "Universidad Católica de África Central (Yaundé)",
+      "en": "Catholic University of Central Africa (Yaoundé)"
+     }
+    },
+    {
+     "data": "2026-04-17",
+     "pais": {
+      "pt": "Camarões",
+      "es": "Camerún",
+      "en": "Camerun"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa en el «Japoma Stadium»",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "“Japoma Stadium” (Douala) (hora local)",
+      "es": "“Japoma Stadium” (Douala) h. (hora local)",
+      "en": "“Japoma Stadium” (Douala) at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-18",
+     "pais": {
+      "pt": "Angola",
+      "es": "Angola",
+      "en": "Angola"
+     },
+     "titulo": {
+      "pt": "Encontro com autoridades, sociedade civil e corpo diplomático",
+      "es": "Encuentro con las autoridades, la sociedad civil y el cuerpo diplomático",
+      "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
+     },
+     "local": {
+      "pt": "Palácio Presidencial, Luanda (hora local)",
+      "es": "h. (hora local)",
+      "en": "Protocol Pavilion of the Presidential Palace at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-18",
+     "pais": {
+      "pt": "Angola",
+      "es": "Angola",
+      "en": "Angola"
+     },
+     "titulo": {
+      "pt": "Palavras do Santo Padre aos jornalistas durante o voo com destino a Luanda",
+      "es": "Palabras del Santo Padre a los periodistas durante el vuelo con destino a Luanda",
+      "en": "Greeting of the Holy Father to journalists during the flight to Luanda"
+     },
+     "local": {
+      "pt": null,
+      "es": "Vuelo papal",
+      "en": "Papal Flight"
+     }
+    },
+    {
+     "data": "2026-04-18",
+     "pais": {
+      "pt": "Camarões",
+      "es": "Camerún",
+      "en": "Camerun"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa en el Aeropuerto de Yaundé-Ville",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Aeroporto de Yaoundé-Ville (hora local)",
+      "es": "Aeropuerto de Yaundé-Ville h. (hora local)",
+      "en": "Yaoundé-Ville Airport at a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-04-19",
+     "pais": {
+      "pt": "Angola",
+      "es": "Angola",
+      "en": "Angola"
+     },
+     "titulo": {
+      "pt": "Recitação do Terço",
+      "es": "Oración del Santo Rosario en la explanada situada frente al Santuario de «Mama Muxima»",
+      "en": "Holy Rosary Prayer"
+     },
+     "local": {
+      "pt": "Esplanada diante do Santuário de “Mama Muxima” (Muxima) (hora local)",
+      "es": "Explanada situada frente al Santuario de “Mama Muxima” (Muxima) h. (hora local)",
+      "en": "Esplanade in front of the “Mama Muxima” Shrine (Muxima) at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-19",
+     "pais": {
+      "pt": "Angola",
+      "es": "Angola",
+      "en": null
+     },
+     "titulo": {
+      "pt": "Regina Caeli",
+      "es": "Regina Caeli",
+      "en": "Regina Caeli"
+     },
+     "local": {
+      "pt": "Kilamba",
+      "es": "h.",
+      "en": "at p.m."
+     }
+    },
+    {
+     "data": "2026-04-19",
+     "pais": {
+      "pt": "Angola",
+      "es": "Angola",
+      "en": "Angola"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa en Kilamba",
+      "en": "Holy Mass in Kilamba"
+     },
+     "local": {
+      "pt": "Kilamba (Angola) (hora local)",
+      "es": "Kilamba h. (hora local)",
+      "en": "Kilamba at a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-04-20",
+     "pais": {
+      "pt": "Angola",
+      "es": "Angola",
+      "en": "Angola"
+     },
+     "titulo": {
+      "pt": "Encontro com os bispos, sacerdotes, consagrados, consagradas e agentes pastorais",
+      "es": "Encuentro con los obispos, los sacerdotes, los consagrados, las consagradas y los agentes pastorales en la parroquia de Nuestra Señora de Fátima",
+      "en": "Meeting with Bishops, Priests, Consecrated Men and Women and Pastoral Workers"
+     },
+     "local": {
+      "pt": "Paróquia de Nossa Senhora de Fátima (Luanda) (hora local)",
+      "es": "Parroquia de Nuestra Señora de Fátima (Luanda) h. (hora local)",
+      "en": "Parish of Our Lady of Fatima (Luanda) at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-20",
+     "pais": {
+      "pt": "Angola",
+      "es": "Angola",
+      "en": "Angola"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa en la explanada de Saurimo",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Esplanada de Saurimo (Saurimo) (hora local)",
+      "es": "Explanada de Saurimo (Saurimo) h. (hora local)",
+      "en": "Saurimo esplanade at a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-04-20",
+     "pais": {
+      "pt": "Angola",
+      "es": "Angola",
+      "en": "Angola"
+     },
+     "titulo": {
+      "pt": "Visita à Casa de acolhimento de idosos",
+      "es": "Visita al Hogar de Acogida para Personas Mayores",
+      "en": "Visit to a Nursing Home"
+     },
+     "local": {
+      "pt": "Saurimo (hora local)",
+      "es": "Visita al Hogar de Acogida para Personas Mayores (Saurimo) h. (hora local)",
+      "en": "Visit to a Nursing Home (Saurimo) at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-21",
+     "pais": {
+      "pt": "Guiné Equatorial",
+      "es": "Guinea Ecuatorial",
+      "en": "Equatorial Guinea"
+     },
+     "titulo": {
+      "pt": "Visita aos funcionários e pacientes do Hospital psiquiátrico “Jean Pierre Olie”",
+      "es": "Visita a los trabajadores y pacientes del Hospital Psiquiátrico «Jean Pierre Olie»",
+      "en": "Visit to the Staff and Patients of the “Jean Pierre Olie” Psychiatric Hospital"
+     },
+     "local": {
+      "pt": "Malabo (hora local)",
+      "es": "Hospital psiquiátrico «Jean Pierre Olie» (Malabo) 17:15h. (hora local)",
+      "en": "“Jean Pierre Olie” Psychiatric Hospital (Malabo) at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-21",
+     "pais": {
+      "pt": "Guiné Equatorial",
+      "es": "Guinea Ecuatorial",
+      "en": "Equatorial Guinea"
+     },
+     "titulo": {
+      "pt": "Encontro com o Mundo da Cultura no Campus Universitário Leão XIV da Universidade Nacional",
+      "es": "Encuentro con el mundo de la Cultura en el Campus Universitario «León XIV» de la Universidad Nacional",
+      "en": "Meeting with the World of Culture"
+     },
+     "local": {
+      "pt": "Campus Universitário Leão XIV da Universidade Nacional (Malabo) (hora local)",
+      "es": "Campus Universitario “León XIV” de la Universidad Nacional (Malabo) h.",
+      "en": "León XIV Campus of The National University (Malabo) at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-21",
+     "pais": {
+      "pt": "Guiné Equatorial",
+      "es": "Guinea Ecuatorial",
+      "en": "Equatorial Guinea"
+     },
+     "titulo": {
+      "pt": "Encontro com autoridades, sociedade civil e corpo diplomático",
+      "es": "Encuentro con las autoridades, la sociedad civil y el cuerpo diplomático en el Palacio Presidencial",
+      "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
+     },
+     "local": {
+      "pt": "Palácio Presidencial (Malabo) (hora local)",
+      "es": "Palacio Presidencial (Malabo) h.",
+      "en": "Presidential Palace (Malabo) at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-21",
+     "pais": {
+      "pt": "Guiné Equatorial",
+      "es": "Guinea Ecuatorial",
+      "en": "Equatorial Guinea"
+     },
+     "titulo": {
+      "pt": "Conferência de imprensa sobre o voo de Luanda para Malabo",
+      "es": "Conferencia de Prensa durante el vuelo de Luanda a Malabo",
+      "en": "Press Conference during the Flight to Malabo"
+     },
+     "local": {
+      "pt": null,
+      "es": "Vuelo papal",
+      "en": "Papal Flight"
+     }
+    },
+    {
+     "data": "2026-04-22",
+     "pais": {
+      "pt": "Guiné Equatorial",
+      "es": "Guinea Ecuatorial",
+      "en": "Equatorial Guinea"
+     },
+     "titulo": {
+      "pt": "Encontro com os jovens e as famílias",
+      "es": "Encuentro con los jóvenes y las familias en el Estadio de Bata",
+      "en": "Meeting with Young People and Families"
+     },
+     "local": {
+      "pt": "Estádio de Bata (hora local)",
+      "es": "Estadio de Bata h. (hora local)",
+      "en": "Bata Stadium at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-22",
+     "pais": {
+      "pt": "Guiné Equatorial",
+      "es": "Guinea Ecuatorial",
+      "en": "Equatorial Guinea"
+     },
+     "titulo": {
+      "pt": "Visita à Prisão de Bata",
+      "es": "Visita a la prisión de Bata",
+      "en": "Visit to Bata Prison"
+     },
+     "local": {
+      "pt": "(hora local)",
+      "es": "Prisión de Bata h. (hora local)",
+      "en": "Bata Prison at (local time)"
+     }
+    },
+    {
+     "data": "2026-04-22",
+     "pais": {
+      "pt": "Guiné Equatorial",
+      "es": "Guinea Ecuatorial",
+      "en": "Equatorial Guinea"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa en la Basílica de la Inmaculada Concepción",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Basílica da Imaculada Conceição (Mongomo)",
+      "es": "Basílica de la Inmaculada Concepción (Mongomo) h.",
+      "en": "Basilica of the Immaculate Conception (Mongomo) at a.m. (local time)"
+     }
+    },
+    {
+     "data": "2026-04-23",
+     "pais": {
+      "pt": "Guiné Equatorial",
+      "es": "Guinea Ecuatorial",
+      "en": "Equatorial Guinea"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa en el Estadio de Malabo",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "Estádio de Malabo (hora local)",
+      "es": "Estadio de Malabo h. (hora local)",
+      "en": "Malabo Stadium at (local time)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "v-2025-11-27",
+   "tipo": "apostolica",
+   "inicio": "2025-11-27",
+   "fim": "2025-12-02",
+   "titulo": {
+    "pt": "à Türkiye e ao Líbano, com peregrinação a İznik (Türkiye), por ocasião do 1700.º aniversário do Primeiro Concílio de Nicéia",
+    "es": "a Türkiye y Líbano con peregrinación a İznik (Turquía) con motivo del 1700.º aniversario del Primer Concilio de Nicea",
+    "en": "to Türkiye and Lebanon with Pilgrimage to Iznik (Türkiye) on the occasion of the 1700th Anniversary of the First Ecumenical Council of Nicaea"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2025/11/27/viaggio-turchia-libano.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2025/11/27/viaggio-turchia-libano.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2025/11/27/viaggio-turchia-libano.html"
+   },
+   "compromissos": [
+    {
+     "data": "2025-11-27",
+     "pais": {
+      "pt": "Türkiye",
+      "es": "Türkiye",
+      "en": "Türkiye"
+     },
+     "titulo": {
+      "pt": "Encontro com as Autoridades, com a Sociedade Civil e com o Corpo Diplomático",
+      "es": "Encuentro con las autoridades, la sociedad civil y el cuerpo diplomático",
+      "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
+     },
+     "local": {
+      "pt": "Ancara",
+      "es": "Ankara h.",
+      "en": "Ankara at"
+     }
+    },
+    {
+     "data": "2025-11-27",
+     "pais": {
+      "pt": null,
+      "es": null,
+      "en": null
+     },
+     "titulo": {
+      "pt": "Saudação do Santo Padre aos jornalistas durante o voo com destino a Ancara",
+      "es": "Saludo a los periodistas durante el vuelo Roma-Ankara",
+      "en": "Greeting to Journalists during the Rome–Ankara flight"
+     },
+     "local": {
+      "pt": null,
+      "es": "Vuelo papal",
+      "en": "Papal Flight"
+     }
+    },
+    {
+     "data": "2025-11-28",
+     "pais": {
+      "pt": "Türkiye",
+      "es": "Türkiye",
+      "en": "Türkiye"
+     },
+     "titulo": {
+      "pt": "Encontro ecuménico de oração perto das escavações arqueológicas da antiga Basílica de São Neófito",
+      "es": "Encuentro ecuménico de oración cerca de las excavaciones arqueológicas de la antigua Basílica de San Neófito en İznik",
+      "en": "Ecumenical Prayer service near the archaeological excavations of the ancient Basilica of Saint Neophytos"
+     },
+     "local": {
+      "pt": "İznik",
+      "es": "İznik h.",
+      "en": "İznik at p.m."
+     }
+    },
+    {
+     "data": "2025-11-28",
+     "pais": {
+      "pt": "Türkiye",
+      "es": "Türkiye",
+      "en": "Türkiye"
+     },
+     "titulo": {
+      "pt": "Visita a Casa de Idosos das Irmãzinhas dos Pobres",
+      "es": "Visita a la residencia de ancianos de las Hermanitas de los Pobres",
+      "en": "Visit to the Little Sisters of the Poor, in a Home for the Elderly"
+     },
+     "local": {
+      "pt": "Istanbul ore (ora locale)",
+      "es": "Istanbul ore (ora locale)",
+      "en": "Istanbul ore (ora locale)"
+     }
+    },
+    {
+     "data": "2025-11-28",
+     "pais": {
+      "pt": "Türkiye",
+      "es": "Türkiye",
+      "en": "Türkiye"
+     },
+     "titulo": {
+      "pt": "Encontro de oração com os Bispos, os Sacerdotes, os Diáconos, os Consagrados e os Agentes Pastorais",
+      "es": "Encuentro de oración con los obispos, sacerdotes, diáconos, consagrados, consagradas y operadores pastorales en la Catedral del Espíritu Santo",
+      "en": "Prayer Meeting with Bishops, Priests, Deacons, Consecrated Men and Women, and Pastoral Workers"
+     },
+     "local": {
+      "pt": "Catedral do Espírito Santo (Istambul)",
+      "es": "Catedral del Espíritu Santo (Estambul) h.",
+      "en": "Cathedral of the Holy Spirit (Istanbul) at a.m."
+     }
+    },
+    {
+     "data": "2025-11-29",
+     "pais": {
+      "pt": "Türkiye",
+      "es": "Türkiye",
+      "en": "Türkiye"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa en el «Volkswagen Arena»",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "&quot;Volkswagen Arena&quot; (Istambul)",
+      "es": "&quot;Volkswagen Arena&quot; (Estambul) h.",
+      "en": "&quot;Volkswagen Arena&quot; (Istanbul) at"
+     }
+    },
+    {
+     "data": "2025-11-29",
+     "pais": {
+      "pt": "Türkiye",
+      "es": "Türkiye",
+      "en": "of His Holiness to Türkiye"
+     },
+     "titulo": {
+      "pt": "Declaração Conjunta do Santo Padre Leão XIV e Sua Santidade Bartolomeu I",
+      "es": "Declaración Conjunta del Santo Padre León XIV y SS. Bartolomeo I",
+      "en": "Joint Declaration of the Holy Father Leo XIV and His Holiness Bartholomew I"
+     },
+     "local": {
+      "pt": "Palácio Patriarcal (Istambul)",
+      "es": "Palacio Patriarcal (Estambul) h.",
+      "en": "Patriarchal Palace (Istanbul) p.m."
+     }
+    },
+    {
+     "data": "2025-11-29",
+     "pais": {
+      "pt": "Türkiye",
+      "es": "Türkiye",
+      "en": "Türkiye"
+     },
+     "titulo": {
+      "pt": "Doxologia",
+      "es": "Doxología en la Iglesia Patriarcal de San Jorge",
+      "en": "Doxology"
+     },
+     "local": {
+      "pt": "Igreja Patriarcal de São Jorge (Istambul)",
+      "es": "Iglesia Patriarcal de San Jorge (Estambul) h.",
+      "en": "Patriarchal Church of Saint George (Istanbul) at"
+     }
+    },
+    {
+     "data": "2025-11-30",
+     "pais": {
+      "pt": "Líbano",
+      "es": "Líbano",
+      "en": "Lebanon"
+     },
+     "titulo": {
+      "pt": "Encontro com as Autoridades, com a Sociedade Civil e com o Corpo Diplomático",
+      "es": "Encuentro con las autoridades, la sociedad civil y el cuerpo diplomático",
+      "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps, Beirut"
+     },
+     "local": {
+      "pt": "Beirute",
+      "es": "Beirut h.",
+      "en": "Beirut at"
+     }
+    },
+    {
+     "data": "2025-11-30",
+     "pais": {
+      "pt": null,
+      "es": null,
+      "en": null
+     },
+     "titulo": {
+      "pt": "Conferência de imprensa durante o voo Istambul-Beirute",
+      "es": "Conferencia de prensa durante el vuelo Estambul-Beirut",
+      "en": "Pope Leo XIV's Press Conference on the flight from Istanbul to Beirut"
+     },
+     "local": {
+      "pt": null,
+      "es": "Vuelo papal",
+      "en": "Papal Flight"
+     }
+    },
+    {
+     "data": "2025-11-30",
+     "pais": {
+      "pt": "Türkiye",
+      "es": "Türkiye",
+      "en": "Türkiye"
+     },
+     "titulo": {
+      "pt": "Divina Liturgia",
+      "es": "Divina Liturgia en la Iglesia Patriarcal de San Jorge",
+      "en": "Divine Liturgy"
+     },
+     "local": {
+      "pt": "Igreja Patriarcal de São Jorge (Istambul)",
+      "es": "Iglesia Patriarcal de San Jorge (Estambul) h.",
+      "en": "Patriarchal Church of Saint George (Istanbul) at a.m."
+     }
+    },
+    {
+     "data": "2025-11-30",
+     "pais": {
+      "pt": "Türkiye",
+      "es": "Türkiye",
+      "en": "Türkiye"
+     },
+     "titulo": {
+      "pt": "Visita de oração à Catedral Apostólica Arménia",
+      "es": "visita de oración a la catedral armenia apostólica",
+      "en": "Prayer Visit to the Armenian Apostolic Cathedral"
+     },
+     "local": {
+      "pt": "Istambul",
+      "es": "Estambul h.",
+      "en": "Istanbul at a.m."
+     }
+    },
+    {
+     "data": "2025-12-01",
+     "pais": {
+      "pt": "Líbano",
+      "es": "Líbano",
+      "en": "Lebanon"
+     },
+     "titulo": {
+      "pt": "Encontro com os Jovens",
+      "es": "Encuentro con los jóvenes en la plaza frente al Patriarcado de Antioquía de los maronitas",
+      "en": "Meeting with Young People in front of the Patriarchate of Antioch of the Maronites"
+     },
+     "local": {
+      "pt": "Praça em frente ao Patriarcado Maronita de Antioquia (Bkerké)",
+      "es": "Plaza frente al Patriarcado de Antioquía de los maronitas en Bkerké h.",
+      "en": "Square in front of the Patriarchate of Antiochia of the Maronites in Bkerké at"
+     }
+    },
+    {
+     "data": "2025-12-01",
+     "pais": {
+      "pt": "Líbano",
+      "es": "Líbano",
+      "en": "Lebanon"
+     },
+     "titulo": {
+      "pt": "Encontro ecuménico e inter-religioso",
+      "es": "Encuentro ecuménico e interreligioso en la Plaza de los Mártires de Beirut",
+      "en": "Ecumenical and Interreligious Meeting"
+     },
+     "local": {
+      "pt": "Praça dos Mártires (Beirute)",
+      "es": "Plaza de los Mártires (Beirut) h.",
+      "en": "Martyrs’ Square (Beirut) at"
+     }
+    },
+    {
+     "data": "2025-12-01",
+     "pais": {
+      "pt": "Líbano",
+      "es": "Líbano",
+      "en": "Lebanon"
+     },
+     "titulo": {
+      "pt": "Encontro com os Bispos, os Sacerdotes, os Consagrados e os Agentes Pastorais",
+      "es": "Encuentro con los obispos, sacerdotes, consagrados, consagradas y agentes pastorales en el Santuario de Nuestra Señora del Líbano",
+      "en": "Meeting with Bishops, Priests, Consecrated Men and Women, and Pastoral Workers"
+     },
+     "local": {
+      "pt": "Santuário de Nossa Senhora do Líbano (Harissa)",
+      "es": "Santuario de Nuestra Señora del Líbano (Harissa) h.",
+      "en": "Shrine of Our Lady of Lebanon (Harissa) at a.m."
+     }
+    },
+    {
+     "data": "2025-12-01",
+     "pais": {
+      "pt": "Líbano",
+      "es": "Líbano",
+      "en": "Lebanon"
+     },
+     "titulo": {
+      "pt": "Visita e oração no túmulo de São Charbel Maklūf",
+      "es": "Visita y oración en la tumba de San Charbel Maklūf en el monasterio de San Maroun en Annaya",
+      "en": "Visit and Prayer on the Tomb of Saint Charbel Maklūf"
+     },
+     "local": {
+      "pt": "Mosteiro de São Maron em Annaya",
+      "es": "Monasterio de San Maroun en Annaya h.",
+      "en": "Monastery of Saint Maroun in Annaya at a.m."
+     }
+    },
+    {
+     "data": "2025-12-02",
+     "pais": {
+      "pt": null,
+      "es": null,
+      "en": null
+     },
+     "titulo": {
+      "pt": "Conferência de imprensa durante o voo de regresso a Roma",
+      "es": "Conferencia de prensa durante el vuelo de regreso a Roma",
+      "en": "Press Conference during the flight to Rome"
+     },
+     "local": {
+      "pt": null,
+      "es": "Vuelo papal",
+      "en": "Papal Flight"
+     }
+    },
+    {
+     "data": "2025-12-02",
+     "pais": {
+      "pt": "Líbano",
+      "es": "Líbano",
+      "en": "Apostolic Voyage to Lebanon"
+     },
+     "titulo": {
+      "pt": "Cerimónia de despedida",
+      "es": "Ceremonia de despedida en el Aeropuerto Internacional de Beirut",
+      "en": "Farewell Ceremony"
+     },
+     "local": {
+      "pt": "Aeroporto Internacional de Beirute",
+      "es": "Aeropuerto Internacional de Beirut h.",
+      "en": "Beirut International Airport at p.m."
+     }
+    },
+    {
+     "data": "2025-12-02",
+     "pais": {
+      "pt": "Líbano",
+      "es": "Líbano",
+      "en": "Lebanon"
+     },
+     "titulo": {
+      "pt": "Santa Missa",
+      "es": "Santa Misa en el «Beirut Waterfront»",
+      "en": "Holy Mass"
+     },
+     "local": {
+      "pt": "&quot;Beirut Waterfront&quot; (Beirute)",
+      "es": "&quot;Beirut Waterfront&quot; (Beirut) h.",
+      "en": "&quot;Beirut Waterfront&quot; (Beirut) a.m."
+     }
+    },
+    {
+     "data": "2025-12-02",
+     "pais": {
+      "pt": "Líbano",
+      "es": "Líbano",
+      "en": "Lebanon"
+     },
+     "titulo": {
+      "pt": "Visita aos Funcionários e Pacientes",
+      "es": "visita a los trabajadores y pacientes del hospital «De La Croix» en Jal ed Dib",
+      "en": "Visit to Staff and Patients of the “De La Croix” Hospital in Jal ed Dib"
+     },
+     "local": {
+      "pt": "Hospital “De La Croix” (Jal ed Dib)",
+      "es": "Hospital “De La Croix” (Jal ed Dib) h.",
+      "en": "“De La Croix” Hospital (Jal ed Dib) at a.m."
+     }
+    }
+   ]
+  }
+ ]
+}

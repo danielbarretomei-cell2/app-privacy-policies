@@ -1,11 +1,13 @@
 # Robô da agenda do app "Papa Hoje" (SoulfulApps).
 # A cada 6 h lê o calendário público do vatican.va (pt, es, en) e publica papa-hoje/agenda.json
 # no GitHub Pages: https://danielbarretomei-cell2.github.io/app-privacy-policies/papa-hoje/agenda.json
-# Só faz commit quando a agenda muda. Mexe apenas em papa-hoje/agenda.json.
+# 1x por dia (06h17 UTC) também atualiza papa-hoje/viagens.json e papa-hoje/documentos.json.
+# Só faz commit quando algo muda. Mexe apenas nesses 3 arquivos.
 name: Papa Hoje - agenda
 on:
   schedule:
-    - cron: '17 */6 * * *'
+    - cron: '17 0,12,18 * * *'
+    - cron: '17 6 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -25,11 +27,14 @@ jobs:
         run: node papa-hoje/robo/agenda.js 3
         env:
           AGENDA_OUT: papa-hoje/agenda.json
+      - name: Ler viagens e documentos (1x por dia, às 06h UTC)
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '17 6 * * *'
+        run: node papa-hoje/robo/historico.js papa-hoje
       - name: Publicar se mudou
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add papa-hoje/agenda.json
+          git add papa-hoje/agenda.json papa-hoje/viagens.json papa-hoje/documentos.json
           if git diff --cached --quiet; then echo "sem mudança"; exit 0; fi
           git commit -m "Papa Hoje: agenda atualizada automaticamente"
           git push

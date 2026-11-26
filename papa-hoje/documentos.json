@@ -1,0 +1,202 @@
+{
+ "versao": 1,
+ "geradoEm": "2026-11-26T22:43:46.042Z",
+ "fonte": "vatican.va",
+ "documentos": [
+  {
+   "id": "20261122-pastorale-carceraria",
+   "tipo": "motuproprio",
+   "data": "2026-11-22",
+   "titulo": {
+    "pt": "« In carcere eram, et venistis ad me » - Carta Apostólica sob a forma de «Motu Proprio» do Sumo Pontífice sobre a Pastoral Prisional",
+    "es": "“ In carcere eram, et venistis ad me ” - Carta Apostólica en forma de «Motu Proprio» del Sumo Pontífice sobre la Pastoral penitenciaria",
+    "en": "“In carcere eram, et venistis ad me” – Apostolic Letter issued Motu Proprio by the Supreme Pontiff concerning Prison Ministry"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20261122-pastorale-carceraria.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20261122-pastorale-carceraria.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20261122-pastorale-carceraria.html"
+   }
+  },
+  {
+   "id": "20260901-abrogazione-un-futuro-sostenibile",
+   "tipo": "motuproprio",
+   "data": "2026-09-01",
+   "titulo": {
+    "pt": "Carta Apostólica sob a forma de «Motu Proprio» do Sumo Pontífice Leão XIV",
+    "es": "Carta Apostólica en forma de «Motu Proprio» del Sumo Pontífice León XIV",
+    "en": "Apostolic Letter in the form of a ‘Motu Proprio’ by Pope Leo XIV"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20260901-abrogazione-un-futuro-sostenibile.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20260901-abrogazione-un-futuro-sostenibile.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20260901-abrogazione-un-futuro-sostenibile.html"
+   }
+  },
+  {
+   "id": "20260829-mutua-concordia",
+   "tipo": "motuproprio",
+   "data": "2026-08-29",
+   "titulo": {
+    "pt": "Carta Apostólica sob a forma de «Motu Proprio» Mutua Concordia do Sumo Pontífice Leão XIV, com a qual são modificados os Cânones 106 e 126 do Codex Canonum Ecclesiarum Orientalium (29 de agosto de 2026)",
+    "es": "Carta Apostólica en forma de «Motu Proprio» Mutua Concordia que modifica los cánones 106 y 126 del Codex Canonum Ecclesiarum Orientalium",
+    "en": "Apostolic Letter issued “Motu Proprio” Mutua Concordia of the Supreme Pontiff Leo XIV amending Canons 106 and 126 of the Codex Canonum Ecclesiarum Orientalium"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20260829-mutua-concordia.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20260829-mutua-concordia.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20260829-mutua-concordia.html"
+   }
+  },
+  {
+   "id": "20260624-confirma-fratres-tuos",
+   "tipo": "motuproprio",
+   "data": "2026-06-24",
+   "titulo": {
+    "pt": "Carta Apostólica sob a forma de «Motu Proprio» sobre a revisão da Constituição Apostólica In Ecclesiarum Communione",
+    "es": "Carta Apostólica en forma de «Motu Proprio» sobre la revisión de la Constitución Apostólica In Ecclesiarum Communione",
+    "en": "Apostolic Letter in the form of a “Motu Proprio” on the revision of the Apostolic Constitution In Ecclesiarum Communione"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20260624-confirma-fratres-tuos.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20260624-confirma-fratres-tuos.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20260624-confirma-fratres-tuos.html"
+   }
+  },
+  {
+   "id": "20260515-magnifica-humanitas",
+   "tipo": "enciclica",
+   "data": "2026-05-15",
+   "titulo": {
+    "pt": "Carta Encíclica Magnifica Humanitas do Papa Leão XIV",
+    "es": "Carta Encíclica de Su Santidad León XIV Magnifica Humanitas",
+    "en": "First Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/encyclicals/documents/20260515-magnifica-humanitas.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/encyclicals/documents/20260515-magnifica-humanitas.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html"
+   }
+  },
+  {
+   "id": "20251211-nel-centenario-piac",
+   "tipo": "carta",
+   "data": "2025-12-11",
+   "titulo": {
+    "pt": "Carta Apostólica do Santo Padre Leão XIV sobre a importância da Arqueologia por ocasião do centenário do Pontifício Instituto de Arqueologia Cristã",
+    "es": "Carta Apostólica del Santo Padre sobre la importancia de la arqueología con motivo del centenario del Pontificio Instituto de Arqueología Cristiana",
+    "en": "Apostolic Letter of the Holy Father Pope Leo XIV on the importance of Archaeology on the occasion of the Centenary of the Pontifical Institute of Christian Archaeology"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20251211-nel-centenario-piac.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20251211-nel-centenario-piac.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20251211-nel-centenario-piac.html"
+   }
+  },
+  {
+   "id": "20251208-una-fedelta",
+   "tipo": "carta",
+   "data": "2025-12-08",
+   "titulo": {
+    "pt": "Carta Apostólica Uma fidelidade que gera futuro do Santo Padre Leão XIV por ocasião do LX aniversário dos Decretos Conciliares Optatam Totius e Presbyterorum Ordinis",
+    "es": "Carta Apostólica \"Una fidelidad que genera futuro\", con motivo del LX aniversario de los decretos conciliares Optatam Totius y Presbyterorum Ordinis",
+    "en": "Apostolic Letter A Fidelity that generates the Future of the Holy Father Leo XIV on the Sixtieth Anniversary of the Conciliar Decrees Optatam Totius and Presbyterorum Ordinis"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20251208-una-fedelta.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20251208-una-fedelta.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20251208-una-fedelta.html"
+   }
+  },
+  {
+   "id": "20251123-in-unitate-fidei",
+   "tipo": "carta",
+   "data": "2025-11-23",
+   "titulo": {
+    "pt": "Carta Apostólica In unitate fidei no 1.700º aniversário do Concílio de Nicéia",
+    "es": "Carta Apostólica In unitate fidei en el 1700 aniversario del Concilio de Nicea",
+    "en": "Apostolic Letter In Unitate Fidei on the 1700 th Anniversary of the Council of Nicaea"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20251123-in-unitate-fidei.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20251123-in-unitate-fidei.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20251123-in-unitate-fidei.html"
+   }
+  },
+  {
+   "id": "20251119-il-governatorato",
+   "tipo": "motuproprio",
+   "data": "2025-11-19",
+   "titulo": {
+    "pt": "Carta Apostólica sob a forma de «Motu Proprio» do Sumo Pontífice Leão XIV sobre a composição e Presidência da Pontifícia Comissão para o Estado da Cidade do Vaticano",
+    "es": "Carta Apostólica en forma de «Motu Proprio» del Sumo Pontífice León XIV sobre la composición y presidencia de la Comisión Pontificia para el Estado de la Ciudad del Vaticano",
+    "en": "Apostolic Letter issued “Motu Proprio” of the Supreme Pontiff Leo XIV on the Composition and Presidency of the Pontifical Commission for Vatican City State"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20251119-il-governatorato.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20251119-il-governatorato.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20251119-il-governatorato.html"
+   }
+  },
+  {
+   "id": "20251111-immota-manet",
+   "tipo": "motuproprio",
+   "data": "2025-11-11",
+   "titulo": {
+    "pt": "Carta Apostólica sob a forma de «Motu Proprio» Immota manet , sobre o setor central da Diocese de Roma",
+    "es": "Carta Apostólica en forma de «Motu Proprio» Immota manet , sobre el sector central de la Diócesis de Roma",
+    "en": "Apostolic Letter in the form of a Motu Proprio Immota manet , on the central sector of the Diocese of Rome"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20251111-immota-manet.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20251111-immota-manet.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20251111-immota-manet.html"
+   }
+  },
+  {
+   "id": "20251027-disegnare-nuove-mappe",
+   "tipo": "carta",
+   "data": "2025-10-27",
+   "titulo": {
+    "pt": "Carta Apostólica \"Traçar Novos Mapas de Esperança\" por ocasião do LX aniversário da Declaração Conciliar \"Gravissimum Educationis\"",
+    "es": "Carta Apostólica «Diseñar nuevos mapas de esperanza» con motivo del 60.º aniversario de la Declaración conciliar «Gravissimum educationis»",
+    "en": "Apostolic Letter ‘Drawing New Maps of Hope’ on the occasion of the 60 th anniversary of the Conciliar Declaration \"Gravissimum educationis\""
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20251027-disegnare-nuove-mappe.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20251027-disegnare-nuove-mappe.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20251027-disegnare-nuove-mappe.html"
+   }
+  },
+  {
+   "id": "20251004-dilexi-te",
+   "tipo": "exortacao",
+   "data": "2025-10-04",
+   "titulo": {
+    "pt": "Exortação Apostólica Dilexi Te do Santo Padre Leão XIV sobre o amor para com os pobres",
+    "es": "Exhortación Apostólica Dilexi te del Santo Padre León XIV sobre el amor hacia los pobres",
+    "en": "Apostolic Exhortation Dilexi te of the Holy Father Leo XIV on Love for the Poor"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/apost_exhortations/documents/20251004-dilexi-te.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/apost_exhortations/documents/20251004-dilexi-te.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/apost_exhortations/documents/20251004-dilexi-te.html"
+   }
+  },
+  {
+   "id": "20250929-coniuncta-cura",
+   "tipo": "motuproprio",
+   "data": "2025-09-29",
+   "titulo": {
+    "pt": "Carta Apostólica sob a forma de «Motu Proprio» \"Coniuncta cura\" do Sumo Pontífice Leão XIV",
+    "es": "Carta Apostólica en forma de «Motu Proprio» «Coniuncta cura» del Sumo Pontífice León XIV",
+    "en": "Apostolic Letter in the form of a «motu proprio» \"Coniuncta cura\", of His Holiness Pope Leo XIV"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20250929-coniuncta-cura.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20250929-coniuncta-cura.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20250929-coniuncta-cura.html"
+   }
+  }
+ ]
+}
