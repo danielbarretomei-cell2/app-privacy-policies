@@ -58,7 +58,8 @@ function limpaTituloViagem(t) {
 }
 const chaveDe = (ev) => (/\/vaticanevents\/[a-z]{2}\/(.+)$/.exec(ev.path || '') || [])[1] || null;
 const dataDaChave = (k) => { const [y, mo, d] = k.split('/'); return iso(y, mo, d); };
-const localDe = (ev) => strip((ev.description || '').replace(/\b\d{1,2}[h.:]\d{2}\b/g, '')).replace(/^(CAPELA PAPAL|CAPILLA PAPAL|PAPAL CHAPEL)\s*/i, '') || null;
+const HORA_LOCAL = /\(\s*(hora local|local time|ora locale|heure locale)[^)]*\)/gi;
+const localDe = (ev) => strip((ev.description || '').replace(/\b\d{1,2}[h.:]\d{2}\b/g, '').replace(HORA_LOCAL, '')).replace(/^(CAPELA PAPAL|CAPILLA PAPAL|PAPAL CHAPEL)\s*/i, '').replace(/\s+([,.;])/g, '$1').trim() || null;
 
 async function main() {
   const anoAtual = new Date().getUTCFullYear();

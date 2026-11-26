@@ -50,7 +50,7 @@ function horaRoma(ev) {
 /** Local = linhas da descrição que não são hora nem rótulo ("CAPELA PAPAL"). */
 function localDe(ev) {
   return stripHtml(ev.description)
-    .map((l) => l.replace(/\b\d{1,2}[h.:]\d{2}\b/g, '').trim())
+    .map((l) => l.replace(/\b\d{1,2}[h.:]\d{2}\b/g, '').replace(/\(\s*(hora local|local time|ora locale|heure locale)[^)]*\)/gi, '').trim())
     .filter((l) => l && !/^(CAPELA PAPAL|CAPILLA PAPAL|PAPAL CHAPEL|CAPPELLA PAPALE)$/i.test(l))
     .slice(0, 1)[0] || null;
 }

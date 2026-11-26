@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "geradoEm": "2026-11-26T22:43:46.038Z",
+ "geradoEm": "2026-11-26T23:06:23.605Z",
  "fonte": "vatican.va",
  "viagens": [
   {
@@ -32,9 +32,9 @@
       "en": "Celebration of Vespers with the Bishops, Priests, Deacons, Men and Women Religious, and Seminarians"
      },
      "local": {
-      "pt": "Catedral Metropolitana da Imaculada Conceição e dos Santos Filipe e Tiago (Montevidéu) (hora local)",
-      "es": "Catedral Metropolitana de la Inmaculada Concepción y de los Santos Felipe y Santiago (Montevideo) h. (hora local)",
-      "en": "Metropolitan Cathedral of the Immaculate Conception and Saints Philip and James (Montevideo) p.m. (local time)"
+      "pt": "Catedral Metropolitana da Imaculada Conceição e dos Santos Filipe e Tiago (Montevidéu)",
+      "es": "Catedral Metropolitana de la Inmaculada Concepción y de los Santos Felipe y Santiago (Montevideo) h.",
+      "en": "Metropolitan Cathedral of the Immaculate Conception and Saints Philip and James (Montevideo) p.m."
      }
     },
     {
@@ -50,9 +50,9 @@
       "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
      },
      "local": {
-      "pt": "«Plaza Independencia» (Montevidéu) (hora local)",
-      "es": "Plaza Independencia (Montevideo) h (hora local)",
-      "en": "“Plaza Independencia” (Montevideo) p.m. (local time)"
+      "pt": "«Plaza Independencia» (Montevidéu)",
+      "es": "Plaza Independencia (Montevideo) h",
+      "en": "“Plaza Independencia” (Montevideo) p.m."
      }
     },
     {
@@ -86,9 +86,9 @@
       "en": "Prayer vigil at the Estadio Centenario"
      },
      "local": {
-      "pt": "Estádio Centenario (Montevidéu) (hora local)",
-      "es": "Estadio Centenario (Montevideo) h. (hora local)",
-      "en": "Estadio Centenario (Montevideo) p.m. (local time)"
+      "pt": "Estádio Centenario (Montevidéu)",
+      "es": "Estadio Centenario (Montevideo) h.",
+      "en": "Estadio Centenario (Montevideo) p.m."
      }
     },
     {
@@ -104,9 +104,9 @@
       "en": "Meeting with the world of education at the Catholic University of Uruguay"
      },
      "local": {
-      "pt": "Universidade Católica do Uruguai (Montevidéu) (hora local)",
-      "es": "Universidad Católica de Uruguay (Montevideo) h. (hora local)",
-      "en": "Catholic University of Uruguay (Montevideo) p.m. (local time)"
+      "pt": "Universidade Católica do Uruguai (Montevidéu)",
+      "es": "Universidad Católica de Uruguay (Montevideo) h.",
+      "en": "Catholic University of Uruguay (Montevideo) p.m."
      }
     },
     {
@@ -122,9 +122,9 @@
       "en": "Meeting with the social community of Casavalle at the parish of Our Lady of Guadalupe"
      },
      "local": {
-      "pt": "Paróquia de Nossa Senhora de Guadalupe (Montevidéu) (hora local)",
-      "es": "Parroquia de Nuestra Señora de Guadalupe (Montevideo) h. (hora local)",
-      "en": "Parish of Our Lady of Guadalupe (Montevideo) p.m. (local time)"
+      "pt": "Paróquia de Nossa Senhora de Guadalupe (Montevidéu)",
+      "es": "Parroquia de Nuestra Señora de Guadalupe (Montevideo) h.",
+      "en": "Parish of Our Lady of Guadalupe (Montevideo) p.m."
      }
     },
     {
@@ -140,9 +140,9 @@
       "en": "Holy Mass at “Parque París Londres”"
      },
      "local": {
-      "pt": "«Parque París Londres» (Paysandú) (hora local)",
-      "es": "“Parque París Londres” (Paysandú) h. (hora local)",
-      "en": "“Parque París Londres” (Paysandú) a.m. (local time)"
+      "pt": "«Parque París Londres» (Paysandú)",
+      "es": "“Parque París Londres” (Paysandú) h.",
+      "en": "“Parque París Londres” (Paysandú) a.m."
      }
     },
     {
@@ -158,9 +158,9 @@
       "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
      },
      "local": {
-      "pt": "«Palacio Libertad, Centro Cultural Domingo Faustino Sarmiento» (Buenos Aires) (hora local)",
-      "es": "Palacio Libertad, Centro Cultural Domingo Faustino Sarmiento (Buenos Aires) h. (hora local)",
-      "en": "“Palacio Libertad, Centro Cultural Domingo Faustino Sarmiento” (Buenos Aires) p.m. (local time)"
+      "pt": "«Palacio Libertad, Centro Cultural Domingo Faustino Sarmiento» (Buenos Aires)",
+      "es": "Palacio Libertad, Centro Cultural Domingo Faustino Sarmiento (Buenos Aires) h.",
+      "en": "“Palacio Libertad, Centro Cultural Domingo Faustino Sarmiento” (Buenos Aires) p.m."
      }
     },
     {
@@ -176,9 +176,9 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "Praça em frente à Catedral-Basílica de Florida, Santuário Nacional da Virgem dos Trinta e Três (Florida) (hora local)",
-      "es": "Plaza frente a la Catedral Basílica de Florida, Santuario Nacional de la Virgen de los Treinta y Tres (Florida) h. (hora local)",
-      "en": "Square in front of the Cathedral Basilica of Florida, National Shrine of Our Lady of the Thirty-Three (Florida) a.m. (local time)"
+      "pt": "Praça em frente à Catedral-Basílica de Florida, Santuário Nacional da Virgem dos Trinta e Três (Florida)",
+      "es": "Plaza frente a la Catedral Basílica de Florida, Santuario Nacional de la Virgen de los Treinta y Tres (Florida) h.",
+      "en": "Square in front of the Cathedral Basilica of Florida, National Shrine of Our Lady of the Thirty-Three (Florida) a.m."
      }
     },
     {
@@ -194,9 +194,9 @@
       "en": "Celebration of Vespers with the Argentine Episcopate and Synodal Teams"
      },
      "local": {
-      "pt": "Catedral Metropolitana da Santíssima Trindade (Buenos Aires) (hora local)",
-      "es": "Catedral Metropolitana de la Santísima Trinidad (Buenos Aires) h. (hora local)",
-      "en": "Metropolitan Cathedral of the Most Holy Trinity (Buenos Aires) p.m. (local time)"
+      "pt": "Catedral Metropolitana da Santíssima Trindade (Buenos Aires)",
+      "es": "Catedral Metropolitana de la Santísima Trinidad (Buenos Aires) h.",
+      "en": "Metropolitan Cathedral of the Most Holy Trinity (Buenos Aires) p.m."
      }
     },
     {
@@ -212,9 +212,9 @@
       "en": "Meeting with the leaders of Christian communities and religious traditions"
      },
      "local": {
-      "pt": "«Palacio San Martín» (Buenos Aires) (hora local)",
-      "es": "“Palacio San Martín” (Buenos Aires) h. (hora local)",
-      "en": "“Palacio San Martín” (Buenos Aires PM (local time)"
+      "pt": "«Palacio San Martín» (Buenos Aires)",
+      "es": "“Palacio San Martín” (Buenos Aires) h.",
+      "en": "“Palacio San Martín” (Buenos Aires PM"
      }
     },
     {
@@ -230,9 +230,9 @@
       "en": "Meeting with the world of work"
      },
      "local": {
-      "pt": "Universidade Católica Argentina (Buenos Aires) (hora local)",
-      "es": "Universidad Católica Argentina (Buenos Aires) h. (hora local)",
-      "en": "Argentine Catholic University (Buenos Aires) PM (local time)"
+      "pt": "Universidade Católica Argentina (Buenos Aires)",
+      "es": "Universidad Católica Argentina (Buenos Aires) h.",
+      "en": "Argentine Catholic University (Buenos Aires) PM"
      }
     },
     {
@@ -248,9 +248,9 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "«Monumento de los Españoles» (Buenos Aires) (hora local)",
-      "es": "Ante el “Monumento de los Españoles” (Buenos Aires) h. (hora local)",
-      "en": "At the “Monumento de los Españoles” (Buenos Aires) a.m. (local time)"
+      "pt": "«Monumento de los Españoles» (Buenos Aires)",
+      "es": "Ante el “Monumento de los Españoles” (Buenos Aires) h.",
+      "en": "At the “Monumento de los Españoles” (Buenos Aires) a.m."
      }
     },
     {
@@ -266,9 +266,9 @@
       "en": "Visit to the Staff and Residents of the “Pequeño Cottolengo Don Orione de Claypole”"
      },
      "local": {
-      "pt": "«Pequeño Cottolengo Don Orione de Claypole» (Claypole) (hora local)",
-      "es": "“Pequeño Cottolengo Don Orione de Claypole” (Claypole) h. (hora local)",
-      "en": "“Pequeño Cottolengo Don Orione de Claypole” (Claypole) a.m. (local time)"
+      "pt": "«Pequeño Cottolengo Don Orione de Claypole» (Claypole)",
+      "es": "“Pequeño Cottolengo Don Orione de Claypole” (Claypole) h.",
+      "en": "“Pequeño Cottolengo Don Orione de Claypole” (Claypole) a.m."
      }
     },
     {
@@ -284,9 +284,9 @@
       "en": "Prayer Vigil with Young People"
      },
      "local": {
-      "pt": "«Monumento de los Españoles» (Buenos Aires) (hora local)",
-      "es": "En el “Monumento de los Españoles” (Buenos Aires) h. (hora local)",
-      "en": "“Monumento de los Españoles” (Buenos Aires) p.m. (local time)"
+      "pt": "«Monumento de los Españoles» (Buenos Aires)",
+      "es": "En el “Monumento de los Españoles” (Buenos Aires) h.",
+      "en": "“Monumento de los Españoles” (Buenos Aires) p.m."
      }
     },
     {
@@ -302,9 +302,9 @@
       "en": "Meeting with the Bishops, Priests, Deacons, Men and Women Religious, Seminarians and Pastoral Workers"
      },
      "local": {
-      "pt": "Catedral de Nossa Senhora da Assunção (Córdoba) (hora local)",
-      "es": "Catedral de Nuestra Señora de la Asunción (Córdoba) h. (hora local)",
-      "en": "Cathedral of Nuestra Señora de la Asunción (Córdoba) p.m. (local time)"
+      "pt": "Catedral de Nossa Senhora da Assunção (Córdoba)",
+      "es": "Catedral de Nuestra Señora de la Asunción (Córdoba) h.",
+      "en": "Cathedral of Nuestra Señora de la Asunción (Córdoba) p.m."
      }
     },
     {
@@ -320,9 +320,9 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "Esplanada da Escola de Aviação Militar (Córdoba) (hora local)",
+      "pt": "Esplanada da Escola de Aviação Militar (Córdoba)",
       "es": "Escuela de Aviación Militar (Córdoba) h.",
-      "en": "Grounds of the Military Aviation School (Córdoba) a.m. (local time)"
+      "en": "Grounds of the Military Aviation School (Córdoba) a.m."
      }
     },
     {
@@ -338,9 +338,9 @@
       "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
      },
      "local": {
-      "pt": "«Gran Teatro Nacional» (Lima) (hora local)",
-      "es": "“Gran Teatro Nacional” (Lima) h. (hora local)",
-      "en": "“Gran Teatro Nacional” (Lima) p.m. (local time)"
+      "pt": "«Gran Teatro Nacional» (Lima)",
+      "es": "“Gran Teatro Nacional” (Lima) h.",
+      "en": "“Gran Teatro Nacional” (Lima) p.m."
      }
     },
     {
@@ -356,9 +356,9 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "Praça em frente à Basílica de Nossa Senhora de Luján (Luján) (hora local)",
-      "es": "Plaza frente a la Basílica de Nuestra Señora de Luján (Luján) h. (hora local)",
-      "en": "Square in front of the Basilica of Our Lady of Luján (Luján) a.m. (local time)"
+      "pt": "Praça em frente à Basílica de Nossa Senhora de Luján (Luján)",
+      "es": "Plaza frente a la Basílica de Nuestra Señora de Luján (Luján) h.",
+      "en": "Square in front of the Basilica of Our Lady of Luján (Luján) a.m."
      }
     },
     {
@@ -374,9 +374,9 @@
       "en": "Visit to the Federal Prison Complex in Buenos Aires"
      },
      "local": {
-      "pt": "Complexo Penitenciário Federal de Buenos Aires (hora local)",
-      "es": "Complejo Penitenciario Federal de Buenos Aires h. (hora local)",
-      "en": "Federal Prison Complex in Buenos Aires a.m. (local time)"
+      "pt": "Complexo Penitenciário Federal de Buenos Aires",
+      "es": "Complejo Penitenciario Federal de Buenos Aires h.",
+      "en": "Federal Prison Complex in Buenos Aires a.m."
      }
     },
     {
@@ -392,9 +392,9 @@
       "en": "Prayer Vigil with Young People and University Students"
      },
      "local": {
-      "pt": "Estádio Nacional do Peru (Lima) (hora local)",
-      "es": "Estadio Nacional del Perú (Lima) h. (hora local)",
-      "en": "National Stadium of Peru (Lima) p.m. (local time)"
+      "pt": "Estádio Nacional do Peru (Lima)",
+      "es": "Estadio Nacional del Perú (Lima) h.",
+      "en": "National Stadium of Peru (Lima) p.m."
      }
     },
     {
@@ -410,9 +410,9 @@
       "en": "Meeting on the challenges and hopes for the future of the Peruvian people"
      },
      "local": {
-      "pt": "Praça em frente à Catedral (Lima) (hora local)",
-      "es": "Plaza frente la Catedral (Lima) h. (hora local)",
-      "en": "Square in front of the Cathedral (Lima) a.m. (local time)"
+      "pt": "Praça em frente à Catedral (Lima)",
+      "es": "Plaza frente la Catedral (Lima) h.",
+      "en": "Square in front of the Cathedral (Lima) a.m."
      }
     },
     {
@@ -428,9 +428,9 @@
       "en": "Celebration of Mid-Morning Prayer with the Bishops, Priests, Men and Women Religious, Seminarians, Synodal Teams and Pastoral Councils"
      },
      "local": {
-      "pt": "Basílica Catedral de São João, Apóstolo e Evangelista (Lima) (hora local)",
-      "es": "Basilica Catedral de San Juan Apóstol y Evangelista (Lima) h. (hora local)",
-      "en": "Cathedral Basilica of St John the Apostle and Evangelist (Lima) a.m. (local time)"
+      "pt": "Basílica Catedral de São João, Apóstolo e Evangelista (Lima)",
+      "es": "Basilica Catedral de San Juan Apóstol y Evangelista (Lima) h.",
+      "en": "Cathedral Basilica of St John the Apostle and Evangelist (Lima) a.m."
      }
     },
     {
@@ -446,9 +446,9 @@
       "en": "Meeting with the Bishops of Peru"
      },
      "local": {
-      "pt": "Capela do Palácio Arcebispal de Lima (hora local)",
-      "es": "Capilla del Palacio Arzobispal de Lima h. (hora local)",
-      "en": "Chapel of the Archbishop’s Residence in Lima a.m. (local time)"
+      "pt": "Capela do Palácio Arcebispal de Lima",
+      "es": "Capilla del Palacio Arzobispal de Lima h.",
+      "en": "Chapel of the Archbishop’s Residence in Lima a.m."
      }
     },
     {
@@ -464,9 +464,9 @@
       "en": "Meeting with the Academic Community"
      },
      "local": {
-      "pt": "Universidade Católica «Santo Toribio de Mogrovejo» (Chiclayo) (hora local)",
-      "es": "Universidad Católica “Santo Toribio de Mogrovejo” (Chiclayo) h. (hora local)",
-      "en": "Catholic University “Santo Toribio de Mogrovejo” (Chiclayo) p.m. (local time)"
+      "pt": "Universidade Católica «Santo Toribio de Mogrovejo» (Chiclayo)",
+      "es": "Universidad Católica “Santo Toribio de Mogrovejo” (Chiclayo) h.",
+      "en": "Catholic University “Santo Toribio de Mogrovejo” (Chiclayo) p.m."
      }
     },
     {
@@ -482,9 +482,9 @@
       "en": "Meeting with the Bishops, Priests, Men and Women Religious, Seminarians, Synodal Teams and Pastoral Councils"
      },
      "local": {
-      "pt": "Santuário de Nossa Senhora da Pacz (Chiclayo) (hora local)",
-      "es": "Santuario de Nuestra Señora de la Paz (Chiclayo) h. (hora local)",
-      "en": "Shrine of Our Lady of Peace (Chiclayo) p.m. (local time)"
+      "pt": "Santuário de Nossa Senhora da Pacz (Chiclayo)",
+      "es": "Santuario de Nuestra Señora de la Paz (Chiclayo) h.",
+      "en": "Shrine of Our Lady of Peace (Chiclayo) p.m."
      }
     },
     {
@@ -500,9 +500,9 @@
       "en": "Private Visit to the \"Saint Óscar A. Romero\" Chapel"
      },
      "local": {
-      "pt": "Capela San Óscar A. Romero (Chiclayo) (hora local)",
-      "es": "Capilla San Óscar A. Romero (Chiclayo) h. (hora local)",
-      "en": "&quot;Saint Óscar A. Romero&quot; Chapel (Chiclayo) p.m. (local time)"
+      "pt": "Capela San Óscar A. Romero (Chiclayo)",
+      "es": "Capilla San Óscar A. Romero (Chiclayo) h.",
+      "en": "&quot;Saint Óscar A. Romero&quot; Chapel (Chiclayo) p.m."
      }
     },
     {
@@ -518,9 +518,9 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "Esplanada junto das «Pampas de Pimentel» (Chiclayo) (hora local)",
-      "es": "Explanada ante las “Pampas de Pimentel” (Chiclayo) h. (hora local)",
-      "en": "Open space near the “Pampas de Pimentel” (Chiclayo) a.m. (local time)"
+      "pt": "Esplanada junto das «Pampas de Pimentel» (Chiclayo)",
+      "es": "Explanada ante las “Pampas de Pimentel” (Chiclayo) h.",
+      "en": "Open space near the “Pampas de Pimentel” (Chiclayo) a.m."
      }
     },
     {
@@ -554,9 +554,9 @@
       "en": "Prayer Meeting with the Catholic Community on the Occasion of the Closing of the Jubilee Year of Saint Toribio de Mogrovejo"
      },
      "local": {
-      "pt": "Santuário de Santo Toribio de Mogrovejo (Zaña) (hora local)",
-      "es": "Santuario de Santo Toribio de Mogrovejo (Zaña) h. (hora local)",
-      "en": "Shrine of Saint Toribio de Mogrovejo (Zaña) p.m. (local time)"
+      "pt": "Santuário de Santo Toribio de Mogrovejo (Zaña)",
+      "es": "Santuario de Santo Toribio de Mogrovejo (Zaña) h.",
+      "en": "Shrine of Saint Toribio de Mogrovejo (Zaña) p.m."
      }
     },
     {
@@ -572,9 +572,9 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "Esplanada de Santa Cruz de Succhabamba (hora local)",
-      "es": "Explanada de Santa Cruz de Succhabamba (Santa Cruz de Succhabamba) h. (hora local)",
-      "en": "Open space in Santa Cruz de Succhabamba (Santa Cruz de Succhabamba) a.m. (local time)"
+      "pt": "Esplanada de Santa Cruz de Succhabamba",
+      "es": "Explanada de Santa Cruz de Succhabamba (Santa Cruz de Succhabamba) h.",
+      "en": "Open space in Santa Cruz de Succhabamba (Santa Cruz de Succhabamba) a.m."
      }
     },
     {
@@ -590,9 +590,9 @@
       "en": "Coronation Rite of the Immaculate Virgin"
      },
      "local": {
-      "pt": "Catedral de Santa Maria (Chiclayo) (hora local)",
-      "es": "Catedral de Santa María (Chiclayo) h. (hora local)",
-      "en": "Cathedral of Saint Mary (Chiclayo) a.m. (local time)"
+      "pt": "Catedral de Santa Maria (Chiclayo)",
+      "es": "Catedral de Santa María (Chiclayo) h.",
+      "en": "Cathedral of Saint Mary (Chiclayo) a.m."
      }
     },
     {
@@ -626,9 +626,9 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "«Villa Deportiva Regional Ucayali» (Pucallpa) (hora local)",
-      "es": "“Villa Deportiva Regional Ucayali” (Pucallpa) h. (hora local)",
-      "en": "“Villa Deportiva Regional Ucayali” (Pucallpa) p.m. (local time)"
+      "pt": "«Villa Deportiva Regional Ucayali» (Pucallpa)",
+      "es": "“Villa Deportiva Regional Ucayali” (Pucallpa) h.",
+      "en": "“Villa Deportiva Regional Ucayali” (Pucallpa) p.m."
      }
     },
     {
@@ -644,9 +644,9 @@
       "en": "Meeting with Missionaries and Representatives of the Amazonian Peoples"
      },
      "local": {
-      "pt": "«Malecón Puerto Callao» (Pucallpa) (hora local)",
-      "es": "En ell “Malecón Puerto Callao” (Pucallpa) h. (hora local)",
-      "en": "At the “Malecón Puerto Callao” (Pucallpa) p.m. (local time)"
+      "pt": "«Malecón Puerto Callao» (Pucallpa)",
+      "es": "En ell “Malecón Puerto Callao” (Pucallpa) h.",
+      "en": "At the “Malecón Puerto Callao” (Pucallpa) p.m."
      }
     },
     {
@@ -662,9 +662,9 @@
       "en": "Angelus"
      },
      "local": {
-      "pt": "Praça em frente à Basílica Catedral da Assunção da Bem-Aventurada Virgem Maria (Cusco) (hora local)",
-      "es": "Plaza frente a la Basílica Catedral de la Asunción de la Bienaventurada Virgen María (Cusco) h. (hora local)",
-      "en": "Square in front of the Cathedral Basilica of the Assumption of the Blessed Virgin Mary (Cusco) a.m. (local time)"
+      "pt": "Praça em frente à Basílica Catedral da Assunção da Bem-Aventurada Virgem Maria (Cusco)",
+      "es": "Plaza frente a la Basílica Catedral de la Asunción de la Bienaventurada Virgen María (Cusco) h.",
+      "en": "Square in front of the Cathedral Basilica of the Assumption of the Blessed Virgin Mary (Cusco) a.m."
      }
     },
     {
@@ -680,9 +680,9 @@
       "en": "Meeting with the Faithful and Representatives of Popular Devotion"
      },
      "local": {
-      "pt": "Parque Arqueológico Nacional de Saqsaywaman (hora local)",
-      "es": "Parque Archeológico Nacional de Saqsaywaman h. (hora local)",
-      "en": "Saqsaywaman National Archaeological Park a.m. (local time)"
+      "pt": "Parque Arqueológico Nacional de Saqsaywaman",
+      "es": "Parque Archeológico Nacional de Saqsaywaman h.",
+      "en": "Saqsaywaman National Archaeological Park a.m."
      }
     },
     {
@@ -734,7 +734,7 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "«Base Aérea Las Palmas” (Lima) (hora local)",
+      "pt": "«Base Aérea Las Palmas” (Lima)",
       "es": "“Base Aérea Las Palmas” (Lima) h.",
       "en": "“Las Palmas Air Base” (Lima) a.m."
      }
@@ -752,9 +752,9 @@
       "en": "Visit to the Staff and Residents of the “Hermanitas de los Ancianos Desamparados” Care Home"
      },
      "local": {
-      "pt": "Centro de Acolhimento das «Hermanitas de los Ancianos desamparados» (Callao) (hora local)",
-      "es": "Asilo de Ancianos Desamparados del Callao horas (hora local)",
-      "en": "Care Home of the “Hermanitas de los Ancianos Desamparados” (Callao) a.m. (local time)"
+      "pt": "Centro de Acolhimento das «Hermanitas de los Ancianos desamparados» (Callao)",
+      "es": "Asilo de Ancianos Desamparados del Callao horas",
+      "en": "Care Home of the “Hermanitas de los Ancianos Desamparados” (Callao) a.m."
      }
     }
    ]
@@ -1635,7 +1635,7 @@
      "local": {
       "pt": "Estádio de Gran Canária",
       "es": "Estadio de Gran Canaria h.",
-      "en": "Gran Canaria Stadium (Las Palmas) at (local time)"
+      "en": "Gran Canaria Stadium (Las Palmas) at"
      }
     },
     {
@@ -1707,7 +1707,7 @@
      "local": {
       "pt": "“Plaza del Cristo de La Laguna” (Tenerife)",
       "es": "“Plaza del Cristo de La Laguna” (Tenerife)",
-      "en": "“Plaza del Cristo de La Laguna” (Tenerife) at a.m. (local time)"
+      "en": "“Plaza del Cristo de La Laguna” (Tenerife) at a.m."
      }
     },
     {
@@ -1725,7 +1725,7 @@
      "local": {
       "pt": "Centro “Las Raíces” (San Cristóbal de La Laguna, Tenerife)",
       "es": "Centro “Las Raíces” (San Cristóbal de La Laguna, Tenerife)",
-      "en": "“Las Raíces Center” (San Cristóbal de La Laguna, Tenerife) at a.m. (local time)"
+      "en": "“Las Raíces Center” (San Cristóbal de La Laguna, Tenerife) at a.m."
      }
     }
    ]
@@ -1879,9 +1879,9 @@
       "en": "Meeting with the Algerian Community"
      },
      "local": {
-      "pt": "Basílica de Nossa Senhora da África, Argel (hora local)",
-      "es": "Basílica de Nuestra Señora de África (Argel) h. (hora local)",
-      "en": "Basilica of Our Lady Of Africa (Algiers) at (local time)"
+      "pt": "Basílica de Nossa Senhora da África, Argel",
+      "es": "Basílica de Nuestra Señora de África (Argel) h.",
+      "en": "Basilica of Our Lady Of Africa (Algiers) at"
      }
     },
     {
@@ -1897,9 +1897,9 @@
       "en": "Visit to the Great Mosque of Algiers"
      },
      "local": {
-      "pt": "Grande Mesquita de Argel (hora local)",
-      "es": "Gran Mezquita de Argel h. (hora local)",
-      "en": "Great Mosque of Algiers at (local time)"
+      "pt": "Grande Mesquita de Argel",
+      "es": "Gran Mezquita de Argel h.",
+      "en": "Great Mosque of Algiers at"
      }
     },
     {
@@ -1915,9 +1915,9 @@
       "en": "Meeting with the Authorities, Civil Society and The Diplomatic Corps"
      },
      "local": {
-      "pt": "Centro de Conferências “Djamaa el Djazair”, Argel (hora local)",
-      "es": "Centro de Convenciones «Djamaa el Djazair» h (hora local)",
-      "en": "“Djamaa El Djazair” Conference Center at p.m. (local time)"
+      "pt": "Centro de Conferências “Djamaa el Djazair”, Argel",
+      "es": "Centro de Convenciones «Djamaa el Djazair» h",
+      "en": "“Djamaa El Djazair” Conference Center at p.m."
      }
     },
     {
@@ -1933,9 +1933,9 @@
       "en": "Visit To The Maqam Echahid Martyrs’ Monument"
      },
      "local": {
-      "pt": "Argel (hora local)",
-      "es": "Argel h. (hora local)",
-      "en": "Algiers at a.m. (local time)"
+      "pt": "Argel",
+      "es": "Argel h.",
+      "en": "Algiers at a.m."
      }
     },
     {
@@ -1951,9 +1951,9 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "Basílica de Santo Agostinho, Annaba (hora local)",
+      "pt": "Basílica de Santo Agostinho, Annaba",
       "es": "Basílica de San Agustín h.",
-      "en": "Basilica of Saint Augustine (Annaba) at (local time)"
+      "en": "Basilica of Saint Augustine (Annaba) at"
      }
     },
     {
@@ -1969,9 +1969,9 @@
       "en": "Visit to the Nursing Home of The Little Sisters of The Poor"
      },
      "local": {
-      "pt": "Annaba (hora local)",
+      "pt": "Annaba",
       "es": "Hogar de acogida para mayores de las Pequeñas Hermanas de los Pobres (Annaba) h.",
-      "en": "Nursing Home of The Little Sisters of The Poor (Annaba) at a.m. (local time)"
+      "en": "Nursing Home of The Little Sisters of The Poor (Annaba) at a.m."
      }
     },
     {
@@ -1987,9 +1987,9 @@
       "en": "Visit to the Ngul Zamba Orphanage"
      },
      "local": {
-      "pt": "Iaundé (hora local)",
-      "es": "Orfanato Ngul Zamba (Yaundé) h. (hora local)",
-      "en": "Ngul Zamba Orphanage (Yaoundé) at (local time)"
+      "pt": "Iaundé",
+      "es": "Orfanato Ngul Zamba (Yaundé) h.",
+      "en": "Ngul Zamba Orphanage (Yaoundé) at"
      }
     },
     {
@@ -2005,9 +2005,9 @@
       "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
      },
      "local": {
-      "pt": "Palácio Presidencial (Iaundé) (hora local)",
-      "es": "Palacio Presidencial (Yaundé) h. (hora local)",
-      "en": "Presidential Palace (Yaoundé) at (local time)"
+      "pt": "Palácio Presidencial (Iaundé)",
+      "es": "Palacio Presidencial (Yaundé) h.",
+      "en": "Presidential Palace (Yaoundé) at"
      }
     },
     {
@@ -2041,9 +2041,9 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "Aeroporto de Bamenda (hora local)",
-      "es": "Aeropuerto Internacional de Bamenda (Bamenda) h. (hora local)",
-      "en": "Bamenda International Airport at (local time)"
+      "pt": "Aeroporto de Bamenda",
+      "es": "Aeropuerto Internacional de Bamenda (Bamenda) h.",
+      "en": "Bamenda International Airport at"
      }
     },
     {
@@ -2059,9 +2059,9 @@
       "en": "Meeting for Peace with the Community of Bamenda"
      },
      "local": {
-      "pt": "Catedral de São José (Bamenda) (hora local)",
-      "es": "Catedral de San José h. (hora local)",
-      "en": "Saint Joseph’s Cathedral (Bamenda) at a.m. (local time)"
+      "pt": "Catedral de São José (Bamenda)",
+      "es": "Catedral de San José h.",
+      "en": "Saint Joseph’s Cathedral (Bamenda) at a.m."
      }
     },
     {
@@ -2095,9 +2095,9 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "“Japoma Stadium” (Douala) (hora local)",
-      "es": "“Japoma Stadium” (Douala) h. (hora local)",
-      "en": "“Japoma Stadium” (Douala) at (local time)"
+      "pt": "“Japoma Stadium” (Douala)",
+      "es": "“Japoma Stadium” (Douala) h.",
+      "en": "“Japoma Stadium” (Douala) at"
      }
     },
     {
@@ -2113,9 +2113,9 @@
       "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
      },
      "local": {
-      "pt": "Palácio Presidencial, Luanda (hora local)",
-      "es": "h. (hora local)",
-      "en": "Protocol Pavilion of the Presidential Palace at (local time)"
+      "pt": "Palácio Presidencial, Luanda",
+      "es": "h.",
+      "en": "Protocol Pavilion of the Presidential Palace at"
      }
     },
     {
@@ -2149,9 +2149,9 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "Aeroporto de Yaoundé-Ville (hora local)",
-      "es": "Aeropuerto de Yaundé-Ville h. (hora local)",
-      "en": "Yaoundé-Ville Airport at a.m. (local time)"
+      "pt": "Aeroporto de Yaoundé-Ville",
+      "es": "Aeropuerto de Yaundé-Ville h.",
+      "en": "Yaoundé-Ville Airport at a.m."
      }
     },
     {
@@ -2167,9 +2167,9 @@
       "en": "Holy Rosary Prayer"
      },
      "local": {
-      "pt": "Esplanada diante do Santuário de “Mama Muxima” (Muxima) (hora local)",
-      "es": "Explanada situada frente al Santuario de “Mama Muxima” (Muxima) h. (hora local)",
-      "en": "Esplanade in front of the “Mama Muxima” Shrine (Muxima) at (local time)"
+      "pt": "Esplanada diante do Santuário de “Mama Muxima” (Muxima)",
+      "es": "Explanada situada frente al Santuario de “Mama Muxima” (Muxima) h.",
+      "en": "Esplanade in front of the “Mama Muxima” Shrine (Muxima) at"
      }
     },
     {
@@ -2203,9 +2203,9 @@
       "en": "Holy Mass in Kilamba"
      },
      "local": {
-      "pt": "Kilamba (Angola) (hora local)",
-      "es": "Kilamba h. (hora local)",
-      "en": "Kilamba at a.m. (local time)"
+      "pt": "Kilamba (Angola)",
+      "es": "Kilamba h.",
+      "en": "Kilamba at a.m."
      }
     },
     {
@@ -2221,9 +2221,9 @@
       "en": "Meeting with Bishops, Priests, Consecrated Men and Women and Pastoral Workers"
      },
      "local": {
-      "pt": "Paróquia de Nossa Senhora de Fátima (Luanda) (hora local)",
-      "es": "Parroquia de Nuestra Señora de Fátima (Luanda) h. (hora local)",
-      "en": "Parish of Our Lady of Fatima (Luanda) at (local time)"
+      "pt": "Paróquia de Nossa Senhora de Fátima (Luanda)",
+      "es": "Parroquia de Nuestra Señora de Fátima (Luanda) h.",
+      "en": "Parish of Our Lady of Fatima (Luanda) at"
      }
     },
     {
@@ -2239,9 +2239,9 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "Esplanada de Saurimo (Saurimo) (hora local)",
-      "es": "Explanada de Saurimo (Saurimo) h. (hora local)",
-      "en": "Saurimo esplanade at a.m. (local time)"
+      "pt": "Esplanada de Saurimo (Saurimo)",
+      "es": "Explanada de Saurimo (Saurimo) h.",
+      "en": "Saurimo esplanade at a.m."
      }
     },
     {
@@ -2257,9 +2257,9 @@
       "en": "Visit to a Nursing Home"
      },
      "local": {
-      "pt": "Saurimo (hora local)",
-      "es": "Visita al Hogar de Acogida para Personas Mayores (Saurimo) h. (hora local)",
-      "en": "Visit to a Nursing Home (Saurimo) at (local time)"
+      "pt": "Saurimo",
+      "es": "Visita al Hogar de Acogida para Personas Mayores (Saurimo) h.",
+      "en": "Visit to a Nursing Home (Saurimo) at"
      }
     },
     {
@@ -2275,9 +2275,9 @@
       "en": "Visit to the Staff and Patients of the “Jean Pierre Olie” Psychiatric Hospital"
      },
      "local": {
-      "pt": "Malabo (hora local)",
-      "es": "Hospital psiquiátrico «Jean Pierre Olie» (Malabo) 17:15h. (hora local)",
-      "en": "“Jean Pierre Olie” Psychiatric Hospital (Malabo) at (local time)"
+      "pt": "Malabo",
+      "es": "Hospital psiquiátrico «Jean Pierre Olie» (Malabo) 17:15h.",
+      "en": "“Jean Pierre Olie” Psychiatric Hospital (Malabo) at"
      }
     },
     {
@@ -2293,9 +2293,9 @@
       "en": "Meeting with the World of Culture"
      },
      "local": {
-      "pt": "Campus Universitário Leão XIV da Universidade Nacional (Malabo) (hora local)",
+      "pt": "Campus Universitário Leão XIV da Universidade Nacional (Malabo)",
       "es": "Campus Universitario “León XIV” de la Universidad Nacional (Malabo) h.",
-      "en": "León XIV Campus of The National University (Malabo) at (local time)"
+      "en": "León XIV Campus of The National University (Malabo) at"
      }
     },
     {
@@ -2311,9 +2311,9 @@
       "en": "Meeting with the Authorities, Civil Society and the Diplomatic Corps"
      },
      "local": {
-      "pt": "Palácio Presidencial (Malabo) (hora local)",
+      "pt": "Palácio Presidencial (Malabo)",
       "es": "Palacio Presidencial (Malabo) h.",
-      "en": "Presidential Palace (Malabo) at (local time)"
+      "en": "Presidential Palace (Malabo) at"
      }
     },
     {
@@ -2347,9 +2347,9 @@
       "en": "Meeting with Young People and Families"
      },
      "local": {
-      "pt": "Estádio de Bata (hora local)",
-      "es": "Estadio de Bata h. (hora local)",
-      "en": "Bata Stadium at (local time)"
+      "pt": "Estádio de Bata",
+      "es": "Estadio de Bata h.",
+      "en": "Bata Stadium at"
      }
     },
     {
@@ -2365,9 +2365,9 @@
       "en": "Visit to Bata Prison"
      },
      "local": {
-      "pt": "(hora local)",
-      "es": "Prisión de Bata h. (hora local)",
-      "en": "Bata Prison at (local time)"
+      "pt": null,
+      "es": "Prisión de Bata h.",
+      "en": "Bata Prison at"
      }
     },
     {
@@ -2385,7 +2385,7 @@
      "local": {
       "pt": "Basílica da Imaculada Conceição (Mongomo)",
       "es": "Basílica de la Inmaculada Concepción (Mongomo) h.",
-      "en": "Basilica of the Immaculate Conception (Mongomo) at a.m. (local time)"
+      "en": "Basilica of the Immaculate Conception (Mongomo) at a.m."
      }
     },
     {
@@ -2401,9 +2401,9 @@
       "en": "Holy Mass"
      },
      "local": {
-      "pt": "Estádio de Malabo (hora local)",
-      "es": "Estadio de Malabo h. (hora local)",
-      "en": "Malabo Stadium at (local time)"
+      "pt": "Estádio de Malabo",
+      "es": "Estadio de Malabo h.",
+      "en": "Malabo Stadium at"
      }
     }
    ]
@@ -2491,9 +2491,9 @@
       "en": "Visit to the Little Sisters of the Poor, in a Home for the Elderly"
      },
      "local": {
-      "pt": "Istanbul ore (ora locale)",
-      "es": "Istanbul ore (ora locale)",
-      "en": "Istanbul ore (ora locale)"
+      "pt": "Istanbul ore",
+      "es": "Istanbul ore",
+      "en": "Istanbul ore"
      }
     },
     {
