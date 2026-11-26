@@ -1,0 +1,3243 @@
+{
+ "versao": 1,
+ "geradoEm": "2026-11-26T22:12:41.852Z",
+ "fonte": "vatican.va (calendário público de eventos)",
+ "meses": [
+  "2026-10",
+  "2026-11",
+  "2026-12",
+  "2027-01"
+ ],
+ "eventos": [
+  {
+   "id": "2026-10-1-federazione-luterana",
+   "tipo": "encontro",
+   "data": "2026-10-01",
+   "horaRoma": "09:30",
+   "inicioUtc": "2026-10-01T07:30:00.000Z",
+   "titulo": {
+    "pt": "À Delegação da Federação Luterana Mundial",
+    "es": "Delegación de la Federación Luterana Mundial",
+    "en": "To the Delegation of the Lutheran World Federation"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/1/federazione-luterana.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/1/federazione-luterana.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/1/federazione-luterana.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-1-gruppo-hera",
+   "tipo": "encontro",
+   "data": "2026-10-01",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-01T10:00:00.000Z",
+   "titulo": {
+    "pt": "À Delegação do «Grupo Hera»",
+    "es": "Delegación del «Gruppo Hera»",
+    "en": "To the \"Hera Group\" Delegation"
+   },
+   "local": {
+    "pt": "Sala Clementina",
+    "es": "Sala Clementina",
+    "en": "Clementine Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/1/gruppo-hera.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/1/gruppo-hera.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/1/gruppo-hera.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-1-popesprayer-ottobre",
+   "tipo": "mensagem",
+   "data": "2026-10-01",
+   "horaRoma": "14:00",
+   "inicioUtc": "2026-10-01T12:00:00.000Z",
+   "titulo": {
+    "pt": "Mensagem em vídeo \"Reza com o Papa\" - Outubro 2026: Pela pastoral da saúde mental",
+    "es": "Videomensaje «Reza con el Papa» - Octubre 2026: Por la pastoral de la salud mental",
+    "en": "Video Message ‘Pray with the Pope’ – October 2026: For mental health ministry"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/1/popesprayer-ottobre.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/1/popesprayer-ottobre.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/1/popesprayer-ottobre.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-1-rosario-pace",
+   "tipo": "oracao",
+   "data": "2026-10-01",
+   "horaRoma": "18:00",
+   "inicioUtc": "2026-10-01T16:00:00.000Z",
+   "titulo": {
+    "pt": "Terço com as crianças",
+    "es": "Rosario con los niños",
+    "en": "Rosary with children"
+   },
+   "local": {
+    "pt": "Grutas de Lourdes nos Jardins do Vaticano",
+    "es": "Gruta de Lourdes en los Jardines Vaticanos",
+    "en": "Lourdes Grotto in the Vatican Gardens"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/1/rosario-pace.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/1/rosario-pace.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/1/rosario-pace.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-2-artisti-dce",
+   "tipo": "encontro",
+   "data": "2026-10-02",
+   "horaRoma": "11:30",
+   "inicioUtc": "2026-10-02T09:30:00.000Z",
+   "titulo": {
+    "pt": "Aos artistas participantes no Encontro promovido pelo Dicastério para a Cultura e a Educação",
+    "es": "Audiencia a los artistas y curadores del encuentro «El arte de la posibilidad: tejer juntos», promovido por el Dicasterio para la Cultura y la Educación",
+    "en": "To the Artists participating in the Meeting promoted by the Dicastery for Culture and Education"
+   },
+   "local": {
+    "pt": "Sala do Consistório",
+    "es": "Sala del Consistorio",
+    "en": "Consistory Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/2/artisti-dce.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/2/artisti-dce.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/2/artisti-dce.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-3-campo-santo-teutonico",
+   "tipo": "encontro",
+   "data": "2026-10-03",
+   "horaRoma": "11:45",
+   "inicioUtc": "2026-10-03T09:45:00.000Z",
+   "titulo": {
+    "pt": "À Comunidade do Pontifício Colégio Teutónico de Santa Maria in Campo Santo, por ocasião do 150.º aniversário da sua fundação",
+    "es": "Comunidad del Pontificio Colegio Teutónico de Santa María en Campo Santo, en el 150.º aniversario de su fundación",
+    "en": "Community of the Pontifical Teutonic College of Santa Maria in Campo Santo, on the 150th anniversary of its foundation"
+   },
+   "local": {
+    "pt": "Sala do Consistório",
+    "es": "Sala del Consistorio",
+    "en": "Consistory Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/3/campo-santo-teutonico.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/3/campo-santo-teutonico.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/3/campo-santo-teutonico.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-3-messa-gendarmeria",
+   "tipo": "missa",
+   "data": "2026-10-03",
+   "horaRoma": "17:00",
+   "inicioUtc": "2026-10-03T15:00:00.000Z",
+   "titulo": {
+    "pt": "XXVII Domingo do Tempo Comum – Santa Missa pela Gendarmeria Vaticana",
+    "es": "XXVII domingo del Tiempo Ordinario – Santa Misa para la Gendarmería Vaticana",
+    "en": "27th Sunday in Ordinary Time – Holy Mass for the Vatican Gendarmerie Corps of Vatican City State"
+   },
+   "local": {
+    "pt": "Gruta de Lourdes, Jardins do Vaticano",
+    "es": "Gruta de Lourdes, Jardines Vaticanos",
+    "en": "Lourdes Grotto, Vatican Gardens"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/3/messa-gendarmeria.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/3/messa-gendarmeria.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/3/messa-gendarmeria.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-4-angelus",
+   "tipo": "angelus",
+   "data": "2026-10-04",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-04T10:00:00.000Z",
+   "titulo": {
+    "pt": "Angelus",
+    "es": "Ángelus",
+    "en": "Angelus"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "St Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/4/angelus.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/4/angelus.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/4/angelus.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-5-dva-adlv",
+   "tipo": "encontro",
+   "data": "2026-10-05",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-05T10:00:00.000Z",
+   "titulo": {
+    "pt": "À Delegação da Associação dos Funcionários Leigos do Vaticano e da Associação das Mulheres no Vaticano",
+    "es": "Delegación de la Asociación de Empleados Laicos Vaticanos y de la Asociación \"Mujeres en el Vaticano\"",
+    "en": "To the Delegation of the Association of Vatican Lay Employees and the Association Women in the Vatican"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/5/dva-adlv.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/5/dva-adlv.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/5/dva-adlv.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-5-sacerdoti-religiose-corea",
+   "tipo": "encontro",
+   "data": "2026-10-05",
+   "horaRoma": "12:30",
+   "inicioUtc": "2026-10-05T10:30:00.000Z",
+   "titulo": {
+    "pt": "Aos sacerdotes e religiosas da Coreia residentes em Roma",
+    "es": "A los sacerdotes y religiosas de Corea residentes en Roma",
+    "en": "To Korean Priests and Religious Women residing in Rome"
+   },
+   "local": {
+    "pt": "Sala Clementina",
+    "es": "Sala Clementina",
+    "en": "Clementine Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/5/sacerdoti-religiose-corea.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/5/sacerdoti-religiose-corea.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/5/sacerdoti-religiose-corea.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-7-patrons-arts",
+   "tipo": "encontro",
+   "data": "2026-10-07",
+   "horaRoma": "08:00",
+   "inicioUtc": "2026-10-07T06:00:00.000Z",
+   "titulo": {
+    "pt": "Encontro com um grupo de «Patrons of the Arts in the Vatican Museums» da Louisiana",
+    "es": "Encuentro con un grupo de «Patrons of the Arts in the Vatican Museums» de Luisiana",
+    "en": "Greeting of His Holiness Pope Leo XIV to the Louisiana Patrons of the Arts in the Vatican Museums"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/7/patrons-arts.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/7/patrons-arts.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/7/patrons-arts.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-7-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2026-10-07",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-10-07T08:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "Saint Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/7/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/7/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/7/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-7-videomessaggio-gmm",
+   "tipo": "mensagem",
+   "data": "2026-10-07",
+   "horaRoma": "13:00",
+   "inicioUtc": "2026-10-07T11:00:00.000Z",
+   "titulo": {
+    "pt": "Mensagem em vídeo do Santo Padre para o 100º Dia Mundial das Missões [18 de outubro de 2026]",
+    "es": "Videomensaje del Santo Padre con motivo de la 100.ª Jornada Mundial de las Misiones [18 de octubre de 2026]",
+    "en": "Video message of the Holy Father Leo XIV on the occasion of the 100th World Mission Sunday"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/7/videomessaggio-gmm.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/7/videomessaggio-gmm.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/7/videomessaggio-gmm.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-7-anniversario-amoris-laetitia",
+   "tipo": "encontro",
+   "data": "2026-10-07",
+   "horaRoma": "16:00",
+   "inicioUtc": "2026-10-07T14:00:00.000Z",
+   "titulo": {
+    "pt": "Encontro com os Chefes das Igrejas Orientais e os Presidentes das Conferências Episcopais, por ocasião do décimo aniversário da «Amoris laetitia»",
+    "es": "Encuentro con los líderes de las Iglesias orientales y los presidentes de las conferencias episcopales, con motivo del décimo aniversario de «Amoris laetitia»",
+    "en": "Meeting of the Holy Father with the Heads of Eastern Churches and the Presidents of Episcopal Conferences on the occasion of the tenth anniversary of Amoris laetitia"
+   },
+   "local": {
+    "pt": "Sala Paulo VI",
+    "es": "Aula Pablo VI",
+    "en": "Paul VI Audience Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/7/anniversario-amoris-laetitia.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/7/anniversario-amoris-laetitia.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/7/anniversario-amoris-laetitia.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-8-messa-univ-pontificie",
+   "tipo": "missa",
+   "data": "2026-10-08",
+   "horaRoma": "18:00",
+   "inicioUtc": "2026-10-08T16:00:00.000Z",
+   "titulo": {
+    "pt": "Missa para a inauguração do Ano Acadêmico das Universidades Pontifícias",
+    "es": "Santa Misa con motivo de la inauguración del Año Académico de las Universidades Pontificias",
+    "en": "Holy Mass for the Inauguration of the Academic Year of the Pontifical Universities"
+   },
+   "local": {
+    "pt": "Basílica de São Pedro",
+    "es": "Basílica de San Pedro",
+    "en": "St. Peter's Basilica"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/8/messa-univ-pontificie.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/8/messa-univ-pontificie.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/8/messa-univ-pontificie.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-10-sinodo-chiesa-grecomelchita",
+   "tipo": "encontro",
+   "data": "2026-10-10",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-10-10T08:00:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes no Sínodo da Igreja de Antioquia dos Greco-Melquitas",
+    "es": "Participantes en el Sínodo de los Obispos de la Iglesia greco-melquita",
+    "en": "To the Participants in the Synod of Bishops of the Greek-Melkite Church of Antioch"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/10/sinodo-chiesa-grecomelchita.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/10/sinodo-chiesa-grecomelchita.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/10/sinodo-chiesa-grecomelchita.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-10-direttori-musei",
+   "tipo": "encontro",
+   "data": "2026-10-10",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-10T10:00:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes no Encontro de Diretores de Museus de todo o mundo (Bizot Group)",
+    "es": "Participantes en el Encuentro de Directores de Museos de todo el mundo (Bizot Group)",
+    "en": "To the Participants in the Meeting of Museum Directors from around the world (Bizot Group)"
+   },
+   "local": {
+    "pt": "Sala Clementina",
+    "es": "Sala Clementina",
+    "en": "Clementine Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/10/direttori-musei.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/10/direttori-musei.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/10/direttori-musei.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-11-angelus",
+   "tipo": "angelus",
+   "data": "2026-10-11",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-11T10:00:00.000Z",
+   "titulo": {
+    "pt": "Angelus",
+    "es": "Ángelus",
+    "en": "Angelus"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "St Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/11/angelus.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/11/angelus.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/11/angelus.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-12-lettera-cardinale-re",
+   "tipo": "documento",
+   "data": "2026-10-12",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-12T10:00:00.000Z",
+   "titulo": {
+    "pt": "Carta do Santo Padre ao Cardeal Giovanni Battista Re, Decano emérito do Colégio Cardinalício",
+    "es": "Carta del Santo Padre al cardenal Giovanni Battista Re, decano emérito del Colegio Cardenalicio",
+    "en": "Letter of His Holiness to Cardinal Giovanni Battista Re, Dean Emeritus of the College of Cardinals"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/12/lettera-cardinale-re.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/12/lettera-cardinale-re.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/12/lettera-cardinale-re.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-12-circolo-san-pietro",
+   "tipo": "encontro",
+   "data": "2026-10-12",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-12T10:00:00.000Z",
+   "titulo": {
+    "pt": "Aos sócios do Círculo São Pedro",
+    "es": "Audiencia a los miembros del Círculo de San Pedro",
+    "en": "To the Members of the Circle of St Peter"
+   },
+   "local": {
+    "pt": "Sala da Bênção",
+    "es": "Aula de las Bendiciones",
+    "en": "Hall of Benediction"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/12/circolo-san-pietro.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/12/circolo-san-pietro.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/12/circolo-san-pietro.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-14-messa-amoris-laetitia",
+   "tipo": "missa",
+   "data": "2026-10-14",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-10-14T08:00:00.000Z",
+   "titulo": {
+    "pt": "Missa no encerramento do encontro por ocasião do 10.º aniversário da publicação da Exortação Apostólica Amoris laetitia",
+    "es": "Santa Misa al término del encuentro por el décimo aniversario de la publicación de la Exhortación Apostólica Amoris laetitia presidida por S. Em. Rvdma. el Card. Luis Antonio G. Tagle, Decano del Colegio Cardenalicio.",
+    "en": "Holy Mass at the Conclusion of the Meeting marking the 10th Anniversary of the Publication of the Apostolic Exhortation Amoris Laetitia"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "St. Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/14/messa-amoris-laetitia.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/14/messa-amoris-laetitia.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/14/messa-amoris-laetitia.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-14-messaggio-fine-incontro-amorislaetitia",
+   "tipo": "mensagem",
+   "data": "2026-10-14",
+   "horaRoma": "19:30",
+   "inicioUtc": "2026-10-14T17:30:00.000Z",
+   "titulo": {
+    "pt": "Mensagem do Santo Padre no encerramento do Encontro que marca o 10º aniversário da Amoris laetitia",
+    "es": "Mensaje de Su Santidad León XIV con motivo de la clausura del Encuentro que conmemora el décimo aniversario de Amoris laetitia",
+    "en": "Message of the Holy Father at the conclusion of the Meeting on the occasion of the tenth anniversary of Amoris laetitia"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/14/messaggio-fine-incontro-amorislaetitia.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/14/messaggio-fine-incontro-amorislaetitia.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/14/messaggio-fine-incontro-amorislaetitia.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-16-messaggio-alimentazione",
+   "tipo": "mensagem",
+   "data": "2026-10-16",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-16T10:00:00.000Z",
+   "titulo": {
+    "pt": "Mensagem do Santo Padre para o Dia Mundial da Alimentação 2026",
+    "es": "Mensaje del Santo Padre con ocasión de la Jornada Mundial de la Alimentación 2026",
+    "en": "Message of His Holiness pope Leo XIV for the 2026 World Food Day"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/16/messaggio-alimentazione.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/16/messaggio-alimentazione.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/16/messaggio-alimentazione.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-18-angelus",
+   "tipo": "angelus",
+   "data": "2026-10-18",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-18T10:00:00.000Z",
+   "titulo": {
+    "pt": "Angelus",
+    "es": "Ángelus",
+    "en": "Angelus"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "St Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/18/angelus.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/18/angelus.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/18/angelus.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-21-convegno-cause-santi",
+   "tipo": "encontro",
+   "data": "2026-10-21",
+   "horaRoma": "09:00",
+   "inicioUtc": "2026-10-21T07:00:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes no Encontro organizado pelo Dicastério para as Causas dos Santos",
+    "es": "Audiencia a los participantes del simposio «La santidad en la historia», organizado por el Dicasterio de las Causas de los Santos",
+    "en": "Participants in the Conference Promoted by the Dicastery for the Causes of Saints"
+   },
+   "local": {
+    "pt": "Sala Clementina",
+    "es": "Sala Clementina",
+    "en": "Clementine Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/21/convegno-cause-santi.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/21/convegno-cause-santi.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/21/convegno-cause-santi.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-21-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2026-10-21",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-10-21T08:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "Saint Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/21/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/21/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/21/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-22-ajc",
+   "tipo": "encontro",
+   "data": "2026-10-22",
+   "horaRoma": "10:30",
+   "inicioUtc": "2026-10-22T08:30:00.000Z",
+   "titulo": {
+    "pt": "À delegação do American Jewish Committee",
+    "es": "Delegación del Comité Judío Estadounidense (22 de octubre de 2026)",
+    "en": "To the Delegation of the American Jewish Committee"
+   },
+   "local": {
+    "pt": "Sala do Consistório",
+    "es": "Sala del Consistorio",
+    "en": "Consistory Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/22/ajc.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/22/ajc.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/22/ajc.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-22-pastorale-scolastica-universitaria",
+   "tipo": "encontro",
+   "data": "2026-10-22",
+   "horaRoma": "11:00",
+   "inicioUtc": "2026-10-22T09:00:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes no Congresso Internacional sobre Pastoral Escolar e Universitária",
+    "es": "Participantes en el Congreso Internacional sobre pastoral escolar y universitaria",
+    "en": "To the Participants in the International Congress on the Pastoral Care of Schools and Universities"
+   },
+   "local": {
+    "pt": "Sala Paulo VI",
+    "es": "Aula Pablo VI",
+    "en": "Paul VI Audience Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/22/pastorale-scolastica-universitaria.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/22/pastorale-scolastica-universitaria.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/22/pastorale-scolastica-universitaria.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-22-venite-ad-me",
+   "tipo": "documento",
+   "data": "2026-10-22",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-22T10:00:00.000Z",
+   "titulo": {
+    "pt": "Venite ad me . Considerações sobre a transmissão da fé em uma mudança de época [Dicastério para a Doutrina da Fé]",
+    "es": "Venite ad me . Consideraciones sobre la transmisión de la fe en el cambio de época [Dicasterio para la Doctrina de la Fe]",
+    "en": "Venite ad me . Considerations on the Transmission of the Faith in an Epochal Change [Dicastery for the Doctrine of the Faith]"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/vatican/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/22/venite-ad-me.html",
+    "es": "https://www.vatican.va/content/vatican/es/events/event.dir.html/content/vaticanevents/es/2026/10/22/venite-ad-me.html",
+    "en": "https://www.vatican.va/content/vatican/en/events/event.dir.html/content/vaticanevents/en/2026/10/22/venite-ad-me.html"
+   },
+   "papa": "vatican"
+  },
+  {
+   "id": "2026-10-22-videomessaggio-iscrizioni-gmg",
+   "tipo": "mensagem",
+   "data": "2026-10-22",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-22T10:00:00.000Z",
+   "titulo": {
+    "pt": "Mensagem em vídeo do Santo Padre por ocasião da abertura das inscrições para participar na Jornada Mundial da Juventude de Seul 2027",
+    "es": "Videomensaje del Santo Padre con motivo de la apertura de las inscripciones para participar en la Jornada Mundial de la Juventud de Seúl 2027",
+    "en": "Video Message of His Holiness Pope Leo XIV Invitation to Register for World Youth Day Seoul 2027"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/22/videomessaggio-iscrizioni-gmg.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/22/videomessaggio-iscrizioni-gmg.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/22/videomessaggio-iscrizioni-gmg.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-23-congresso-pug",
+   "tipo": "encontro",
+   "data": "2026-10-23",
+   "horaRoma": "09:30",
+   "inicioUtc": "2026-10-23T07:30:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes no Congresso Internacional organizado pela Pontifícia Universidade Gregoriana",
+    "es": "Audiencia a los participantes en el Congreso Internacional con motivo del 150.º aniversario de la Facultad de Derecho Canónico de la Pontificia Universidad Gregoriana",
+    "en": "To Participants in the International Congress Promoted by the Pontifical Gregorian University"
+   },
+   "local": {
+    "pt": "Sala Clementina",
+    "es": "Sala Clementina",
+    "en": "Clementine Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/23/congresso-pug.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/23/congresso-pug.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/23/congresso-pug.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-24-incontro-jyic-2026",
+   "tipo": "encontro",
+   "data": "2026-10-24",
+   "horaRoma": "11:15",
+   "inicioUtc": "2026-10-24T09:15:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes no Encontro organizado pela «Jesus Youth International Conference 2026»",
+    "es": "Participantes en el Encuentro promovido por «Jesus Youth International Conference 2026»",
+    "en": "Participants in the Meeting Promoted by the “Jesus Youth International Conference 2026”"
+   },
+   "local": {
+    "pt": "Sala Paulo VI",
+    "es": "Aula Pablo VI",
+    "en": "Paul VI Audience Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/24/incontro-jyic-2026.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/24/incontro-jyic-2026.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/24/incontro-jyic-2026.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-25-angelus",
+   "tipo": "angelus",
+   "data": "2026-10-25",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-25T11:00:00.000Z",
+   "titulo": {
+    "pt": "Angelus",
+    "es": "Ángelus",
+    "en": "Angelus"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "St Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/25/angelus.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/25/angelus.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/25/angelus.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-26-capitolo-sdc",
+   "tipo": "encontro",
+   "data": "2026-10-26",
+   "horaRoma": "11:45",
+   "inicioUtc": "2026-10-26T10:45:00.000Z",
+   "titulo": {
+    "pt": "Participantes no Capítulo Geral das Irmãs da Caridade de Jeanne-Antide Thouret",
+    "es": "Audiencia a las delegadas del Capítulo General electivo de las Hermanas de la Caridad de Santa Juana Antida Thouret",
+    "en": "Delegates of the General Chapter of the Sisters of Charity of Saint Jeanne-Antide Thouret"
+   },
+   "local": {
+    "pt": "Sala do Consistório",
+    "es": "Sala del Consistorio",
+    "en": "Consistory Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/26/capitolo-sdc.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/26/capitolo-sdc.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/26/capitolo-sdc.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-27-videomessaggio-assisi",
+   "tipo": "mensagem",
+   "data": "2026-10-27",
+   "horaRoma": "16:00",
+   "inicioUtc": "2026-10-27T15:00:00.000Z",
+   "titulo": {
+    "pt": "Mensagem em vídeo do Santo Padre aos participantes no Encontro Internacional “Paz desarmada e desarmante” (Assis)",
+    "es": "Videomensaje del Santo Padre a los participantes en el Encuentro Internacional “Paz desarmada y desarmante” (Asís)",
+    "en": "Video Message of His Holiness Pope Leo XIV to the Participants in the International Meeting “Unarmed and Disarming Peace”"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/27/videomessaggio-assisi.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/27/videomessaggio-assisi.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/27/videomessaggio-assisi.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-28-dirigenti-mercedes",
+   "tipo": "encontro",
+   "data": "2026-10-28",
+   "horaRoma": "09:00",
+   "inicioUtc": "2026-10-28T08:00:00.000Z",
+   "titulo": {
+    "pt": "Aos dirigentes da Mercedes-Benz",
+    "es": "Audiencia a los directivos de Mercedes-Benz",
+    "en": "To the executives of Mercedes-Benz"
+   },
+   "local": {
+    "pt": "&quot;Auletta&quot; da Sala Paulo VI",
+    "es": "Salita del Aula Pablo VI",
+    "en": "Room adjacent to Paul VI Audience Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/28/dirigenti-mercedes.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/28/dirigenti-mercedes.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/28/dirigenti-mercedes.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-28-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2026-10-28",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-10-28T09:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "Saint Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/28/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/28/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/28/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-28-notificazione5nov",
+   "tipo": "missa",
+   "data": "2026-10-28",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-28T11:00:00.000Z",
+   "titulo": {
+    "pt": "Notificação: Santa Missa em sufrágio dos cardeais e bispos falecidos durante o ano [5 de novembro de 2026]",
+    "es": "Notificación: Santa Misa en sufragio de los cardenales y obispos fallecidos durante el año [5 de noviembre de 2026]",
+    "en": "Notification: Holy Mass for the Repose of the Souls of Cardinals and Bishops Who Have Died During the Year [5 November 2026]"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/vatican/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/28/notificazione5nov.html",
+    "es": "https://www.vatican.va/content/vatican/es/events/event.dir.html/content/vaticanevents/es/2026/10/28/notificazione5nov.html",
+    "en": "https://www.vatican.va/content/vatican/en/events/event.dir.html/content/vaticanevents/en/2026/10/28/notificazione5nov.html"
+   },
+   "papa": "vatican"
+  },
+  {
+   "id": "2026-10-30-incontro-pav",
+   "tipo": "encontro",
+   "data": "2026-10-30",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-30T11:00:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes no encontro promovido pela Pontifícia Academia para a Vida",
+    "es": "Audiencia a los participantes en el encuentro promovido por la Pontificia Academia para la Vida",
+    "en": "To the Participants in the Meeting Promoted by the Pontifical Academy for Life"
+   },
+   "local": {
+    "pt": "Sala do Consistório",
+    "es": "Sala del Consistorio",
+    "en": "Consistory Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/30/incontro-pav.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/30/incontro-pav.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/30/incontro-pav.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-31-comuni-sisma",
+   "tipo": "encontro",
+   "data": "2026-10-31",
+   "horaRoma": "10:30",
+   "inicioUtc": "2026-10-31T09:30:00.000Z",
+   "titulo": {
+    "pt": "Às delegações dos municípios afetados por sismos na região central de Itália",
+    "es": "Delegaciones de los municipios afectados por los terremotos en el centro de Italia",
+    "en": "To the delegations of the municipalities affected by seismic events in central Italy"
+   },
+   "local": {
+    "pt": "Sala Clementina",
+    "es": "Sala Clementina",
+    "en": "Clementine Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/31/comuni-sisma.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/31/comuni-sisma.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/31/comuni-sisma.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-31-villanova-university-notredame",
+   "tipo": "encontro",
+   "data": "2026-10-31",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-31T11:00:00.000Z",
+   "titulo": {
+    "pt": "Às delegações da «Villanova University» e da «University of Notre Dame»",
+    "es": "Delegaciones de la «Universidad de Villanova» y de la «Universidad de Notre Dame»",
+    "en": "To a Pilgrimage from Villanova University and the University of Notre Dame"
+   },
+   "local": {
+    "pt": "Sala Paulo VI",
+    "es": "Aula Pablo VI",
+    "en": "Paul VI Audience Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/31/villanova-university-notredame.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/31/villanova-university-notredame.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/31/villanova-university-notredame.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-31-messale-uruguay-argentina-peru",
+   "tipo": "viagem",
+   "data": "2026-10-31",
+   "dataFim": "2026-11-17",
+   "horaRoma": null,
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Missal para a Viagem Apostólica do Santo Padre ao Uruguai, à Argentina e ao Peru [6-17 de novembro de 2026]",
+    "es": "Misal para el Viaje apostólico del Santo Padre a Uruguay, Argentina y Perú [6-17 de noviembre de 2026]",
+    "en": "Missal for the Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru [6–17 November 2026]"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/vatican/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/31/messale-uruguay-argentina-peru.html",
+    "es": "https://www.vatican.va/content/vatican/es/events/event.dir.html/content/vaticanevents/es/2026/10/31/messale-uruguay-argentina-peru.html",
+    "en": "https://www.vatican.va/content/vatican/en/events/event.dir.html/content/vaticanevents/en/2026/10/31/messale-uruguay-argentina-peru.html"
+   },
+   "papa": "vatican"
+  },
+  {
+   "id": "2026-11-1-angelus",
+   "tipo": "angelus",
+   "data": "2026-11-01",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-11-01T11:00:00.000Z",
+   "titulo": {
+    "pt": "Angelus",
+    "es": "Ángelus",
+    "en": "Angelus"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "St Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/1/angelus.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/1/angelus.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/1/angelus.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-2-messa-fedeli-defunti",
+   "tipo": "missa",
+   "data": "2026-11-02",
+   "horaRoma": "16:00",
+   "inicioUtc": "2026-11-02T15:00:00.000Z",
+   "titulo": {
+    "pt": "Comemoração de todos os fiéis defuntos – Santa Missa",
+    "es": "Conmemoración de todos los fieles difuntos – Santa Misa",
+    "en": "Holy Mass - Commemoration of all the Faithful departed"
+   },
+   "local": {
+    "pt": "Cemitério do Verano, Roma",
+    "es": "Cementerio del Verano, Roma",
+    "en": "Cimitero del Verano, Roma"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/2/messa-fedeli-defunti.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/2/messa-fedeli-defunti.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/2/messa-fedeli-defunti.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-3-messaggio-xli-gmg",
+   "tipo": "mensagem",
+   "data": "2026-11-03",
+   "horaRoma": "10:14",
+   "inicioUtc": "2026-11-03T09:14:00.000Z",
+   "titulo": {
+    "pt": "Mensagem do Papa Leão XIV para a XLI Jornada Mundial da Juventude [22 de novembro de 2026 – 3 a 8 de agosto de 2027]",
+    "es": "Mensaje del Santo Padre León XIV para la XLI Jornada Mundial de la Juventud [22 de noviembre de 2026 – 3-8 de agosto de 2027]",
+    "en": "Message of the Holy Father Leo XIV for the 41st World Youth Day [22 November 2026 – 3–8 August 2027]"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/3/messaggio-xli-gmg.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/3/messaggio-xli-gmg.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/3/messaggio-xli-gmg.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-3-popesprayer-novembre",
+   "tipo": "mensagem",
+   "data": "2026-11-03",
+   "horaRoma": "15:00",
+   "inicioUtc": "2026-11-03T14:00:00.000Z",
+   "titulo": {
+    "pt": "Mensagem em vídeo \"Reza com o Papa\" - Novembro 2026: Pelo bom uso das riquezas",
+    "es": "Videomensaje «Reza con el Papa» – Noviembre de 2026: Por el buen uso de las riquezas",
+    "en": "Video Message ‘Pray with the Pope’ – November 2026: For the proper use of wealth"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/3/popesprayer-novembre.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/3/popesprayer-novembre.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/3/popesprayer-novembre.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-4-ouvre-ico",
+   "tipo": "encontro",
+   "data": "2026-11-04",
+   "horaRoma": "09:30",
+   "inicioUtc": "2026-11-04T08:30:00.000Z",
+   "titulo": {
+    "pt": "À Delegação da «L'Œuvre des Chrétiens d'Orient» e do «Institut Chrétiens d'Orient»",
+    "es": "Audiencia a la delegación de «L'Oeuvre des Chrétiens d'Orient» y del «Institut Chrétiens d'Orient»",
+    "en": "To a Delegation of L’Œuvre d’Orient and the Institut Chrétiens d’Orient"
+   },
+   "local": {
+    "pt": "Sala do Consistório",
+    "es": "Sala del Consistorio",
+    "en": "Consistory Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/4/ouvre-ico.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/4/ouvre-ico.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/4/ouvre-ico.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-4-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2026-11-04",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-11-04T09:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "Saint Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/4/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/4/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/4/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-5-messa-cardinali-defunti",
+   "tipo": "missa",
+   "data": "2026-11-05",
+   "horaRoma": "09:00",
+   "inicioUtc": "2026-11-05T08:00:00.000Z",
+   "titulo": {
+    "pt": "Santa Missa em sufrágio dos cardeais e bispos falecidos durante o ano",
+    "es": "Santa Misa en sufragio de los cardenales y obispos fallecidos durante el año",
+    "en": "Holy Mass for the Cardinals and Bishops who have died over the past year"
+   },
+   "local": {
+    "pt": "Basílica de São Pedro",
+    "es": "Basílica de San Pedro",
+    "en": "St. Peter’s Basilica  a.m."
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/5/messa-cardinali-defunti.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/5/messa-cardinali-defunti.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/5/messa-cardinali-defunti.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-5-videomessaggio-convegno-cina",
+   "tipo": "mensagem",
+   "data": "2026-11-05",
+   "horaRoma": "10:40",
+   "inicioUtc": "2026-11-05T09:40:00.000Z",
+   "titulo": {
+    "pt": "Mensagem em vídeo do Santo Padre por ocasião do Congresso internacional organizado pelo Dicastério para a evangelização “O rosto universal da Igreja na China. 100 anos da consagração dos primeiros bispos chineses”",
+    "es": "Videomensaje del Santo Padre con motivo del Congreso Internacional organizado por el Dicasterio para la Evangelización—Sección para la Primera Evangelización en colaboración con la Pontificia Universidad Urbaniana: «El rostro de la Iglesia universal en China»",
+    "en": "Video Message of the Holy Father on the occasion of the International Conference organized by the Dicastery for Evangelization – Section for First Evangelization, in collaboration with the Pontifical Urbaniana University: “The Face of the Universal Church in China: 100 Years Since the Consecration of the First Chinese Bishops”"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/5/videomessaggio-convegno-cina.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/5/videomessaggio-convegno-cina.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/5/videomessaggio-convegno-cina.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-6-uruguay-vespri",
+   "tipo": "viagem",
+   "data": "2026-11-06",
+   "horaRoma": null,
+   "horaLocal": "19:10",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Uruguai: Celebração das Vésperas com os Bispos, os Sacerdotes, os Diáconos, os Religiosos, as Religiosas e os Seminaristas",
+    "es": "Viaje apostólico a Uruguay: Celebración de las Vísperas con los obispos, los sacerdotes, los diáconos, los religiosos, las religiosas y los seminaristas",
+    "en": "Apostolic Journey to Uruguay: Celebration of Vespers with the Bishops, Priests, Deacons, Men and Women Religious, and Seminarians"
+   },
+   "local": {
+    "pt": "Catedral Metropolitana da Imaculada Conceição e dos Santos Filipe e Tiago (Montevidéu)",
+    "es": "Catedral Metropolitana de la Inmaculada Concepción y de los Santos Felipe y Santiago (Montevideo)",
+    "en": "Metropolitan Cathedral of the Immaculate Conception and Saints Philip and James (Montevideo)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/6/uruguay-vespri.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/6/uruguay-vespri.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/6/uruguay-vespri.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-6-uruguay-autorita",
+   "tipo": "viagem",
+   "data": "2026-11-06",
+   "horaRoma": null,
+   "horaLocal": "17:45",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Uruguai: Encontro com as Autoridades, a Sociedade Civil e o Corpo Diplomático",
+    "es": "Viaje apostólico a Uruguay: Encuentro con las autoridades, la sociedad civil y el cuerpo diplomático",
+    "en": "Apostolic Journey to Uruguay: Meeting with the Authorities, Civil Society and the Diplomatic Corps"
+   },
+   "local": {
+    "pt": "«Plaza Independencia» (Montevidéu)",
+    "es": "Plaza Independencia (Montevideo)",
+    "en": "“Plaza Independencia” (Montevideo)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/6/uruguay-autorita.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/6/uruguay-autorita.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/6/uruguay-autorita.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-6-uruguay-volo-andata",
+   "tipo": "viagem",
+   "data": "2026-11-06",
+   "horaRoma": null,
+   "horaLocal": "09:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Uruguai, à Argentina e ao Peru: Palavras do Santo Padre aos jornalistas durante o voo com destino a Montevidéu",
+    "es": "Viaje apostólico a Uruguay, Argentina y Perú: Palabras del Santo Padre a los periodistas durante el vuelo con destino a Montevideo",
+    "en": "Apostolic Journey to Uruguay, Argentina and Peru: Words of the Holy Father to journalists during the flight to Montevideo"
+   },
+   "local": {
+    "pt": null,
+    "es": "Vuelo papal",
+    "en": "Papal Flight"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/6/uruguay-volo-andata.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/6/uruguay-volo-andata.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/6/uruguay-volo-andata.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-6-viaggio-uruguay-argentina-peru",
+   "tipo": "viagem",
+   "data": "2026-11-06",
+   "dataFim": "2026-11-17",
+   "horaRoma": null,
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica do Santo Padre ao Uruguai, à Argentina e ao Peru [6-17 de novembro de 2026]",
+    "es": "Viaje Apostólico de Su Santidad León XIV a Uruguay, Argentina y Perú (6-17 de noviembre de 2026)",
+    "en": "Apostolic Journey of the Holy Father to Uruguay, Argentina and Peru (6–17 November 2026)"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/6/viaggio-uruguay-argentina-peru.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/6/viaggio-uruguay-argentina-peru.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/6/viaggio-uruguay-argentina-peru.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-7-uruguay-veglia-preghiera",
+   "tipo": "viagem",
+   "data": "2026-11-07",
+   "horaRoma": null,
+   "horaLocal": "19:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Uruguai: Vigília de Oração",
+    "es": "Viaje apostólico a Uruguay: Vigilia de oración",
+    "en": "Apostolic Journey to Uruguay: Prayer vigil at the Estadio Centenario"
+   },
+   "local": {
+    "pt": "Estádio Centenario (Montevidéu)",
+    "es": "Estadio Centenario (Montevideo)",
+    "en": "Estadio Centenario (Montevideo)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/7/uruguay-veglia-preghiera.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/7/uruguay-veglia-preghiera.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/7/uruguay-veglia-preghiera.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-7-uruguay-mondo-educazione",
+   "tipo": "viagem",
+   "data": "2026-11-07",
+   "horaRoma": null,
+   "horaLocal": "18:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Uruguai: Encontro com o Mundo da Educação",
+    "es": "Viaje apostólico a Uruguay: Encuentro con el mundo de la educación",
+    "en": "Apostolic journey to Uruguay: Meeting with the world of education at the Catholic University of Uruguay"
+   },
+   "local": {
+    "pt": "Universidade Católica do Uruguai (Montevidéu)",
+    "es": "Universidad Católica de Uruguay (Montevideo)",
+    "en": "Catholic University of Uruguay (Montevideo)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/7/uruguay-mondo-educazione.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/7/uruguay-mondo-educazione.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/7/uruguay-mondo-educazione.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-7-uruguay-casavalle-montevideo",
+   "tipo": "viagem",
+   "data": "2026-11-07",
+   "horaRoma": null,
+   "horaLocal": "17:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Uruguai: Encontro com a realidade social de Casavalle",
+    "es": "Viaje apostólico a Uruguay: Encuentro con la realidad social de Casavalle",
+    "en": "Apostolic journey to Uruguay: Meeting with the social community of Casavalle at the parish of Our Lady of Guadalupe"
+   },
+   "local": {
+    "pt": "Paróquia de Nossa Senhora de Guadalupe (Montevidéu)",
+    "es": "Parroquia de Nuestra Señora de Guadalupe (Montevideo)",
+    "en": "Parish of Our Lady of Guadalupe (Montevideo)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/7/uruguay-casavalle-montevideo.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/7/uruguay-casavalle-montevideo.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/7/uruguay-casavalle-montevideo.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-7-uruguay-messa-paysandu",
+   "tipo": "viagem",
+   "data": "2026-11-07",
+   "horaRoma": null,
+   "horaLocal": "10:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Uruguai: Santa Missa",
+    "es": "Viaje apostólico a Uruguay: Santa Misa",
+    "en": "Apostolic Journey to Uruguay: Holy Mass at “Parque París Londres”"
+   },
+   "local": {
+    "pt": "«Parque París Londres» (Paysandú)",
+    "es": "“Parque París Londres” (Paysandú)",
+    "en": "“Parque París Londres” (Paysandú)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/7/uruguay-messa-paysandu.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/7/uruguay-messa-paysandu.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/7/uruguay-messa-paysandu.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-8-argentina-autorita",
+   "tipo": "viagem",
+   "data": "2026-11-08",
+   "horaRoma": null,
+   "horaLocal": "18:30",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica à Argentina: Encontro com as Autoridades, a Sociedade Civil e o Corpo Diplomático",
+    "es": "Viaje apostólico a Argentina: Encuentro con las autoridades, la sociedad civil y el cuerpo diplomático",
+    "en": "Apostolic Journey to Argentina: Meeting with the Authorities, Civil Society and the Diplomatic Corps"
+   },
+   "local": {
+    "pt": "«Palacio Libertad, Centro Cultural Domingo Faustino Sarmiento» (Buenos Aires)",
+    "es": "Palacio Libertad, Centro Cultural Domingo Faustino Sarmiento (Buenos Aires)",
+    "en": "“Palacio Libertad, Centro Cultural Domingo Faustino Sarmiento” (Buenos Aires)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/8/argentina-autorita.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/8/argentina-autorita.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/8/argentina-autorita.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-8-uruguay-santuario",
+   "tipo": "viagem",
+   "data": "2026-11-08",
+   "horaRoma": null,
+   "horaLocal": "10:30",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Uruguai: Santa Missa",
+    "es": "Viaje apostólico a Uruguay: Santa Misa",
+    "en": "Apostolic Journey to Uruguay: Holy Mass"
+   },
+   "local": {
+    "pt": "Praça em frente à Catedral-Basílica de Florida, Santuário Nacional da Virgem dos Trinta e Três (Florida)",
+    "es": "Plaza frente a la Catedral Basílica de Florida, Santuario Nacional de la Virgen de los Treinta y Tres (Florida)",
+    "en": "Square in front of the Cathedral Basilica of Florida, National Shrine of Our Lady of the Thirty-Three (Florida)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/8/uruguay-santuario.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/8/uruguay-santuario.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/8/uruguay-santuario.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-9-argentina-vespri-buenosaires",
+   "tipo": "viagem",
+   "data": "2026-11-09",
+   "horaRoma": null,
+   "horaLocal": "18:45",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica à Argentina: Celebração das Vésperas com o episcopado argentino e as equipas sinodais",
+    "es": "Viaje apostólico a Argentina: Celebración de las Vísperas con el episcopado argentino y los equipos sinodales",
+    "en": "Apostolic Journey to Argentina: Celebration of Vespers with the Argentine Episcopate and Synodal Teams"
+   },
+   "local": {
+    "pt": "Catedral Metropolitana da Santíssima Trindade (Buenos Aires)",
+    "es": "Catedral Metropolitana de la Santísima Trinidad (Buenos Aires)",
+    "en": "Metropolitan Cathedral of the Most Holy Trinity (Buenos Aires)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/9/argentina-vespri-buenosaires.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/9/argentina-vespri-buenosaires.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/9/argentina-vespri-buenosaires.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-9-argentina-religioni",
+   "tipo": "viagem",
+   "data": "2026-11-09",
+   "horaRoma": null,
+   "horaLocal": "17:30",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica à Argentina: Encontro com os Líderes das comunidades cristãs e das tradições religiosas",
+    "es": "Viaje apostólico a Argentina: Encuentro con los líderes de las comunidades cristianas y de las tradiciones religiosas",
+    "en": "Apostolic journey to Argentina: Meeting with the leaders of Christian communities and religious traditions"
+   },
+   "local": {
+    "pt": "«Palacio San Martín» (Buenos Aires)",
+    "es": "“Palacio San Martín” (Buenos Aires)",
+    "en": "“Palacio San Martín” (Buenos Aires"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/9/argentina-religioni.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/9/argentina-religioni.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/9/argentina-religioni.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-9-argentina-mondo-dellavoro",
+   "tipo": "viagem",
+   "data": "2026-11-09",
+   "horaRoma": null,
+   "horaLocal": "16:10",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica à Argentina: Encontro com o mundo do trabalho",
+    "es": "Viaje apostólico a Argentina: Encuentro con el mundo laboral",
+    "en": "Apostolic Journey to Argentina: Meeting with the world of work"
+   },
+   "local": {
+    "pt": "Universidade Católica Argentina (Buenos Aires)",
+    "es": "Universidad Católica Argentina (Buenos Aires)",
+    "en": "Argentine Catholic University (Buenos Aires)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/9/argentina-mondo-dellavoro.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/9/argentina-mondo-dellavoro.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/9/argentina-mondo-dellavoro.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-9-argentina-messa-buenosaires",
+   "tipo": "viagem",
+   "data": "2026-11-09",
+   "horaRoma": null,
+   "horaLocal": "11:30",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica à Argentina: Santa Missa",
+    "es": "Viaje apostólico a Argentina: Santa Misa",
+    "en": "Apostolic Journey to Argentina: Holy Mass"
+   },
+   "local": {
+    "pt": "«Monumento de los Españoles» (Buenos Aires)",
+    "es": "Ante el “Monumento de los Españoles” (Buenos Aires)",
+    "en": "At the “Monumento de los Españoles” (Buenos Aires)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/9/argentina-messa-buenosaires.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/9/argentina-messa-buenosaires.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/9/argentina-messa-buenosaires.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-9-argentina-cottolengo-claypole",
+   "tipo": "viagem",
+   "data": "2026-11-09",
+   "horaRoma": null,
+   "horaLocal": "09:15",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica à Argentina: Visita aos profissionais e aos assistidos do «Pequeño Cottolengo Don Orione de Claypole»",
+    "es": "Viaje apostólico a Argentina: Visita a los trabajadores y a los asistidos en el «Pequeño Cottolengo Don Orione de Claypole»",
+    "en": "Apostolic Journey to Argentina: Visit to the Staff and Residents of the “Pequeño Cottolengo Don Orione de Claypole”"
+   },
+   "local": {
+    "pt": "«Pequeño Cottolengo Don Orione de Claypole» (Claypole)",
+    "es": "“Pequeño Cottolengo Don Orione de Claypole” (Claypole)",
+    "en": "“Pequeño Cottolengo Don Orione de Claypole” (Claypole)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/9/argentina-cottolengo-claypole.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/9/argentina-cottolengo-claypole.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/9/argentina-cottolengo-claypole.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-10-videomessaggio-consiglio-migrazioni",
+   "tipo": "mensagem",
+   "data": "2026-11-10",
+   "horaRoma": "09:45",
+   "inicioUtc": "2026-11-10T08:45:00.000Z",
+   "titulo": {
+    "pt": "Mensagem em vídeo do Santo Padre aos participantes do Conselho da Comissão Católica Internacional para as Migrações [10-12 de novembro de 2026]",
+    "es": "Videomensaje del Santo Padre a los participantes en el Consejo de la Comisión Católica Internacional sobre las Migraciones [10-12 de noviembre de 2026]",
+    "en": "Video Message of the Holy Father to the participants in the Plenary Meeting of the Council of the International Catholic Migration Commission"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/10/videomessaggio-consiglio-migrazioni.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/10/videomessaggio-consiglio-migrazioni.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/10/videomessaggio-consiglio-migrazioni.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-10-argentina-veglia-giovani",
+   "tipo": "viagem",
+   "data": "2026-11-10",
+   "horaRoma": null,
+   "horaLocal": "20:15",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica à Argentina: Vigília com os Jovens",
+    "es": "Viaje apostólico a Argentina: Vigilia con los jóvenes",
+    "en": "Apostolic Journey to Argentina: Prayer Vigil with Young People"
+   },
+   "local": {
+    "pt": "«Monumento de los Españoles» (Buenos Aires)",
+    "es": "En el “Monumento de los Españoles” (Buenos Aires)",
+    "en": "“Monumento de los Españoles” (Buenos Aires)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/10/argentina-veglia-giovani.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/10/argentina-veglia-giovani.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/10/argentina-veglia-giovani.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-10-argentina-chiesa-cordoba",
+   "tipo": "viagem",
+   "data": "2026-11-10",
+   "horaRoma": null,
+   "horaLocal": "15:15",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica à Argentina: Encontro com os bispos, os sacerdotes, os diáconos, os religiosos, as religiosas, os seminaristas e os agentes pastorais",
+    "es": "Viaje apostólico a Argentina: Encuentro con los obispos, los sacerdotes, los diáconos, los religiosos, las religiosas, los seminaristas y los agentes pastorales",
+    "en": "Apostolic Journey to Argentina: Meeting with the Bishops, Priests, Deacons, Men and Women Religious, Seminarians and Pastoral Workers"
+   },
+   "local": {
+    "pt": "Catedral de Nossa Senhora da Assunção (Córdoba)",
+    "es": "Catedral de Nuestra Señora de la Asunción (Córdoba)",
+    "en": "Cathedral of Nuestra Señora de la Asunción (Córdoba)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/10/argentina-chiesa-cordoba.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/10/argentina-chiesa-cordoba.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/10/argentina-chiesa-cordoba.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-10-argentina-messa-cordoba",
+   "tipo": "viagem",
+   "data": "2026-11-10",
+   "horaRoma": null,
+   "horaLocal": "10:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica à Argentina: Santa Missa",
+    "es": "Viaje apostólico a Argentina: Santa Misa",
+    "en": "Apostolic Journey to Argentina: Holy Mass"
+   },
+   "local": {
+    "pt": "Esplanada da Escola de Aviação Militar (Córdoba)",
+    "es": "Escuela de Aviación Militar (Córdoba)",
+    "en": "Grounds of the Military Aviation School (Córdoba)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/10/argentina-messa-cordoba.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/10/argentina-messa-cordoba.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/10/argentina-messa-cordoba.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-11-peru-autorita-lima",
+   "tipo": "viagem",
+   "data": "2026-11-11",
+   "horaRoma": null,
+   "horaLocal": "19:45",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Encontro com as Autoridades, a Sociedade Civil e o Corpo Diplomático",
+    "es": "Viaje apostólico a Perú: Encuentro con las autoridades, la sociedad civil y el cuerpo diplomático",
+    "en": "Apostolic Journey to Peru: Meeting with the Authorities, Civil Society and the Diplomatic Corps"
+   },
+   "local": {
+    "pt": "«Gran Teatro Nacional» (Lima)",
+    "es": "“Gran Teatro Nacional” (Lima)",
+    "en": "“Gran Teatro Nacional” (Lima)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/11/peru-autorita-lima.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/11/peru-autorita-lima.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/11/peru-autorita-lima.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-11-argentina-messa-lujan",
+   "tipo": "viagem",
+   "data": "2026-11-11",
+   "horaRoma": null,
+   "horaLocal": "10:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica à Argentina: Santa Missa",
+    "es": "Viaje apostólico a Argentina: Santa Misa",
+    "en": "Apostolic Journey to Argentina: Holy Mass"
+   },
+   "local": {
+    "pt": "Praça em frente à Basílica de Nossa Senhora de Luján (Luján)",
+    "es": "Plaza frente a la Basílica de Nuestra Señora de Luján (Luján)",
+    "en": "Square in front of the Basilica of Our Lady of Luján (Luján)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/11/argentina-messa-lujan.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/11/argentina-messa-lujan.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/11/argentina-messa-lujan.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-11-argentina-penitenziario-buenosaires",
+   "tipo": "viagem",
+   "data": "2026-11-11",
+   "horaRoma": null,
+   "horaLocal": "08:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica à Argentina: Visita ao Complexo Penitenciário Federal de Buenos Aires",
+    "es": "Viaje apostólico a Argentina: Visita al Complejo Penitenciario Federal de Buenos Aires",
+    "en": "Apostolic Journey to Argentina: Visit to the Federal Prison Complex in Buenos Aires"
+   },
+   "local": {
+    "pt": "Complexo Penitenciário Federal de Buenos Aires",
+    "es": "Complejo Penitenciario Federal de Buenos Aires",
+    "en": "Federal Prison Complex in Buenos Aires"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/11/argentina-penitenziario-buenosaires.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/11/argentina-penitenziario-buenosaires.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/11/argentina-penitenziario-buenosaires.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-12-peru-veglia-lima",
+   "tipo": "viagem",
+   "data": "2026-11-12",
+   "horaRoma": null,
+   "horaLocal": "18:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Vigília de Oração com os Jovens e os Universitários",
+    "es": "Viaje apostólico a Perú: Vigilia de oración con los jóvenes y los universitarios",
+    "en": "Apostolic Journey to Peru: Prayer Vigil with Young People and University Students"
+   },
+   "local": {
+    "pt": "Estádio Nacional do Peru (Lima)",
+    "es": "Estadio Nacional del Perú (Lima)",
+    "en": "National Stadium of Peru (Lima)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/12/peru-veglia-lima.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/12/peru-veglia-lima.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/12/peru-veglia-lima.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-12-peru-futuro",
+   "tipo": "viagem",
+   "data": "2026-11-12",
+   "horaRoma": null,
+   "horaLocal": "11:30",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Encontro sobre os desafios e as esperanças para o futuro do povo peruano",
+    "es": "Viaje apostólico a Perú: Encuentro sobre los desafíos y las esperanzas para el futuro del pueblo peruano",
+    "en": "Apostolic Journey to Peru: Meeting on the challenges and hopes for the future of the Peruvian people"
+   },
+   "local": {
+    "pt": "Praça em frente à Catedral (Lima)",
+    "es": "Plaza frente la Catedral (Lima)",
+    "en": "Square in front of the Cathedral (Lima)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/12/peru-futuro.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/12/peru-futuro.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/12/peru-futuro.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-12-peru-ora-media-lima",
+   "tipo": "viagem",
+   "data": "2026-11-12",
+   "horaRoma": null,
+   "horaLocal": "10:20",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Celebração da Hora Média com os Bispos, os Sacerdotes, os Religiosos, as Religiosas, os Seminaristas, as Equipas Sinodais e os Conselhos Pastorais",
+    "es": "Viaje apostólico a Perú: Celebración de la Hora Media con los obispos, los sacerdotes, los religiosos, las religiosas, los seminaristas, los equipos sinodales y los consejos pastorales",
+    "en": "Apostolic Journey to Peru: Celebration of Mid-Morning Prayer with the Bishops, Priests, Men and Women Religious, Seminarians, Synodal Teams and Pastoral Councils"
+   },
+   "local": {
+    "pt": "Basílica Catedral de São João, Apóstolo e Evangelista (Lima)",
+    "es": "Basilica Catedral de San Juan Apóstol y Evangelista (Lima)",
+    "en": "Cathedral Basilica of St John the Apostle and Evangelist (Lima)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/12/peru-ora-media-lima.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/12/peru-ora-media-lima.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/12/peru-ora-media-lima.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-12-peru-vescovi",
+   "tipo": "viagem",
+   "data": "2026-11-12",
+   "horaRoma": null,
+   "horaLocal": "09:30",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Encontro com os Bispos do Peru",
+    "es": "Viaje apostólico a Perú: Encuentro con los obispos de Perú",
+    "en": "Apostolic Journey to Peru: Meeting with the Bishops of Peru"
+   },
+   "local": {
+    "pt": "Capela do Palácio Arcebispal de Lima",
+    "es": "Capilla del Palacio Arzobispal de Lima",
+    "en": "Chapel of the Archbishop’s Residence in Lima"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/12/peru-vescovi.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/12/peru-vescovi.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/12/peru-vescovi.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-13-peru-mondo-unversitario",
+   "tipo": "viagem",
+   "data": "2026-11-13",
+   "horaRoma": null,
+   "horaLocal": "17:45",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Encontro com o Mundo Universitário",
+    "es": "Viaje apostólico a Perú: Encuentro con la comunidad universitaria",
+    "en": "Apostolic Journey to Peru: Meeting with the Academic Community"
+   },
+   "local": {
+    "pt": "Universidade Católica «Santo Toribio de Mogrovejo» (Chiclayo)",
+    "es": "Universidad Católica “Santo Toribio de Mogrovejo” (Chiclayo)",
+    "en": "Catholic University “Santo Toribio de Mogrovejo” (Chiclayo)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/13/peru-mondo-unversitario.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/13/peru-mondo-unversitario.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/13/peru-mondo-unversitario.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-13-peru-chiesa-chiclayo",
+   "tipo": "viagem",
+   "data": "2026-11-13",
+   "horaRoma": null,
+   "horaLocal": "16:30",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Encontro com os bispos, os sacerdotes, os religiosos, as religiosas, os seminaristas, as equipas sinodais e os conselhos pastorais",
+    "es": "Viaje apostólico a Perú: Encuentro con los obispos, los sacerdotes, los religiosos, las religiosas, los seminaristas, los equipos sinodales y los consejos pastorales",
+    "en": "Apostolic Journey to Peru: Meeting with the Bishops, Priests, Men and Women Religious, Seminarians, Synodal Teams and Pastoral Councils"
+   },
+   "local": {
+    "pt": "Santuário de Nossa Senhora da Pacz (Chiclayo)",
+    "es": "Santuario de Nuestra Señora de la Paz (Chiclayo)",
+    "en": "Shrine of Our Lady of Peace (Chiclayo)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/13/peru-chiesa-chiclayo.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/13/peru-chiesa-chiclayo.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/13/peru-chiesa-chiclayo.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-13-peru-cappella-oscarromero",
+   "tipo": "viagem",
+   "data": "2026-11-13",
+   "horaRoma": null,
+   "horaLocal": "12:40",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Visita privada à Capela de São Óscar A. Romero",
+    "es": "Viaje apostólico a Perú: Visita privada a la Capilla San Óscar A. Romero",
+    "en": "Apostolic Journey to Peru: Private Visit to the \"Saint Óscar A. Romero\" Chapel"
+   },
+   "local": {
+    "pt": "Capela San Óscar A. Romero (Chiclayo)",
+    "es": "Capilla San Óscar A. Romero (Chiclayo)",
+    "en": "&quot;Saint Óscar A. Romero&quot; Chapel (Chiclayo)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/13/peru-cappella-oscarromero.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/13/peru-cappella-oscarromero.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/13/peru-cappella-oscarromero.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-13-peru-messa-chiclayo",
+   "tipo": "viagem",
+   "data": "2026-11-13",
+   "horaRoma": null,
+   "horaLocal": "10:30",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Santa Missa",
+    "es": "Viaje apostólico a Perú: Santa Misa",
+    "en": "Apostolic Journey to Peru: Holy Mass"
+   },
+   "local": {
+    "pt": "Esplanada junto das «Pampas de Pimentel» (Chiclayo)",
+    "es": "Explanada ante las “Pampas de Pimentel” (Chiclayo)",
+    "en": "Open space near the “Pampas de Pimentel” (Chiclayo)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/13/peru-messa-chiclayo.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/13/peru-messa-chiclayo.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/13/peru-messa-chiclayo.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-13-peru-nunziatura-lima",
+   "tipo": "viagem",
+   "data": "2026-11-13",
+   "horaRoma": null,
+   "horaLocal": "06:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Palavras do Santo Padre da varanda da Nunciatura Apostólica",
+    "es": "Viaje apostólico a Perú: Palabras de saludo del Santo Padre desde el balcón de la Nunciatura Apostólica",
+    "en": "Apostolic Journey to Peru: Greeting of the Holy Father from the balcony of the Apostolic Nunciature in Lima"
+   },
+   "local": {
+    "pt": "Lima",
+    "es": "Lima",
+    "en": "Lima"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/13/peru-nunziatura-lima.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/13/peru-nunziatura-lima.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/13/peru-nunziatura-lima.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-14-peru-comunita-cattolica",
+   "tipo": "viagem",
+   "data": "2026-11-14",
+   "horaRoma": null,
+   "horaLocal": "17:30",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Encontro de oração com a comunidade católica por ocasião do encerramento do Ano Jubilar de São Toribio de Mogrovejo",
+    "es": "Viaje apostólico a Perú: Encuentro de oración con la comunidad católica con motivo de la clausura del Año Jubilar de Santo Toribio de Mogrovejo",
+    "en": "Apostolic Journey to Peru: Prayer Meeting with the Catholic Community on the Occasion of the Closing of the Jubilee Year of Saint Toribio de Mogrovejo"
+   },
+   "local": {
+    "pt": "Santuário de Santo Toribio de Mogrovejo (Zaña)",
+    "es": "Santuario de Santo Toribio de Mogrovejo (Zaña)",
+    "en": "Shrine of Saint Toribio de Mogrovejo (Zaña)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/14/peru-comunita-cattolica.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/14/peru-comunita-cattolica.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/14/peru-comunita-cattolica.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-14-peru-messa-santacruzdesucchabamba",
+   "tipo": "viagem",
+   "data": "2026-11-14",
+   "horaRoma": null,
+   "horaLocal": "11:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Santa Missa",
+    "es": "Viaje apostólico a Perú: Santa Misa",
+    "en": "Apostolic Journey to Peru: Holy Mass"
+   },
+   "local": {
+    "pt": "Esplanada de Santa Cruz de Succhabamba",
+    "es": "Explanada de Santa Cruz de Succhabamba (Santa Cruz de Succhabamba)",
+    "en": "Open space in Santa Cruz de Succhabamba (Santa Cruz de Succhabamba)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/14/peru-messa-santacruzdesucchabamba.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/14/peru-messa-santacruzdesucchabamba.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/14/peru-messa-santacruzdesucchabamba.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-14-peru-rito-incoronazione",
+   "tipo": "viagem",
+   "data": "2026-11-14",
+   "horaRoma": null,
+   "horaLocal": "08:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Rito de Coroação da Virgem Imaculada",
+    "es": "Viaje apostólico a Perú: Rito de coronación de la Virgen Inmaculada",
+    "en": "Apostolic Journey to Peru: Coronation Rite of the Immaculate Virgin"
+   },
+   "local": {
+    "pt": "Catedral de Santa Maria (Chiclayo)",
+    "es": "Catedral de Santa María (Chiclayo)",
+    "en": "Cathedral of Saint Mary (Chiclayo)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/14/peru-rito-incoronazione.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/14/peru-rito-incoronazione.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/14/peru-rito-incoronazione.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-15-peru-angelus",
+   "tipo": "angelus",
+   "data": "2026-11-15",
+   "horaRoma": "11:45",
+   "inicioUtc": "2026-11-15T10:45:00.000Z",
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Oração do Angelus",
+    "es": "Viaje apostólico a Perú: Oración del Ángelus",
+    "en": "Apostolic journey to Peru: Angelus"
+   },
+   "local": {
+    "pt": "Praça em frente à Basílica Catedral da Assunção da Bem-Aventurada Virgem Maria (Cusco)",
+    "es": "Plaza frente a la Basílica Catedral de la Asunción de la Bienaventurada Virgen María (Cusco)",
+    "en": "Square in front of the Cathedral Basilica of the Assumption of the Blessed Virgin Mary (Cusco)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/15/peru-angelus.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/15/peru-angelus.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/15/peru-angelus.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-15-peru-lima-nunziatura",
+   "tipo": "viagem",
+   "data": "2026-11-15",
+   "horaRoma": null,
+   "horaLocal": "21:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Saudação do Santo Padre na Varanda da Nunciatura Apostólica",
+    "es": "Viaje apostólico a Perú: Saludo espontáneo del Santo Padre en el balcón de la Nunciatura Apostólica",
+    "en": "Apostolic Journey to Peru: Greeting of the Holy Father at the Apostolic Nunciature"
+   },
+   "local": {
+    "pt": "Nunciatura Apostólica de Lima",
+    "es": "Lima",
+    "en": "Apostolic Nunciature (Lima)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/15/peru-lima-nunziatura.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/15/peru-lima-nunziatura.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/15/peru-lima-nunziatura.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-15-peru-messa-pucallpa",
+   "tipo": "viagem",
+   "data": "2026-11-15",
+   "horaRoma": null,
+   "horaLocal": "16:45",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Santa Missa",
+    "es": "Viaje apostólico a Perú: Santa Misa",
+    "en": "Apostolic Journey to Peru: Holy Mass"
+   },
+   "local": {
+    "pt": "«Villa Deportiva Regional Ucayali» (Pucallpa)",
+    "es": "“Villa Deportiva Regional Ucayali” (Pucallpa)",
+    "en": "“Villa Deportiva Regional Ucayali” (Pucallpa)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/15/peru-messa-pucallpa.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/15/peru-messa-pucallpa.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/15/peru-messa-pucallpa.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-15-peru-missionari",
+   "tipo": "viagem",
+   "data": "2026-11-15",
+   "horaRoma": null,
+   "horaLocal": "15:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Encontro com os missionários, as missionárias e os representantes dos povos da Amazónia",
+    "es": "Viaje apostólico a Perú: Encuentro con los misioneros, las misioneras y los representantes de los pueblos amazónicos",
+    "en": "Apostolic Journey to Peru: Meeting with Missionaries and Representatives of the Amazonian Peoples"
+   },
+   "local": {
+    "pt": "«Malecón Puerto Callao» (Pucallpa)",
+    "es": "En ell “Malecón Puerto Callao” (Pucallpa)",
+    "en": "At the “Malecón Puerto Callao” (Pucallpa)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/15/peru-missionari.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/15/peru-missionari.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/15/peru-missionari.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-15-peru-fedeli-cusco",
+   "tipo": "viagem",
+   "data": "2026-11-15",
+   "horaRoma": null,
+   "horaLocal": "10:30",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Encontro com os fiéis e os representantes da piedade popular",
+    "es": "Viaje apostólico a Perú: Encuentro con los fieles y los representantes de la piedad popular",
+    "en": "Apostolic Journey to Peru: Meeting with the Faithful and Representatives of Popular Devotion"
+   },
+   "local": {
+    "pt": "Parque Arqueológico Nacional de Saqsaywaman",
+    "es": "Parque Archeológico Nacional de Saqsaywaman",
+    "en": "Saqsaywaman National Archaeological Park"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/15/peru-fedeli-cusco.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/15/peru-fedeli-cusco.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/15/peru-fedeli-cusco.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-15-peru-casa-vescovile-chiclayo",
+   "tipo": "viagem",
+   "data": "2026-11-15",
+   "horaRoma": null,
+   "horaLocal": "07:30",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Palavras improvisadas de saudação do Santo Padre à saída da Casa Episcopal de Chiclayo",
+    "es": "Viaje apostólico a Perú: Saludo espontáneo del Santo Padre al salir de la residencia episcopal",
+    "en": "Apostolic Journey to Peru: Impromptu greeting of the Holy Father upon leaving the Bishop’s House in Chiclayo"
+   },
+   "local": {
+    "pt": "Chiclayo",
+    "es": "Chiclayo",
+    "en": "Chiclayo"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/15/peru-casa-vescovile-chiclayo.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/15/peru-casa-vescovile-chiclayo.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/15/peru-casa-vescovile-chiclayo.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-16-peru-volo-ritorno",
+   "tipo": "viagem",
+   "data": "2026-11-16",
+   "horaRoma": null,
+   "horaLocal": "15:00",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Uruguai, à Argentina e ao Peru: Palavras do Santo Padre aos jornalistas durante o voo com destino a Roma",
+    "es": "Viaje apostólico a Uruguay, Argentina y Perú: Conferencia de prensa durante el vuelo de regreso a Roma",
+    "en": "Apostolic Journey to Uruguay, Argentina and Peru: Press conference during the flight to Rome"
+   },
+   "local": {
+    "pt": null,
+    "es": "Vuelo papal",
+    "en": "Papal Flight"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/16/peru-volo-ritorno.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/16/peru-volo-ritorno.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/16/peru-volo-ritorno.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-16-peru-messa-lima",
+   "tipo": "viagem",
+   "data": "2026-11-16",
+   "horaRoma": null,
+   "horaLocal": "10:30",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Santa Missa",
+    "es": "Viaje apostólico a Perú: Santa Misa",
+    "en": "Apostolic Journey to Peru: Holy Mass"
+   },
+   "local": {
+    "pt": "«Base Aérea Las Palmas” (Lima)",
+    "es": "“Base Aérea Las Palmas” (Lima)",
+    "en": "“Las Palmas Air Base” (Lima)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/16/peru-messa-lima.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/16/peru-messa-lima.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/16/peru-messa-lima.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-16-peru-anziani",
+   "tipo": "viagem",
+   "data": "2026-11-16",
+   "horaRoma": null,
+   "horaLocal": "08:30",
+   "inicioUtc": null,
+   "titulo": {
+    "pt": "Viagem Apostólica ao Peru: Visita aos operadores e aos assistidos",
+    "es": "Viaje apostólico a Perú: Visita a los trabajadores y a los residentes de la casa de acogida de las «Hermanitas de los Ancianos Desamparados»",
+    "en": "Apostolic Journey to Peru: Visit to the Staff and Residents of the “Hermanitas de los Ancianos Desamparados” Care Home"
+   },
+   "local": {
+    "pt": "Centro de Acolhimento das «Hermanitas de los Ancianos desamparados» (Callao)",
+    "es": "Asilo de Ancianos Desamparados del Callao",
+    "en": "Care Home of the “Hermanitas de los Ancianos Desamparados” (Callao)"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/16/peru-anziani.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/16/peru-anziani.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/16/peru-anziani.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-18-fadica",
+   "tipo": "encontro",
+   "data": "2026-11-18",
+   "horaRoma": "09:00",
+   "inicioUtc": "2026-11-18T08:00:00.000Z",
+   "titulo": {
+    "pt": "À Delegação da «FADICA-Catholic Philanthropy Network»",
+    "es": "Delegación de \"FADICA-Catholic Philanthropy Network\"",
+    "en": "To the Delegation of “FADICA-Catholic Philanthropy Network”"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/18/fadica.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/18/fadica.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/18/fadica.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-18-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2026-11-18",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-11-18T09:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "h.",
+    "en": "Saint Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/18/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/18/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/18/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-18-messa-anniversario-sanpietro",
+   "tipo": "missa",
+   "data": "2026-11-18",
+   "horaRoma": "17:00",
+   "inicioUtc": "2026-11-18T16:00:00.000Z",
+   "titulo": {
+    "pt": "Dedicação da Basílica de São Pedro - Santa Missa",
+    "es": "Dedicación de la Basílica de San Pedro, Apóstol – Santa Misa",
+    "en": "Dedication of the Basilica of Saint Peter, Apostle – Holy Mass"
+   },
+   "local": {
+    "pt": "Basílica de São Pedro",
+    "es": "Basílica de San Pedro",
+    "en": "St. Peter’s Basilica  p.m."
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/18/messa-anniversario-sanpietro.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/18/messa-anniversario-sanpietro.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/18/messa-anniversario-sanpietro.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-19-caritas-internationalis",
+   "tipo": "encontro",
+   "data": "2026-11-19",
+   "horaRoma": "10:15",
+   "inicioUtc": "2026-11-19T09:15:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes no encontro promovido pela Caritas Internationalis",
+    "es": "Participantes en el encuentro organizado por Caritas Internationalis",
+    "en": "To the participants in the meeting promoted by Caritas Internationalis"
+   },
+   "local": {
+    "pt": "Sala Clementina",
+    "es": "Sala Clementina",
+    "en": "Clementine Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/19/caritas-internationalis.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/19/caritas-internationalis.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/19/caritas-internationalis.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-19-shalom",
+   "tipo": "encontro",
+   "data": "2026-11-19",
+   "horaRoma": "11:00",
+   "inicioUtc": "2026-11-19T10:00:00.000Z",
+   "titulo": {
+    "pt": "Aos membros da Comunidade Católica Shalom",
+    "es": "Miembros de la Comunidad Católica Shalom",
+    "en": "To the members of the Shalom Catholic Community"
+   },
+   "local": {
+    "pt": "Sala Paulo VI",
+    "es": "Aula Pablo VI",
+    "en": "Paul VI Audience Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/19/shalom.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/19/shalom.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/19/shalom.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-20-cnewa",
+   "tipo": "encontro",
+   "data": "2026-11-20",
+   "horaRoma": "09:00",
+   "inicioUtc": "2026-11-20T08:00:00.000Z",
+   "titulo": {
+    "pt": "À Delegação da «Catholic Near East Welfare Association (CNEWA)»",
+    "es": "Delegación de la «Asociación Católica para el Bienestar del Oriente Próximo (CNEWA)»",
+    "en": "Delegation of the Catholic Near East Welfare Association (CNEWA)"
+   },
+   "local": {
+    "pt": "Sala do Concistório",
+    "es": "Sala del Consistorio",
+    "en": "Consistory Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/20/cnewa.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/20/cnewa.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/20/cnewa.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-21-iaf-asi",
+   "tipo": "encontro",
+   "data": "2026-11-21",
+   "horaRoma": "11:00",
+   "inicioUtc": "2026-11-21T10:00:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes no International Space Forum 2026",
+    "es": "Participantes en el \"International Space Forum 2026\"",
+    "en": "To the participants in the International Space Forum 2026"
+   },
+   "local": {
+    "pt": "Biblioteca do Palácio Apostólico",
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/21/iaf-asi.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/21/iaf-asi.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/21/iaf-asi.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-21-wiener-philharmoniker",
+   "tipo": "encontro",
+   "data": "2026-11-21",
+   "horaRoma": "11:30",
+   "inicioUtc": "2026-11-21T10:30:00.000Z",
+   "titulo": {
+    "pt": "Aos membros da Orquestra Filarmónica de Viena",
+    "es": "Miembros de la Orquesta Filarmónica de Viena",
+    "en": "Members of the Vienna Philharmonic"
+   },
+   "local": {
+    "pt": "Sala Clementina",
+    "es": "Sala Clementina",
+    "en": "Clementine Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/21/wiener-philharmoniker.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/21/wiener-philharmoniker.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/21/wiener-philharmoniker.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-21-giovani-lazio",
+   "tipo": "encontro",
+   "data": "2026-11-21",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-11-21T11:00:00.000Z",
+   "titulo": {
+    "pt": "Aos jovens das Dioceses do Lácio",
+    "es": "A los jóvenes de las diócesis del Lacio",
+    "en": "To the young people of the Dioceses of Lazio"
+   },
+   "local": {
+    "pt": "Sala Paulo VI",
+    "es": "Aula Pablo VI",
+    "en": "Paul VI Audience Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/21/giovani-lazio.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/21/giovani-lazio.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/21/giovani-lazio.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-22-angelus",
+   "tipo": "angelus",
+   "data": "2026-11-22",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-11-22T11:00:00.000Z",
+   "titulo": {
+    "pt": "Angelus",
+    "es": "Ángelus",
+    "en": "Angelus"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "St Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/22/angelus.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/22/angelus.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/22/angelus.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-22-pranzo-dicastero-carita",
+   "tipo": "encontro",
+   "data": "2026-11-22",
+   "horaRoma": "13:00",
+   "inicioUtc": "2026-11-22T12:00:00.000Z",
+   "titulo": {
+    "pt": "Almoço com os pobres",
+    "es": "Almuerzo con los pobres organizado por el Dicasterio para el Servicio de la Caridad",
+    "en": "Lunch with the poor"
+   },
+   "local": {
+    "pt": "Sala Paulo VI",
+    "es": "Aula Pablo VI",
+    "en": "Paul VI Audience Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/22/pranzo-dicastero-carita.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/22/pranzo-dicastero-carita.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/22/pranzo-dicastero-carita.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-23-guardia-svizzera",
+   "tipo": "encontro",
+   "data": "2026-11-23",
+   "horaRoma": "11:00",
+   "inicioUtc": "2026-11-23T10:00:00.000Z",
+   "titulo": {
+    "pt": "Aos membros da Fundação para a renovação do Quartel da Guarda Suíça Pontifícia",
+    "es": "Miembros de la Fundación para la renovación del cuartel de la Guardia Suiza Pontificia",
+    "en": "Members of the Foundation for the Renovation of the Barracks of the Swiss Guard"
+   },
+   "local": {
+    "pt": "Sala do Consistório",
+    "es": "Sala del Consistorio",
+    "en": "Consistory Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/23/guardia-svizzera.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/23/guardia-svizzera.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/23/guardia-svizzera.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-23-uci",
+   "tipo": "encontro",
+   "data": "2026-11-23",
+   "horaRoma": "11:30",
+   "inicioUtc": "2026-11-23T10:30:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes no encontro promovido pela Union Cycliste Internationale",
+    "es": "Audiencia a los participantes en el encuentro organizado por la Unión Ciclista Internacional",
+    "en": "Participants in the meeting promoted by the Union Cycliste Internationale"
+   },
+   "local": {
+    "pt": "Sala Clementina",
+    "es": "Sala Clementina",
+    "en": "Clementine Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/23/uci.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/23/uci.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/23/uci.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-25-cti",
+   "tipo": "encontro",
+   "data": "2026-11-25",
+   "horaRoma": "09:00",
+   "inicioUtc": "2026-11-25T08:00:00.000Z",
+   "titulo": {
+    "pt": "Aos membros da Comissão Teológica Internacional",
+    "es": "Miembros de la Comisión Teológica Internacional",
+    "en": "To the Members of the International Theological Commission"
+   },
+   "local": {
+    "pt": "Sala do Consistório",
+    "es": "Sala del Consistorio",
+    "en": "Consistory Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/25/cti.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/25/cti.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/25/cti.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-25-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2026-11-25",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-11-25T09:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "Saint Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/25/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/25/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/25/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-25-pastorale-carceraria",
+   "tipo": "documento",
+   "data": "2026-11-25",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-11-25T11:00:00.000Z",
+   "titulo": {
+    "pt": "« In carcere eram, et venistis ad me » - Carta Apostólica sob a forma de «Motu Proprio» do Sumo Pontífice sobre a Pastoral Prisional",
+    "es": "“ In carcere eram, et venistis ad me ” - Carta Apostólica en forma de «Motu Proprio» del Sumo Pontífice sobre la Pastoral penitenciaria",
+    "en": "“In carcere eram, et venistis ad me” – Apostolic Letter issued Motu Proprio by the Supreme Pontiff concerning Prison Ministry"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/25/pastorale-carceraria.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/25/pastorale-carceraria.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/25/pastorale-carceraria.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-26-dialogo-interreligioso",
+   "tipo": "encontro",
+   "data": "2026-11-26",
+   "horaRoma": "09:00",
+   "inicioUtc": "2026-11-26T08:00:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes na Assembleia Plenária do Dicastério para o Diálogo Inter-religioso",
+    "es": "Participantes en la sesión plenaria del Dicasterio para el Diálogo Interreligioso",
+    "en": "To the Participants in the Plenary Assembly of the Dicastery for Interreligious Dialogue"
+   },
+   "local": {
+    "pt": "Sala do Consistório",
+    "es": "Sala del Consistorio",
+    "en": "Consistory Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/26/dialogo-interreligioso.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/26/dialogo-interreligioso.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/26/dialogo-interreligioso.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-26-plenaria-dssui",
+   "tipo": "encontro",
+   "data": "2026-11-26",
+   "horaRoma": "09:30",
+   "inicioUtc": "2026-11-26T08:30:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes na Assembleia Plenária do Dicastério para o Serviço do Desenvolvimento Humano Integral",
+    "es": "Participantes en la sesión plenaria del Dicasterio para el Servicio del Desarrollo Humano Integral",
+    "en": "To the Participants in the Plenary Assembly of the Dicastery for Promoting Integral Human Development"
+   },
+   "local": {
+    "pt": "Sala Clementina",
+    "es": "Sala Clementina",
+    "en": "Clementine Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/26/plenaria-dssui.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/26/plenaria-dssui.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/26/plenaria-dssui.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-26-usg-uisg",
+   "tipo": "encontro",
+   "data": "2026-11-26",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-11-26T09:00:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes na Assembleia conjunta da União dos Superiores Gerais (USG) e da União Internacional das Superioras Gerais (UISG)",
+    "es": "Participantes en la Asamblea conjunta de la Unión de Superiores Generales (USG) y de la Unión Internacional de Superioras Generales (UISG) (26 de noviembre de 2026)",
+    "en": "To the Participants in the Joint Assembly of the Union of Superiors General (USG) and the International Union of Superiors General (UISG)"
+   },
+   "local": {
+    "pt": "Sala do Sínodo",
+    "es": "Aula del Sínodo",
+    "en": "Synod Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/26/usg-uisg.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/26/usg-uisg.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/26/usg-uisg.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-27-parrocchia-sant-andrea-dellefratte",
+   "tipo": "missa",
+   "data": "2026-11-27",
+   "horaRoma": "17:00",
+   "inicioUtc": "2026-11-27T16:00:00.000Z",
+   "titulo": {
+    "pt": "Virgem Maria Imaculada da Medalha Milagrosa – Santa Missa",
+    "es": "Bienaventurada Virgen María de la Medalla Milagrosa – Santa Misa",
+    "en": "Blessed Virgin Mary Immaculate of the Miraculous Medal – Holy Mass"
+   },
+   "local": {
+    "pt": "Paróquia de Santo André do Horto, Roma",
+    "es": "Parroquia de San Andrés delle Fratte , Roma",
+    "en": "Parish of S. Andrea delle Fratte, Rome"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/27/parrocchia-sant-andrea-dellefratte.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/27/parrocchia-sant-andrea-dellefratte.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/27/parrocchia-sant-andrea-dellefratte.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-29-angelus",
+   "tipo": "angelus",
+   "data": "2026-11-29",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-11-29T11:00:00.000Z",
+   "titulo": {
+    "pt": "Angelus",
+    "es": "Ángelus",
+    "en": "Angelus"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "St Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/29/angelus.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/29/angelus.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/29/angelus.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-29-parrocchia-san-carlo-dasezze",
+   "tipo": "missa",
+   "data": "2026-11-29",
+   "horaRoma": "17:00",
+   "inicioUtc": "2026-11-29T16:00:00.000Z",
+   "titulo": {
+    "pt": "I Domingo do Advento – Santa Missa",
+    "es": "I Domingo de Adviento – Santa Misa",
+    "en": "First Sunday of Advent – Holy Mass"
+   },
+   "local": {
+    "pt": "Paróquia de São Carlos de Sezze, Roma",
+    "es": "Parroquia de S. Carlos de Sezze, Roma",
+    "en": "Parish S. Carlo da Sezze, Rome"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/29/parrocchia-san-carlo-dasezze.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/29/parrocchia-san-carlo-dasezze.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/29/parrocchia-san-carlo-dasezze.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-2-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2026-12-02",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-12-02T09:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": null,
+    "es": "h.",
+    "en": "at  a.m."
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/2/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/2/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/2/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-6-angelus",
+   "tipo": "angelus",
+   "data": "2026-12-06",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-12-06T11:00:00.000Z",
+   "titulo": {
+    "pt": "Angelus",
+    "es": "Ángelus",
+    "en": "Angelus"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "St Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/6/angelus.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/6/angelus.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/6/angelus.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-6-parrocchia-sant-eligio",
+   "tipo": "missa",
+   "data": "2026-12-06",
+   "horaRoma": "17:00",
+   "inicioUtc": "2026-12-06T16:00:00.000Z",
+   "titulo": {
+    "pt": "II Domingo do Advento – Santa Missa",
+    "es": "II Domingo de Adviento – Santa Misa",
+    "en": "Second Sunday of Advent – Holy Mass"
+   },
+   "local": {
+    "pt": "Paróquia de São Eligio, Roma",
+    "es": "Parroquia de S. Eligio, Roma",
+    "en": "Parish of S. Eligio, Rome"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/6/parrocchia-sant-eligio.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/6/parrocchia-sant-eligio.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/6/parrocchia-sant-eligio.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-8-immacolata",
+   "tipo": "outro",
+   "data": "2026-12-08",
+   "horaRoma": "16:00",
+   "inicioUtc": "2026-12-08T15:00:00.000Z",
+   "titulo": {
+    "pt": "Imaculada Conceição da Bem-Aventurada Virgem Maria - Ato de veneração à Imaculada",
+    "es": "Acto de veneración a la Inmaculada en la Plaza de España",
+    "en": "Solemnity of the Immaculate Conception of the Blessed Virgin Mary – Act of Veneration to the Immaculate Conception at the Spanish Steps"
+   },
+   "local": {
+    "pt": "Praça Espanha, Roma",
+    "es": "Plaza de España, Roma",
+    "en": "Spanish Steps"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/8/immacolata.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/8/immacolata.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/8/immacolata.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-9-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2026-12-09",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-12-09T09:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": null,
+    "es": "h.",
+    "en": "at  a.m."
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/9/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/9/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/9/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-13-angelus",
+   "tipo": "angelus",
+   "data": "2026-12-13",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-12-13T11:00:00.000Z",
+   "titulo": {
+    "pt": "Angelus",
+    "es": "Ángelus",
+    "en": "Angelus"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "St Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/13/angelus.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/13/angelus.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/13/angelus.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-13-parrocchia-santa-lucia",
+   "tipo": "missa",
+   "data": "2026-12-13",
+   "horaRoma": "17:00",
+   "inicioUtc": "2026-12-13T16:00:00.000Z",
+   "titulo": {
+    "pt": "III Domingo do Advento – Santa Missa",
+    "es": "III Domingo de Adviento – Santa Misa",
+    "en": "Third Sunday of Advent - Holy Mass"
+   },
+   "local": {
+    "pt": "Paróquia de Santa Lúcia, Roma",
+    "es": "Parroquia de Santa Lucía, Roma",
+    "en": "Parish of S. Lucia, Rome"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/13/parrocchia-santa-lucia.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/13/parrocchia-santa-lucia.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/13/parrocchia-santa-lucia.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-16-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2026-12-16",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-12-16T09:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": null,
+    "es": "h.",
+    "en": "at  a.m."
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/16/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/16/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/16/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-20-angelus",
+   "tipo": "angelus",
+   "data": "2026-12-20",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-12-20T11:00:00.000Z",
+   "titulo": {
+    "pt": "Angelus",
+    "es": "Ángelus",
+    "en": "Angelus"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro",
+    "en": "St Peter's Square"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/20/angelus.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/20/angelus.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/20/angelus.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-20-parrocchia-san-robertobellarmino",
+   "tipo": "missa",
+   "data": "2026-12-20",
+   "horaRoma": "17:00",
+   "inicioUtc": "2026-12-20T16:00:00.000Z",
+   "titulo": {
+    "pt": "IV Domingo do Advento – Santa Missa",
+    "es": "IV Domingo de Adviento – Santa Misa",
+    "en": "Fourth Sunday of Advent – Holy Mass"
+   },
+   "local": {
+    "pt": "Paróquia de São Roberto Belarmino, Roma",
+    "es": "Parroquia de S. Roberto Bellarmino, Roma",
+    "en": "Parish of S. Roberto Bellarmino, Rome"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/20/parrocchia-san-robertobellarmino.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/20/parrocchia-san-robertobellarmino.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/20/parrocchia-san-robertobellarmino.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-23-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2026-12-23",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-12-23T09:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": null,
+    "es": "h.",
+    "en": "at  a.m."
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/23/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/23/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/23/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-24-messa-notte-natale",
+   "tipo": "missa",
+   "data": "2026-12-24",
+   "horaRoma": "22:00",
+   "inicioUtc": "2026-12-24T21:00:00.000Z",
+   "titulo": {
+    "pt": "Natal do Senhor - Santa Missa na noite de Natal",
+    "es": "Natividad del Señor – Santa Misa de Nochebuena",
+    "en": "Solemnity of the Nativity of the Lord - Midnight Mass"
+   },
+   "local": {
+    "pt": "Basílica de São Pedro",
+    "es": "Basílica de San Pedro",
+    "en": "St Peter's Basilica"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/24/messa-notte-natale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/24/messa-notte-natale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/24/messa-notte-natale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-25-messa-natale",
+   "tipo": "missa",
+   "data": "2026-12-25",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-12-25T09:00:00.000Z",
+   "titulo": {
+    "pt": "Natal do Senhor – Santa Missa do dia",
+    "es": "Natividad del Señor - Santa Misa",
+    "en": "Solemnity of the Nativity of the Lord: Holy Mass during the Day"
+   },
+   "local": {
+    "pt": "Basílica de São Pedro",
+    "es": "Basílica de San Pedro",
+    "en": "St Peter’s Basilica"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/25/messa-natale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/25/messa-natale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/25/messa-natale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-25-urbi-et-orbi-natale",
+   "tipo": "urbi",
+   "data": "2026-12-25",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-12-25T11:00:00.000Z",
+   "titulo": {
+    "pt": "Natal do Senhor - Mensagem Urbi et Orbi",
+    "es": "Natividad del Señor - Bendición Urbi et Orbi",
+    "en": "Solemnity of the Nativity of the Lord - \"Urbi et Orbi\" blessing"
+   },
+   "local": {
+    "pt": "Balcão central da Basílica Vaticana",
+    "es": "Balcón central de la Basílica de San Pedro",
+    "en": "Central Loggia of the Vatican Basilica"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/25/urbi-et-orbi-natale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/25/urbi-et-orbi-natale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/25/urbi-et-orbi-natale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-26-angelus",
+   "tipo": "angelus",
+   "data": "2026-12-26",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-12-26T11:00:00.000Z",
+   "titulo": {
+    "en": "Angelus"
+   },
+   "local": {
+    "en": "St Peter's Square"
+   },
+   "link": {
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/26/angelus.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-27-angelus",
+   "tipo": "angelus",
+   "data": "2026-12-27",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-12-27T11:00:00.000Z",
+   "titulo": {
+    "pt": "Angelus",
+    "es": "Ángelus"
+   },
+   "local": {
+    "pt": "Praça de São Pedro",
+    "es": "Plaza de San Pedro"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/27/angelus.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/27/angelus.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-30-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2026-12-30",
+   "horaRoma": "10:00",
+   "inicioUtc": "2026-12-30T09:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": null,
+    "es": "h.",
+    "en": "at  a.m."
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/30/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/30/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/30/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-12-31-te-deum",
+   "tipo": "oracao",
+   "data": "2026-12-31",
+   "horaRoma": "17:00",
+   "inicioUtc": "2026-12-31T16:00:00.000Z",
+   "titulo": {
+    "pt": "Maria Santíssima Mãe de Deus - Primeiras Vésperas e Te Deum de Ação de Graças pelo ano que passou",
+    "es": "Santísima María, Madre de Dios – Primeras Vísperas y Te Deum en acción de gracias por el año transcurrido",
+    "en": "Solemnity of Mary, Mother of God - First Vespers and Te Deum in Thanksgiving for the past Year"
+   },
+   "local": {
+    "pt": "Basílica de São Pedro",
+    "es": "Basílica de San Pedro",
+    "en": "St Peter's Basilica"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/12/31/te-deum.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/12/31/te-deum.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/12/31/te-deum.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2027-1-1-madre-di-dio",
+   "tipo": "missa",
+   "data": "2027-01-01",
+   "horaRoma": "10:00",
+   "inicioUtc": "2027-01-01T09:00:00.000Z",
+   "titulo": {
+    "pt": "Solenidade de Maria Santíssima, Mãe de Deus – Santa Missa",
+    "es": "Celebración eucarística de la solemnidad de María Santísima, Madre de Dios",
+    "en": "Holy Mass on the Solemnity of Mary, Mother of God"
+   },
+   "local": {
+    "pt": "Basílica de São Pedro",
+    "es": "Basílica de San Pedro",
+    "en": "St Peter’s Basilica"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2027/1/1/madre-di-dio.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2027/1/1/madre-di-dio.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2027/1/1/madre-di-dio.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2027-1-6-epifania",
+   "tipo": "missa",
+   "data": "2027-01-06",
+   "horaRoma": "10:00",
+   "inicioUtc": "2027-01-06T09:00:00.000Z",
+   "titulo": {
+    "pt": "Solenidade da Epifania do Senhor – Santa Missa",
+    "es": "Solemnidad de la Epifanía del Señor – Santa Misa",
+    "en": "Solemnity of the Epiphany of the Lord – Holy Mass"
+   },
+   "local": {
+    "pt": "Basílica de São Pedro",
+    "es": "Basílica de San Pedro",
+    "en": "St Peter's Basilica"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2027/1/6/epifania.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2027/1/6/epifania.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2027/1/6/epifania.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2027-1-10-battesimo",
+   "tipo": "missa",
+   "data": "2027-01-10",
+   "horaRoma": "09:30",
+   "inicioUtc": "2027-01-10T08:30:00.000Z",
+   "titulo": {
+    "pt": "Festa do Batismo do Senhor - Celebração da Santa Missa e Batismo de algumas crianças",
+    "es": "Fiesta del Bautismo del Señor – Santa Misa y bautismo de algunos niños",
+    "en": "Feast of the Baptism of the Lord – Holy Mass and administration of the Sacrament of Baptism to some new-born babies"
+   },
+   "local": {
+    "pt": "Capela Sistina",
+    "es": "Capilla Sixtina",
+    "en": "Sistine Chapel"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2027/1/10/battesimo.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2027/1/10/battesimo.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2027/1/10/battesimo.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2027-1-13-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2027-01-13",
+   "horaRoma": "10:00",
+   "inicioUtc": "2027-01-13T09:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": "Sala Paulo VI",
+    "es": "Aula Pablo VI",
+    "en": "at  a.m"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2027/1/13/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2027/1/13/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2027/1/13/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2027-1-20-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2027-01-20",
+   "horaRoma": "10:00",
+   "inicioUtc": "2027-01-20T09:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": null,
+    "es": "h.",
+    "en": "at  a.m."
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2027/1/20/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2027/1/20/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2027/1/20/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2027-1-27-udienza-generale",
+   "tipo": "audiencia",
+   "data": "2027-01-27",
+   "horaRoma": "10:00",
+   "inicioUtc": "2027-01-27T09:00:00.000Z",
+   "titulo": {
+    "pt": "Audiência Geral",
+    "es": "Audiencia general",
+    "en": "General Audience"
+   },
+   "local": {
+    "pt": null,
+    "es": "h.",
+    "en": "at  a.m."
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2027/1/27/udienza-generale.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2027/1/27/udienza-generale.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2027/1/27/udienza-generale.html"
+   },
+   "papa": "leo-xiv"
+  }
+ ]
+}
