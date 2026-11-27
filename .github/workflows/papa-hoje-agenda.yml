@@ -2,6 +2,7 @@
 # A cada 6 h lê o calendário público do vatican.va (pt, es, en) e publica papa-hoje/agenda.json
 # no GitHub Pages: https://danielbarretomei-cell2.github.io/app-privacy-policies/papa-hoje/agenda.json
 # 1x por dia (06h17 UTC) também atualiza papa-hoje/viagens.json e papa-hoje/documentos.json.
+# Também roda quando o código do robô (ou este arquivo) muda, para testar na hora.
 # Só faz commit quando algo muda. Mexe apenas nesses 3 arquivos.
 name: Papa Hoje - agenda
 on:
@@ -9,6 +10,11 @@ on:
     - cron: '17 0,12,18 * * *'
     - cron: '17 6 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'papa-hoje/robo/**'
+      - '.github/workflows/papa-hoje-agenda.yml'
 permissions:
   contents: write
 concurrency:
@@ -28,7 +34,7 @@ jobs:
         env:
           AGENDA_OUT: papa-hoje/agenda.json
       - name: Ler viagens e documentos (1x por dia, às 06h UTC)
-        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '17 6 * * *'
+        if: github.event_name != 'schedule' || github.event.schedule == '17 6 * * *'
         run: node papa-hoje/robo/historico.js papa-hoje
       - name: Publicar se mudou
         run: |
