@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "geradoEm": "2026-11-26T22:12:41.852Z",
+ "geradoEm": "2026-11-27T08:40:22.267Z",
  "fonte": "vatican.va (calendário público de eventos)",
  "meses": [
   "2026-10",
@@ -424,29 +424,6 @@
    "papa": "leo-xiv"
   },
   {
-   "id": "2026-10-12-lettera-cardinale-re",
-   "tipo": "documento",
-   "data": "2026-10-12",
-   "horaRoma": "12:00",
-   "inicioUtc": "2026-10-12T10:00:00.000Z",
-   "titulo": {
-    "pt": "Carta do Santo Padre ao Cardeal Giovanni Battista Re, Decano emérito do Colégio Cardinalício",
-    "es": "Carta del Santo Padre al cardenal Giovanni Battista Re, decano emérito del Colegio Cardenalicio",
-    "en": "Letter of His Holiness to Cardinal Giovanni Battista Re, Dean Emeritus of the College of Cardinals"
-   },
-   "local": {
-    "pt": null,
-    "es": null,
-    "en": null
-   },
-   "link": {
-    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/12/lettera-cardinale-re.html",
-    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/12/lettera-cardinale-re.html",
-    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/12/lettera-cardinale-re.html"
-   },
-   "papa": "leo-xiv"
-  },
-  {
    "id": "2026-10-12-circolo-san-pietro",
    "tipo": "encontro",
    "data": "2026-10-12",
@@ -466,6 +443,29 @@
     "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/12/circolo-san-pietro.html",
     "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/12/circolo-san-pietro.html",
     "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/12/circolo-san-pietro.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-12-lettera-cardinale-re",
+   "tipo": "documento",
+   "data": "2026-10-12",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-12T10:00:00.000Z",
+   "titulo": {
+    "pt": "Carta do Santo Padre ao Cardeal Giovanni Battista Re, Decano emérito do Colégio Cardinalício",
+    "es": "Carta del Santo Padre al cardenal Giovanni Battista Re, decano emérito del Colegio Cardenalicio",
+    "en": "Letter of His Holiness to Cardinal Giovanni Battista Re, Dean Emeritus of the College of Cardinals"
+   },
+   "local": {
+    "pt": null,
+    "es": null,
+    "en": null
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/12/lettera-cardinale-re.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/12/lettera-cardinale-re.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/12/lettera-cardinale-re.html"
    },
    "papa": "leo-xiv"
   },
