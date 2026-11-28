@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "geradoEm": "2026-11-27T16:34:56.838Z",
+ "geradoEm": "2026-11-28T15:27:21.455Z",
  "fonte": "vatican.va (calendário público de eventos)",
  "meses": [
   "2026-10",
@@ -424,29 +424,6 @@
    "papa": "leo-xiv"
   },
   {
-   "id": "2026-10-12-circolo-san-pietro",
-   "tipo": "encontro",
-   "data": "2026-10-12",
-   "horaRoma": "12:00",
-   "inicioUtc": "2026-10-12T10:00:00.000Z",
-   "titulo": {
-    "pt": "Aos sócios do Círculo São Pedro",
-    "es": "Audiencia a los miembros del Círculo de San Pedro",
-    "en": "To the Members of the Circle of St Peter"
-   },
-   "local": {
-    "pt": "Sala da Bênção",
-    "es": "Aula de las Bendiciones",
-    "en": "Hall of Benediction"
-   },
-   "link": {
-    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/12/circolo-san-pietro.html",
-    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/12/circolo-san-pietro.html",
-    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/12/circolo-san-pietro.html"
-   },
-   "papa": "leo-xiv"
-  },
-  {
    "id": "2026-10-12-lettera-cardinale-re",
    "tipo": "documento",
    "data": "2026-10-12",
@@ -466,6 +443,29 @@
     "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/12/lettera-cardinale-re.html",
     "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/12/lettera-cardinale-re.html",
     "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/12/lettera-cardinale-re.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-10-12-circolo-san-pietro",
+   "tipo": "encontro",
+   "data": "2026-10-12",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-10-12T10:00:00.000Z",
+   "titulo": {
+    "pt": "Aos sócios do Círculo São Pedro",
+    "es": "Audiencia a los miembros del Círculo de San Pedro",
+    "en": "To the Members of the Circle of St Peter"
+   },
+   "local": {
+    "pt": "Sala da Bênção",
+    "es": "Aula de las Bendiciones",
+    "en": "Hall of Benediction"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/10/12/circolo-san-pietro.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/10/12/circolo-san-pietro.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/10/12/circolo-san-pietro.html"
    },
    "papa": "leo-xiv"
   },
@@ -2635,14 +2635,17 @@
    "inicioUtc": "2026-11-27T11:00:00.000Z",
    "titulo": {
     "pt": "Aos participantes no Congresso Nacional dos Assistentes Eclesiásticos do Centro Desportivo Italiano",
+    "es": "Participantes en el Congreso Nacional de Asistentes Eclesiásticos del Centro Deportivo Italiano",
     "en": "To the participants in the National Conference of Ecclesiastical Assistants of the Italian Sports Centre (Centro Sportivo Italiano)"
    },
    "local": {
     "pt": "Sala Clementina",
+    "es": "Sala Clementina",
     "en": "Clementine Hall"
    },
    "link": {
     "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/27/assistenti-csi.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/27/assistenti-csi.html",
     "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/27/assistenti-csi.html"
    },
    "papa": "leo-xiv"
@@ -2667,6 +2670,52 @@
     "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/27/parrocchia-sant-andrea-dellefratte.html",
     "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/27/parrocchia-sant-andrea-dellefratte.html",
     "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/27/parrocchia-sant-andrea-dellefratte.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-28-sant-agostino",
+   "tipo": "encontro",
+   "data": "2026-11-28",
+   "horaRoma": "11:30",
+   "inicioUtc": "2026-11-28T10:30:00.000Z",
+   "titulo": {
+    "pt": "Aos participantes na Conferência Internacional sobre Santo Agostinho",
+    "es": "Participantes en la Conferencia Internacional sobre San Agustín",
+    "en": "To participants in the International Conference on Saint Augustine"
+   },
+   "local": {
+    "pt": "Sala Clementina",
+    "es": "Sala Clementina",
+    "en": "Clementine Hall"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/28/sant-agostino.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/28/sant-agostino.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/28/sant-agostino.html"
+   },
+   "papa": "leo-xiv"
+  },
+  {
+   "id": "2026-11-28-ufficiali-cm",
+   "tipo": "missa",
+   "data": "2026-11-28",
+   "horaRoma": "12:00",
+   "inicioUtc": "2026-11-28T11:00:00.000Z",
+   "titulo": {
+    "pt": "Aos oficiais do Corpo de Comissariado Militar Marítimo, com os seus familiares",
+    "es": "Oficiales del Cuerpo de Comisariado Militar Marítimo, junto con sus familiares",
+    "en": "To officers of the Italian Navy's Military Commissariat Corps, accompanied by their family members"
+   },
+   "local": {
+    "pt": "Sala da Bênção",
+    "es": "Aula de las Bendiciones",
+    "en": "Hall of Benediction"
+   },
+   "link": {
+    "pt": "https://www.vatican.va/content/leo-xiv/pt/events/event.dir.html/content/vaticanevents/pt/2026/11/28/ufficiali-cm.html",
+    "es": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/11/28/ufficiali-cm.html",
+    "en": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/28/ufficiali-cm.html"
    },
    "papa": "leo-xiv"
   },
